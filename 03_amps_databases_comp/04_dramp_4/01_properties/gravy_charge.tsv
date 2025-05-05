@@ -1,0 +1,408 @@
+sequence	GRAVY index
+>DRAMP00181|Lactococcin-A (LCN-A; Bacteriocin)|Antimicrobial, Antibacterial|1901707##1904860	-0.24444444444444446
+>DRAMP00182|Thuricin-S (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-|17496978	0.9866666666666667
+>DRAMP00183|Thuricin-17 (Thurincin H; Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|1908301##216478494##19732155##21786372	0.964516129032258
+>DRAMP00184|Lactococcin 972 (Lcn972; homodimer; Bacteriocin)|Antimicrobial, Antibacterial|10589723##21818877##PubMed ID is not available	-0.9818181818181818
+>DRAMP00185|Leucocin-B (Leu B; Leucocin B-TA33a; Bacteriocin)|Antimicrobial, Antibacterial|9611809	-0.970967741935484
+>DRAMP00186|LSEI_2163 (m2163; Bacteriocin; Predicted)|Antimicrobial, Antibacterial, Anti-Gram-|22688903	-0.3333333333333333
+>DRAMP00187|LSEI_2386 (m2386; Bacteriocin; Predicted)|Antimicrobial, Antibacterial, Anti-Gram-|22688903	-0.6863636363636364
+>DRAMP00188|Enterocin RJ-11 (EntRJ-11; Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|14532021	0.06363636363636363
+>DRAMP00189|Leucocin Q (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|20070442	-0.8548387096774194
+>DRAMP00190|Leucocin N (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|20070442	-0.743859649122807
+>DRAMP00191|Microcin J25 (MccJ25; Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram-|1429464##10092860##14531690##14531661	0.3999999999999999
+>DRAMP00192|Microcin C7 (MccC7; Microcin C51, MccC51; Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram-|17827970##17711420##19494832	-1.2714285714285716
+>DRAMP00193|Microcin B17 (MccB17; Bacteriocin)|Antimicrobial, Antibacterial|1846808##3329729	-0.13255813953488374
+>DRAMP00194|Capistruin (Bacteriocin)|Antimicrobial, Antibacterial|18671394	-0.37894736842105264
+>DRAMP00195|Colicin-V (Microcin-V; Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram-|8204625##7952189##2249654	-0.0034090909090909237
+>DRAMP00196|Microcin L (MccL; Bacteriocin; Predicted)|Antimicrobial, Antibacterial, Anti-Gram-|14742202##12897830	0.11444444444444445
+>DRAMP00197|Microcin 24 (Mcc24; Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram-|PubMed ID is not available	-0.03378378378378379
+>DRAMP00198|Microcin H47 (MccH47; Bacteriocin)|Antimicrobial, Antibacterial|10471561##11181394	0.8366666666666667
+>DRAMP00199|Microcin I47 (MccI47; Bacteriocin)|Antimicrobial, Antibacterial|16569859	-0.2516129032258065
+>DRAMP00200|Microcin M (MccM; Bacteriocin)|Antimicrobial, Antibacterial|PubMed ID is not available	0.08181818181818179
+>DRAMP00201|Amythiamicin A/B (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|8040071	1.1071428571428572
+>DRAMP00202|Thiocillin (Bacteriocin)|Antimicrobial, Antibacterial|819410##7328054	1.0071428571428571
+>DRAMP00203|Thiocillin GE2270 (Antibiotic GE2270; Bacteriocin)|Antimicrobial, Antibacterial|1908853	1.0071428571428571
+>DRAMP00204|Thiocillin GE37468 (Antibiotic GE37468; Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|21788474	0.7928571428571428
+>DRAMP00205|Tricyclic peptide RP 71955 (Bacteriocin)|Antimicrobial, Antiviral|8270499##8286361	1.1571428571428573
+>DRAMP00206|Acidocin A (Bacteriocin; Predicted)|Antimicrobial, Antibacterial, Anti-Gram+|7793908	-0.2982758620689655
+>DRAMP00207|Acidocin B (Bacteriocin; Predicted)|Antimicrobial, Antibacterial, Anti-Gram+|7551031	1.0362068965517242
+>DRAMP00208|Acidocin 8912 (Bacteriocin)|Antimicrobial, Antibacterial|8554765##1368836	-1.0115384615384615
+>DRAMP00209|Fulvocin C (Bacteriocin)|Unknown|6783114	0.24888888888888888
+>DRAMP00211|Sublancin-168 (Bacteriocin)|Unknown|10376821	0.24054054054054055
+>DRAMP00212|Rhamnosin A (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|19796123	-0.46923076923076923
+>DRAMP00213|Lactocin S (Bacteriocin)|Antimicrobial, Antibacterial|1872611##7961627	0.5756756756756757
+>DRAMP00214|Lactococcin K (Bacteriocin)|Antimicrobial, Antibacterial|16614924	0.25909090909090904
+>DRAMP00215|Enterocin E-760 (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|18086839	-0.1774193548387097
+>DRAMP00216|Antimicrobial peptide LCI (Bacteriocin)|Antimicrobial, Antibacterial|PubMed ID is not available##21449609	-0.35106382978723405
+>DRAMP00217|Bacteriocin|Antimicrobial, Antibacterial|PubMed ID is not available	0.7625
+>DRAMP00218|Plantazolicin (PZN; Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|20971906	0.45
+>DRAMP00219|PlnA-22 (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|15805109	-0.3318181818181818
+>DRAMP00220|PlnA-17 (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|15805109	-0.4352941176470588
+>DRAMP00221|Carnobacteriocin-A (Piscicolin-61; Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|8012574##7764997	0.25849056603773585
+>DRAMP00222|Microcin E492 (MccE492; Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram-|12890026##15102848##7682973	0.06547619047619045
+>DRAMP00224|BTL (Bacteriocin)|Antimicrobial, Antifungal|18241956	-0.26
+>DRAMP00225|Bacteriocin UviB|Antimicrobial, Antibacterial|2901768##2460717	-0.6062500000000001
+>DRAMP00226|Bioactive peptide 3 (BAP3; Curvalicin-28c; Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|PubMed ID is not available	-0.5444444444444445
+>DRAMP00227|Bioactive peptide 2 (BAP2;Curvalicin-28b; Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|PubMed ID is not available	0.5777777777777777
+>DRAMP00228|Bioactive peptide 1 (BAP1; Curvalicin-28a; Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|PubMed ID is not available	-0.1416666666666667
+>DRAMP00229|Bacteriocin plantarican ASM1 (PASM1; Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|19939484	-0.24186046511627912
+>DRAMP00230|Lariatins A (lasso peptide; Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|16756302	-0.41111111111111115
+>DRAMP00231|Lariatins B (lasso peptide; Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|16756302	-0.47000000000000003
+>DRAMP00232|Cypemycin (Bacteriocin)|Antimicrobial, Antibacterial|7802859	1.1090909090909091
+>DRAMP00233|Lichenin (Bacteriocin-like)|Antimicrobial, Antibacterial|11576300##15881839	0.7363636363636363
+>DRAMP00234|Trifolitoxin (TFX; Bacteriocin)|Antimicrobial, Antibacterial|8509324	-0.04545454545454544
+>DRAMP00235|AFP1 (Bacteriocin)|Antimicrobial, Antifungal|10601197##11350173	-0.403448275862069
+>DRAMP00236|Halocin-S8 (HalS8; Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|10940040	0.5638888888888889
+>DRAMP00237|Halocin-C8 (HalC8; Bacteriocin)|Antimicrobial, Antibacterial|12811620	0.3266666666666667
+>DRAMP00238|Curvaticin FS47 (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|8031103	0.9527777777777777
+>DRAMP00239|Enterocin NKR-5-3D (Bacteriocin)|Antimicrobial, Antibacterial|22738965	0.10740740740740738
+>DRAMP00240|Pep27 (Bacteriocin)|Antibacterial, Anti-cancer, Antimicrobial|16004618	-1.2925925925925925
+>DRAMP00241|Brevicin 27 (Bacteriocin)|Antimicrobial|9009071	0.06400000000000004
+>DRAMP00242|Subpeptin JM4-B (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|16211432	-1.0
+>DRAMP00243|Subpeptin JM4-A (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|16211432	-0.7444444444444445
+>DRAMP00244|Hominicin (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|20654578	0.9315789473684211
+>DRAMP00245|Gramicidin A (GA; Nonribosomally synthesized bacteriocin)|Antimicrobial, Antbacterial, Antiviral|19870884##8810522	2.106666666666667
+>DRAMP00246|Gramicidin B (GB; Bacteriocin)|Antimicrobial, Antbacterial, Antiviral|11570868	2.353333333333333
+>DRAMP00247|Gramicidin C (GC; Bacteriocin)|Antimicrobial, Antbacterial, Antiviral|11570868	2.08
+>DRAMP00248|Glycocin F (GccF; S-glycosylated bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|21395300##21251913	-0.31860465116279074
+>DRAMP00249|Pln149 (Plantaricin 149; Bacteriocin; Derivatives: Pln149a)|Antimicrobial, Antibacterial, Antifungal|17266050	-0.4454545454545455
+>DRAMP00250|Bacteriocin serracin-P 43 kDa subunit (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram-|12406768	-0.43333333333333335
+>DRAMP00251|Bacteriocin serracin-P 23 kDa subunit (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram-|12406768	0.09999999999999996
+>DRAMP00252|AdDLP (A. dehalogenans defensin-like peptide; Bacteriocin)|Antibacterial, Antifungal, Antiparasitic, Antimicrobial|19615342	-0.3254901960784314
+>DRAMP00253|Ipomicin (Bacteriocin)|Antimicrobial, Antibacterial|12676701	-0.4041666666666666
+>DRAMP00254|Propionicin-F (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|15574930	1.197674418604651
+>DRAMP00256|Divergicin 750 (Bacteriocin; Predicted)|Antimicrobial|8869500	0.14117647058823532
+>DRAMP00257|Bacteriocin (Predicted)|Antimicrobial|9835559	-0.01960784313725492
+>DRAMP00258|Lacticin Z (Bacteriocin; Predicted)|Antimicrobial|17690480	0.2754716981132076
+>DRAMP00259|Bacteriocin boticin B (Predicted)|Antimicrobial|11097932	0.762
+>DRAMP00260|Bacteriocin (Class IIa sec-dependent bacteriocin; Predicted)|Antimicrobial|16820469	-0.6361111111111111
+>DRAMP00261|Antiviral lectin scytovirin (SVN)|Antimicrobial, Antiviral|12614152##16647158##17965185	-1.1
+>DRAMP00263|Bacteriocin cerein 7B (Predicted)|Antimicrobial|16451187	0.7285714285714285
+>DRAMP18195|LsbB (Bacteriocin)|Antimicrobial, Antibacterial|12801935##24993828	-0.6833333333333333
+>DRAMP18204|Labyrinthopeptin A1(Bacteriocin)|Antimicrobial, Antiviral, Anti-HIV, Anti-HSV|23724015	0.38
+>DRAMP18205|Labyrinthopeptin A2 (Bacteriocin)|Antimicrobial, Antiviral|20191635	0.5055555555555555
+>DRAMP18206|Deoxyactagardine B(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|23168402	1.368421052631579
+>DRAMP18207|Actagardine B(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|23168402	1.368421052631579
+>DRAMP18208|NAI-112(Bacteriocin)|Antimicrobial, Antibacterial, Antinociceptive, Antiallodynic, Anti-Gram+|24191663	0.11363636363636362
+>DRAMP18209|NAI-802 (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|23168402	1.019047619047619
+>DRAMP18210|Amythiamicin C/D(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+, Antiparasitic|8040071##7961166##16262432	1.4916666666666665
+>DRAMP18211|Anacyclamide A10(Bacteriocin)|Antimicrobial, Antibacterial|PubMed ID is not available	-0.6799999999999999
+>DRAMP18212|Amylocyclicin(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|24610713	0.85
+>DRAMP18213|Gramicidin S(Bacteriocin)|Antimicrobial, Antibacterial, Antifungal, Anti-Gram+, Anti-Gram-|8836773##24388950	1.06
+>DRAMP18214|Cerecidin A1(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|24532070	1.26
+>DRAMP18215|Cerecidin A7(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|24532070	1.42
+>DRAMP18216|Cerein 7A(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|16451187##10971770	1.024074074074074
+>DRAMP18217|Licheniocin 50.2(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|2423832	-1.0785714285714285
+>DRAMP18218|Fusaricidin A (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+, Antifungal|8621351##23185515	0.8833333333333334
+>DRAMP18219|Fusaricidin B (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+, Antifungal|9127193##23185515	0.8833333333333334
+>DRAMP18220|Fusaricidin C (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+, Antifungal|9127193##23185515	-0.03333333333333329
+>DRAMP18221|Fusaricidin D (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+, Antifungal|9127193##23185515	-0.03333333333333329
+>DRAMP18222|PseA(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|25769830	-0.15000000000000002
+>DRAMP18223|Sonorensin(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-|24610839	0.15263157894736837
+>DRAMP18224|Ala-6-fenycin (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+, Antiviral|25477947	-1.3
+>DRAMP18225|Subtilosin A1 (Bacteriocin)|Antimicrobial, Antibacterial|19633086	0.84
+>DRAMP18226|Gageostatin A (Bacteriocin)|Antimicrobial, Antibacterial, Antifungal, Anti-Gram+, Anti-Gram-|24492520	1.7714285714285711
+>DRAMP18227|Gageostatin B (Bacteriocin)|Antimicrobial, Antibacterial, Antifungal, Anti-Gram+, Anti-Gram-|24492520	1.7714285714285711
+>DRAMP18228|Gageostatin C (Bacteriocin)|Antimicrobial, Antibacterial, Antifungal, Anti-Gram+, Anti-Gram-|24492520	1.7714285714285711
+>DRAMP18236|NRWC(Bacteriocin)|Antimicrobial, Antibacterial|23519163	-1.0222222222222221
+>DRAMP18237|Fengycin A(Bacteriocin)|Antimicrobial, Antibacterial, Antifungal, Anti-Gram+, Anti-Gram-|22847390	-1.3
+>DRAMP18238|Fengycin B(Bacteriocin)|Antimicrobial, Antibacterial, Antifungal, Anti-Gram+, Anti-Gram-|22847390	-1.06
+>DRAMP18239|Fengycin A2(Bacteriocin)|Antimicrobial, Antibacterial, Antifungal, Anti-Gram+, Anti-Gram-|22847390	-1.33
+>DRAMP18240|Fengycin C(Bacteriocin)|Antimicrobial, Antibacterial, Antifungal, Anti-Gram+, Anti-Gram-|22847390	-1.06
+>DRAMP18241|Subtilomycin(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-|23736764	0.08750000000000001
+>DRAMP18242|Fengycin B2 (Bacteriocin)|Antimicrobial, Antibacterial, Antifungal, Anti-Gram+, Anti-Gram-|24312083##22847390	-1.09
+>DRAMP18243|Ticin A1(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|26231642	0.36904761904761907
+>DRAMP18244|Ticin A3(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|26231642	0.37857142857142856
+>DRAMP18245|Ticin A4(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|26231642	0.36904761904761907
+>DRAMP18246|Thuricin 439A,439B(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|12644238	1.2352941176470589
+>DRAMP18247|Bacthuricin F4(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-|15752334	-0.5
+>DRAMP18248|Bifidin I(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-|PubMed ID is not available	-0.5
+>DRAMP18249|Bac-GM100  (Bacteriocin)|Antimicrobial, Antibacterial, Antifungal, Anti-Gram+, Anti-Gram-|23291759	0.47619047619047616
+>DRAMP18250|Laterosporulin (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-|22403615##25345978	-0.442
+>DRAMP18251|Carnolysin A1(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|24412962	0.7022222222222223
+>DRAMP18252|Carnolysin A2(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|24412962	0.5387096774193548
+>DRAMP18253|Piscicocin CS526(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-|15640235##15836484	-0.41025641025641024
+>DRAMP18255|Circularin A(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|12620847##14532033	1.0072463768115942
+>DRAMP18256|Boticin B (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|11097932	0.9846153846153846
+>DRAMP18258|Closticin 574(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|12620847	0.3890243902439024
+>DRAMP18259|Enterocin O16 (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|25733609	0.6220588235294118
+>DRAMP18260|Bacteriocin 31 (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|8655558	-0.6906976744186046
+>DRAMP18261|Enterocin 7B (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|21469734##23725536	-0.10930232558139537
+>DRAMP18262|Enterocin 7A(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|16751538##23725536	0.20227272727272727
+>DRAMP18263|Enterocin W alpha(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|22138996	-0.41333333333333333
+>DRAMP18264|Enterocin W beta(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|22138996	0.803448275862069
+>DRAMP18265|Enterocin RM6 (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|23844357	0.5385714285714286
+>DRAMP18266|Bacteriocin T8(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|16820469##17088377	-0.6361111111111111
+>DRAMP18267|BacFL31(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+, Antilisterial|24583094	-1.1347826086956523
+>DRAMP18268|Enterocin NKR-5-3C(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|25149515	0.10697674418604651
+>DRAMP18269|Enterocin NKR-5-3A(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|25149515	0.7779661016949152
+>DRAMP18270|Enterocin NKR-5-3Z(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|25149515	0.6418604651162791
+>DRAMP18271|NKR-5-3B(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|26174911	0.953125
+>DRAMP18272|Enterocin AS-48RJ (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-|16094865	0.6585714285714286
+>DRAMP18273|Enterocin CRL35 (Bacteriocin)|Antibacterial, Antiviral, Anti-Gram+, Antimicrobial|10493605##11040432	-0.2534883720930233
+>DRAMP18276|HalR1(Bacteriocin)|Archaeolytic|11938468	0.6157894736842104
+>DRAMP18277|Halocin C8 (Bacteriocin)|Antimicrobial, Antibacterial|12811620##15978083	0.8855263157894736
+>DRAMP18278|BacSJ(Bacteriocin)|Unknown|PubMed ID is not available	-0.688
+>DRAMP18279|Plantaricin A(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|8245827	-0.2391304347826087
+>DRAMP18280|Plantaricin 163 (Bacteriocin)|Antimicrobial, Antibacterial|24228753	-0.9875
+>DRAMP18281|Plantaricin KL-1Y (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-|25862353	-0.7666666666666667
+>DRAMP18282|Plantaricin ZJ008 (Bacteriocin)|Antimicrobial, Antibacterial|25038669	-1.1199999999999999
+>DRAMP18283|Plantaricin ZJ5 (Bacteriocin)|Antimicrobial, Antibacterial|25147943	-0.14090909090909093
+>DRAMP18284|Reutericin 6 (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|PubMed ID is not available	0.996551724137931
+>DRAMP18285|Bacteriocin LS2 (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|22739096	0.45121951219512196
+>DRAMP18286|Blp1a(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|22739096	0.580281690140845
+>DRAMP18287|Blp1b(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|22739096	-0.04202898550724639
+>DRAMP18288|Sln1 (Bacteriocin)|Antimicrobial, Antibacterial|17416691	0.88
+>DRAMP18289|Bactofencin A (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|24169573	-1.5227272727272727
+>DRAMP18290|Garvicin A (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|23666326	-0.3790697674418605
+>DRAMP18291|Garviecin LG34(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-|PubMed ID is not available	-0.33913043478260874
+>DRAMP18292|LsbA(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|12801935	0.475
+>DRAMP18293|Bacteriocin J46 (Bacteriocin)|Unknown|8588891	0.29259259259259257
+>DRAMP18294|lactococcin Z(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-|26093857	-0.7933333333333333
+>DRAMP18295|Leucocin H alpha(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|10387116	0.7052631578947368
+>DRAMP18296|Leucocin H beta(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|10387116	0.76
+>DRAMP18297|Patellamide D(Bacteriocin)|Unknown|2724305	2.6125
+>DRAMP18298|Listeriolysin S(Bacteriocin)|Unknown|18787690	0.691304347826087
+>DRAMP18299|Taromycin A (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|24449899	-1.6538461538461537
+>DRAMP18301|nocathiacin I(Bacteriocin)|Antimicrobial, Antibacterial|20473441	0.2769230769230769
+>DRAMP18302|GE2270A(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|PubMed ID is not available	0.94375
+>DRAMP18303|Paenicidin A (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|23167271##24382692	0.675
+>DRAMP18304|Paenicidin A (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|23167271	0.675
+>DRAMP18305|Paenibacterin (Bacteriocin)|Antimicrobial, Antibacterial|22367082	0.16153846153846158
+>DRAMP18306|Pediocin ACCEL(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|14995112	-1.02
+>DRAMP18307|LMW peptide (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|25158757	0.75625
+>DRAMP18308|Planosporicin(Bacteriocin)|Antimicrobial, Antibacterial|17469849	0.18749999999999997
+>DRAMP18309|Baceridin(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|24692199	2.8666666666666667
+>DRAMP18310|Patellamide A(Bacteriocin)|Unknown|15883371	2.6125
+>DRAMP18311|Patellamide C(Bacteriocin)|Unknown|15883371	2.1125
+>DRAMP18312|Propionicin PLG-1(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antifungal|11010864	0.5282828282828282
+>DRAMP18313|Sclerosin(Bacteriocin)|Antimicrobial, Antibacterial|22838838	1.2727272727272727
+>DRAMP18314|Aureocin A70 (AurA)(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|11531330	0.529032258064516
+>DRAMP18315|Aureocin A70 (AurB)(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|11531330	0.7066666666666667
+>DRAMP18316|Aureocin A70 (AurC)(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|11531330	0.5516129032258064
+>DRAMP18317|Aureocin A70 (AurD)(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|11531330	0.6322580645161291
+>DRAMP18318|BacCH91(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|23196985	0.5590909090909091
+>DRAMP18319|BsaA2(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|20023032	0.33636363636363636
+>DRAMP18320|Epilancin 15X(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|15792796##21802007	-0.022580645161290325
+>DRAMP18321|Epidermicin NI01(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|22155816	-0.04509803921568629
+>DRAMP18322|Hominicin (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|20654578	1.2714285714285714
+>DRAMP18323|Nukacin ISK-1(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|11193411##20627619	-0.011111111111111125
+>DRAMP18324|Warnericin RK (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram-|18339450##19804724	0.20909090909090908
+>DRAMP18325|delta-lysin I (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-|18339450	0.584
+>DRAMP00021|HalA2 (one chain of haloduracin; Bacteriocin)|Antimicrobial, Antibacterial|17085596	0.5125000000000001
+>DRAMP00022|Staphylococcin C55alpha (SacAalpha; chain alpha of Staphylococcin C55; Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|9835565##10417203	-0.6333333333333333
+>DRAMP00023|Staphylococcin C55beta (SacAbeta; chain beta of Staphylococcin C55; Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|9835565##10417203	0.565625
+>DRAMP00024|CylLS (a structural subunit of cytolysin; Bacteriocin)|Antimicrobial, Antibacterial|8898386	1.2142857142857142
+>DRAMP00025|CylLL (a structural subunit of cytolysin; Bacteriocin)|Antimicrobial, Antibacterial|8898386	1.181578947368421
+>DRAMP00026|Salivaricin A (SalA; Bacteriocin; Preclinical)|Antimicrobial, Antibacterial|8357242	0.19545454545454544
+>DRAMP00027|Salivaricin B (SboB; Bacteriocin; Preclinical)|Antimicrobial, Antibacterial|17194838	0.176
+>DRAMP00028|Lantibiotic epidermin (Bacteriocin)|Antimicrobial, Antibacterial|2835685##3769923	0.4272727272727273
+>DRAMP00029|Streptococcin A-FF22 (Antibacterial peptide SA-FF22; Bacteriocin)|Antimicrobial, Antibacterial|8328813##8125103	0.11153846153846152
+>DRAMP00031|Lantibiotic carnocin-UI49 (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|1622206	-1.4000000000000001
+>DRAMP00032|Ruminococcin A (RumA; Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|11526013##11741840##12089024	0.08749999999999997
+>DRAMP00033|Lantibiotic epilancin 15X (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|15792796	0.0033333333333333327
+>DRAMP00034|Lantibiotic epilancin K7 (Bacteriocin)|Antimicrobial, Antibacterial|7607233	0.0870967741935484
+>DRAMP00035|Lantibiotic paenibacillin (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|17071789##18625234	0.5399999999999999
+>DRAMP00036|Nisin A (Bacteriocin; Preclinical)|Antimicrobial, Antibacterial, Anti-Gram+|3141403##5131162##1575686	0.41470588235294115
+>DRAMP00037|Nisin Z (Bacteriocin; Preclinical)|Antimicrobial, Antibacterial, Anti-Gram+|1935953##7626780##15361862	0.4058823529411764
+>DRAMP00038|Nisin U (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|16461661	0.4483870967741935
+>DRAMP00039|Pep5 (Bacteriocin)|Antimicrobial, Antibacterial|2764678##7556197	-0.3558823529411765
+>DRAMP00040|Gallidermin (Bacteriocin; Preclinical)|Antimicrobial, Antibacterial|3181159	0.39545454545454545
+>DRAMP18326|Bovicin 255(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|11157218	-0.05833333333333332
+>DRAMP18327|Sil(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|24781647	-0.6934210526315789
+>DRAMP18328|Pneumococin M(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|17074857	0.4672131147540984
+>DRAMP18329|Pneumococin N(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|17074857	0.790625
+>DRAMP18330|streptolysin S(Bacteriocin)|Unknown|18787690	0.11999999999999998
+>DRAMP18331|Antibacterial peptide A-M49 (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|7993103	0.11153846153846152
+>DRAMP18332|BHT-Aa(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|16194596##18220976	0.4032258064516129
+>DRAMP18333|BHT-Ab(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|16194596##18220976	0.9633333333333334
+>DRAMP18334|BHT-B (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|16194596	0.2409090909090909
+>DRAMP18335|Salivaricin G32(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|22567013##23122510	0.27199999999999996
+>DRAMP18336|Thermophilin 1277 (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|17381740	0.296969696969697
+>DRAMP18337|S. amritsarensis lipopeptide (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|25006539	-1.6500000000000001
+>DRAMP18338|Thiocillin GE37468 (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-|21788474	0.7928571428571428
+>DRAMP18339|Anantin(Bacteriocin)|Unknown|PubMed ID is not available##PubMed ID is not available	-0.07647058823529418
+>DRAMP18340|Daptomycin(Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|3024560	-1.853846153846154
+>DRAMP18341|Daptomycin(Bacteriocin)|Unknown|3024560	-1.853846153846154
+>DRAMP18342|BI-32169(Bacteriocin)|Unknown|2004391##15387654	-0.19473684210526318
+>DRAMP18343|BI-32169(Bacteriocin)|Antidiabetic|15387654	-0.19473684210526318
+>DRAMP18344|Tricyclic peptide RP 71955 (Bacteriocin)|Antiviral, Anti-HIV, Antimicrobial|8270499	1.1571428571428573
+>DRAMP18345|Tricyclic peptide RP 71955 (Bacteriocin)|Antiviral, Anti-HIV, Antimicrobial|8270499	1.1571428571428573
+>DRAMP18346|Legonaridin(Bacteriocin)|Unknown|26256511	0.4621621621621622
+>DRAMP18347|Siamycin(Bacteriocin)|Antiviral, Anti-HIV, Antimicrobial|8619594	1.1571428571428573
+>DRAMP18348|RES-701-1(Bacteriocin)|Unknown|PubMed ID is not available	-0.9187500000000001
+>DRAMP18349|Siamycin I (Bacteriocin)|Antiviral, Anti-HIV, Antimicrobial|8557614	1.1428571428571428
+>DRAMP18350|Siamycin II(Bacteriocin)|Antiviral, Anti-HIV, Antimicrobial|7787424	1.1714285714285713
+>DRAMP18351|Trichamide(Bacteriocin)|Unknown|16751554	-0.4454545454545455
+>DRAMP18352|Durancin GL (bacteriocin)|Antimicrobial, Antibacterial|22493306	-0.6581395348837209
+>DRAMP18353|Durancin L28-1A (bacteriocin)|Antimicrobial, Antibacterial|15892738	-0.975
+>DRAMP18354|Hyicin 3682 (bacteriocin)|Antimicrobial, Antibacterial|28285660	0.4227272727272727
+>DRAMP18355|Lacticin Z (bacteriocin)|Antimicrobial, Antibacterial|17690480	-0.01960784313725492
+>DRAMP18356|BacSP222 (bacteriocin)|Antibacterial, Mammalian cells, Antimicrobial|26411997	-0.30400000000000005
+>DRAMP18357|Warnerin (bacteriocin)|Antimicrobial, Antibacterial|19361283	0.026666666666666693
+>DRAMP18654|dPSM|Antimicrobial, Antibacterial, Anti-Gram+|22371493	0.4875
+>DRAMP18655|dPSM|Antimicrobial, Antibacterial, Anti-Gram+|22371493	1.5176470588235293
+>DRAMP18656|Microcin 7 (Bacteriocin; Escherichia coli, Bacteria)|Antimicrobial, Antibacterial, Anti-Gram-|2861788	-1.2714285714285716
+>DRAMP18657|Chitinase (Bacteriocin; Streptomyces violaceusniger, Bacteria)|Antimicrobial, Antifungal|22915152	-1.1
+>DRAMP20762|Halocin S8 (HalS8, Halocin-S8; Microhalocin, Archaeocin, Bacteriocin, Archaea, Euryarchaeota, Prokaryote|Antimicrobial, Antibacterial|10940040##11114928	0.5638888888888889
+>DRAMP20763|Halocin C8 (HalC8, Halocin-C8; Microhalocins, Archaeocin, Bacteriocin, Archaea, Euryarchaeota, Prokaryot|Antimicrobial, Antibacterial|12811620	0.8855263157894736
+>DRAMP20764|Halocin R1 (HalR1, Halocin-R1; Microhalocins, Archaeocin, Bacteriocin, Archaea, Euryarchaeota, Prokaryot|Antimicrobial, Antibacterial|11938468##11114928	0.7684210526315789
+>DRAMP20765|Halocin A4 (HalA4, Halocin-A4, Halocin U1; Microhalocins, Archaeocin, Bacteriocin, Archaea, Euryarchaeot|Antimicrobial, Antibacterial|11114928	0.7955882352941177
+>DRAMP18358|Sh-lantibiotic-beta (bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|28228596	0.19210526315789475
+>DRAMP18359|Sh-lantibiotic-alpha (bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|28228596	-0.12000000000000002
+>DRAMP18360|Paenicidin B (bacteriocin)|Antimicrobial, Antibacterial|24382692	0.8388888888888889
+>DRAMP18361|YD1 (bacteriocin)|Antimicrobial, Antibacterial|28050849	-0.93
+>DRAMP18362|Formicin (bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|27450592	-0.8214285714285714
+>DRAMP18363|Sviceucin (bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|26343290	0.975
+>DRAMP18364|Thuricin 4A-4 (bacteriocin)|Antimicrobial, Antibacterial|25548056	0.32962962962962966
+>DRAMP18365|Thusin (ThsA1, ThsA2; a two-chain lantibiotic, type 2, class 1 bacteriocins)|Antimicrobial, Antibacterial|27486447	-0.14473684210526314
+>DRAMP18366|Sungsanpin (a class 2 lasso peptide; bacteriocins)|Anti-cancer|23662937	0.27999999999999997
+>DRAMP18367|Chaxapeptin (a class 2 lasso peptide; class 1 microcin, bacteriocins)|Antimicrobial, Antibacterial, Anti-Gram+, Anti-cancer|26402731	0.23333333333333325
+>DRAMP18368|Bacteriocin TSU4 (bacteria, prokaryotes)|Antimicrobial, Antibacterial|26245257	-1.03
+>DRAMP00041|Mutacin-1140 (Mutacin III; Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|11082191	0.004545454545454514
+>DRAMP00042|Bacteriocin mutacin B-Ny266 (Preclinical)|Antimicrobial, Antibacterial, Anti-Gram+|9237644	-0.013636363636363663
+>DRAMP00043|Bacteriocin nukacin (Nukacin KQ-1; Nukacin KQU-131)|Antimicrobial, Antibacterial|18685189	-0.09259259259259262
+>DRAMP00044|Bacteriocin nukacin (Nukacin 3299; Simulancin 3299)|Antimicrobial, Antibacterial|20627619	-0.011111111111111125
+>DRAMP00046|Lantibiotic streptin (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|11328600##12732544##11296296##16088826	0.22727272727272727
+>DRAMP00047|Streptin 1 (Bacteriocin)|Antimicrobial, Antibacterial|12732544	0.39999999999999997
+>DRAMP00048|Lantibiotic subtilin (Bacteriocin)|Antimicrobial, Antibacterial|4154277	0.190625
+>DRAMP00049|Bacteriocin lacticin-481 (Lactococcin-DR)|Antimicrobial, Antibacterial, Anti-Gram+|16348628##8344922##8764998	0.05185185185185183
+>DRAMP00051|Mutacin I (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|10919773##11133423	0.46249999999999997
+>DRAMP00052|Mutacin-2 (Mutacin II mutacin H-29B; Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-|10821848##8592997##16626493##8021218	-0.3592592592592592
+>DRAMP00053|Nisin F (Bacteriocin; Perclinical)|Antimicrobial, Antibacterial, Anti-Gram+|18039827	0.39705882352941174
+>DRAMP00054|Nisin Q (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|12913315	0.5235294117647059
+>DRAMP00055|Bacteriocin 97518|Antimicrobial, Antibacterial, Anti-Gram-|17469849	0.16249999999999998
+>DRAMP00056|Bacteriocin ancovenin|Antimicrobial|PubMed ID is not available	-0.16842105263157894
+>DRAMP00057|Bacteriocin duramycin (Leucopeptin; Bacteriocin)|Antimicrobial, Antibacterial|2272918##2125590	-0.18947368421052635
+>DRAMP00058|Lantibiotic duramycin B (Bacteriocin)|Antimicrobial, Antibacterial|2125590	-0.16842105263157894
+>DRAMP00059|Lantibiotic duramycin C (Bacteriocin)|Antimicrobial, Antibacterial|2125590##8375380	-0.5105263157894737
+>DRAMP00060|Bacteriocin cinnamycin (Lanthiopeptin Ro 09-0198)|Antimicrobial, Antbacterial, Antiviral|2125590##2544544##8882709	-0.2210526315789474
+>DRAMP00061|Actagardine (Gardimycin; Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|2211371##9219543	1.4052631578947368
+>DRAMP00062|Mersacidin (Bacteriocin; Preclinical)|Antimicrobial, Antibacterial, Anti-Gram+|7737474##9119018##10831439##10818347	0.9400000000000001
+>DRAMP00063|Lantibiotic michiganin-A (Bacteriocin)|Antimicrobial, Antibacterial|16957199	0.8904761904761904
+>DRAMP00064|Enterocin 96 (Bacteriocin; Predicted)|Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-|12663927	-0.2520833333333334
+>DRAMP00065|Plantaricin 1.25 beta (thermostable Bacteriocin; Predicted)|Antimicrobial, Antibacterial|10684981	0.08461538461538462
+>DRAMP00066|Lacticin Q (Bacteriocin; Predicted)|Antimicrobial, Antibacterial, Anti-Gram+|17351096	0.2692307692307692
+>DRAMP00067|Leucocin C-TA33a (Bacteriocin)|Antimicrobial, Antibacterial|9611809	-0.4388888888888889
+>DRAMP00068|Aureocin A53 (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|12054867	-0.08431372549019607
+>DRAMP00069|Garvieacin Q (GarQ; Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|22210221	-0.17800000000000002
+>DRAMP00070|Laterosporulin (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-|22403615	-0.4897959183673469
+>DRAMP00071|Ubericin-A (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|17933926	-0.5571428571428572
+>DRAMP00072|Bacteriocin curvaticin|Antimicrobial, Antibacterial, Anti-Gram+|16244793	-0.36
+>DRAMP00073|Weissellin-A (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|21511463	-0.43255813953488376
+>DRAMP00074|Enterocin P (Pediocin-like peptide; Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|9361419##17103378	-0.15
+>DRAMP00075|Enterocin M (Bacteriocin)|Antimicrobial, Antibacterial|17551760	-0.2210526315789474
+>DRAMP00076|Mundticin ATO6 (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|9733915	-0.2534883720930233
+>DRAMP00077|Mundticin KS (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|12147478	-0.2534883720930233
+>DRAMP00078|Leucocin C (Leu C; Pediocin-like peptide; Bacteriocin)|Antimicrobial, Antibacterial|12127968##9611809	-0.6651162790697674
+>DRAMP00079|Bacteriocin hiracin-JM79 (HirJM79; Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|17326750	-0.7454545454545454
+>DRAMP00080|Curvacin A (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|7694558##16331975	-0.18536585365853658
+>DRAMP00081|Leucocin-A (Leucocin A-UAL 187; Leu A; Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|1840587##8418850##9398233	-0.3918918918918919
+>DRAMP00082|Bavaricin-MN (Bacteriocin)|Antimicrobial, Anti-Gram+|8953724	-0.18292682926829265
+>DRAMP00083|Bavaricin-A (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|8407671	-0.5540540540540541
+>DRAMP00084|Mutacin F-59.1 (Bacteriocin)|Antimicrobial, Antibacterial|PubMed ID is not available	-0.9842105263157894
+>DRAMP00085|Bacteriocin|Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-|PubMed ID is not available	-0.5902439024390244
+>DRAMP00086|Divergicin M35 (Pediocin-like peptide; Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|15541799	-0.1883720930232558
+>DRAMP00088|Enterocin-HF (Bacteriocin)|Antimicrobial, Antibacterial|PubMed ID is not available	-0.12325581395348835
+>DRAMP00089|Bacteriocin E50-52 (Preclinical)|Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-|18293921	0.1641025641025641
+>DRAMP00090|Carnobacteriocin B2 (CbnB2; Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|8163526##9353214##10569926	-0.2770833333333333
+>DRAMP00091|Carnobacteriocin BM1 (Carnobacteriocin B1; Bacteriocin)|Antimicrobial, Antibacterial|8163526	-0.07674418604651162
+>DRAMP00092|Bacteriocin SRCAM 602 (Preclinical)|Antimicrobial, Antibacterial, Anti-Gram+|15690798	-0.7743589743589744
+>DRAMP00093|Bacteriocin SRCAM 37|Antimicrobial, Antibacterial, Anti-Gram+|15690798##16977842	0.013333333333333319
+>DRAMP00094|Bacteriocin SRCAM 1580|Antimicrobial, Antibacterial, Anti-Gram+|15690798##16977842	0.04571428571428573
+>DRAMP00095|Mesentericin Y105 (MesY105; Bacteriocin)|Antimicrobial, Antibacterial|1487737##7551032	-0.41081081081081083
+>DRAMP00096|Pediocin PA-1 (Pediocin ACH; Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|1514784##1575516	-0.49318181818181817
+>DRAMP00097|Lactococcin MMFII (Pediocin-like peptide; Bacteriocin)|Antimicrobial, Antibacterial|11728715##11708769	-0.5351351351351351
+>DRAMP00099|Sakacin 5X (Sak5X; Pediocin-like peptide; Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|11442722	-0.1511627906976744
+>DRAMP00100|Sakacin G (SakG; Pediocin-like peptide; Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|12450870##20152920	-0.2972972972972973
+>DRAMP00101|Sakacin P (Sakacin 674; Pediocin-like peptide; Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|8138128##14516192	-0.5744186046511628
+>DRAMP00102|Piscicolin-126 (Pisc126; Bacteriocin)|Antimicrobial, Antibacterial|8702282	-0.3136363636363636
+>DRAMP00103|Bacteriocin OR-7 (Preclinical)|Antimicrobial, Antibacterial|16940109	-0.6462962962962963
+>DRAMP00105|Enterocin X alpha (Two-peptide bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|20418437	0.007499999999999974
+>DRAMP00106|Enterocin X beta (Two-peptide bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|20418437	-0.1972972972972973
+>DRAMP00107|Bacteriocin L-1077|Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-|21378051	0.26216216216216215
+>DRAMP00108|Leucocin C (Pediocin-like peptide; Bacteriocin)|Antimicrobial, Antibacterial|12127968	-0.6069767441860465
+>DRAMP00109|Plantaricin C19 (Pediocin-like peptide; Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|11545225	-0.42500000000000004
+>DRAMP00110|Plantaricin 423 (Pediocin-like peptide; Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|12423916##17056693	-0.2783783783783784
+>DRAMP00111|Penocin A (PenA; Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|17030793##16735728	-0.5857142857142857
+>DRAMP00113|Enterocin A (EntA; Pediocin-like peptide; Bacteriocin)|Antimicrobial, Antibacterial|8633865	-0.02978723404255319
+>DRAMP00114|Listeriocin 743A (Pediocin-like peptide; Bacteriocin)|Antimicrobial, Antibacterial|11526003	-0.5488372093023255
+>DRAMP00116|Bacteriocin 32 (Bac 32; Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|16569830	-0.41714285714285715
+>DRAMP00119|Listeriocin 743A|Antimicrobial, Antibacterial, Anti-Gram+|11526003	-0.555813953488372
+>DRAMP00121|Enterocin SE-K4 (Predicted)|Antimicrobial|PubMed ID is not available	-0.41250000000000003
+>DRAMP00122|Avicin A (Predicted)|Antimicrobial|19933345	-0.1883720930232558
+>DRAMP00123|Divercin V41 (Bacteriocin)|Antimicrobial|9802025	-0.11860465116279069
+>DRAMP00124|Coagulin (Bacteriocin)|Antimicrobial|11097892	-0.4295454545454545
+>DRAMP00125|Bifidocin B (Bacteriocin)|Antimicrobial|23384878	-0.35
+>DRAMP00126|Plantaricin E (PlnE; Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|8117074##18555030	0.06666666666666667
+>DRAMP00127|Plantaricin F (PlnF; Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|9603847##9603847##18555030	0.03529411764705883
+>DRAMP00128|Plantaricin J (PlnJ; Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|9603847##19538999	-0.932
+>DRAMP00129|Plantaricin K (PlnK; Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|9603847##19538999	-0.65625
+>DRAMP00130|Lactococcin Q alpha (Qalpha; Bacteriocin; Predicted)|Antimicrobial, Antibacterial, Anti-Gram+|16672481	-0.6923076923076923
+>DRAMP00131|Lactococcin Q beta (Qbeta; Bacteriocin; Predicted)|Antimicrobial, Antibacterial, Anti-Gram+|16672481	-0.8
+>DRAMP00132|Lactococcin G subunit alpha (Galpha; Bacteriocin)|Antimicrobial, Antibacterial|1512201##18187052	-0.7435897435897436
+>DRAMP00133|Lactococcin G subunit beta (Gbeta ; Bacteriocin)|Antimicrobial, Antibacterial|1512201##18187052	-0.8057142857142857
+>DRAMP00134|Plantaricin NC8 beta peptide (PLNC8 beta; Bacteriocin; Predicted)|Antimicrobial, Antibacterial|12514019##14973042##18819721	-0.38235294117647056
+>DRAMP00135|Plantaricin NC8 alpha peptide (PLNC8 alpha; Bacteriocin; Predicted)|Antimicrobial, Antibacterial|12514019	-0.6535714285714286
+>DRAMP00136|Enterocin E-760 (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-|18086839	-0.1774193548387097
+>DRAMP00137|Plantaricin S beta (Bacteriocin; Predicted)|Antimicrobial, Antibacterial|8534111##9572965	-0.3230769230769231
+>DRAMP00138|Acidocin J1132 alpha peptide (Bacteriocin)|Antimicrobial, Antibacterial|8975617	-0.04347826086956521
+>DRAMP00139|Acidocin J1132 beta peptide (Bacteriocin)|Antimicrobial, Antibacterial|8975617	-0.05833333333333333
+>DRAMP00140|Lactacin-F subunit LafA (Bacteriocin)|Antimicrobial, Antibacterial|1903624##14983040	0.43157894736842106
+>DRAMP00141|Lactacin-F subunit LafX (Bacteriocin)|Antimicrobial, Antibacterial|8285694##14983040	0.19791666666666666
+>DRAMP00142|Gassericin T (gassericin K7 B; Bacteriocin; Predicted)|Antimicrobial, Antibacterial|11129595	0.45964912280701753
+>DRAMP00143|Plantaricin-A (PlnA; Bacteriocin)|Antimicrobial, Antibacterial|8245827	-0.4230769230769231
+>DRAMP00144|Amylovorin-L (Lactobin-A; Amylovorin-L471; Bacteriocin)|Antimicrobial, Antibacterial|10517609##14672834##8979334	0.382
+>DRAMP00145|Lactocin-705 (Bacteriocin)|Antimicrobial, Antibacterial|8796440	-0.38709677419354843
+>DRAMP00146|Abp118 alpha (Salivaricin CRL1328 alpha peptide; Predicted)|Antimicrobial, Antibacterial|11932444##19591924	0.88
+>DRAMP00147|Abp118 beta (Salivaricin CRL1328 beta peptide; Predicted)|Antimicrobial, Antibacterial|11932444##19591924	0.29347826086956524
+>DRAMP00148|Thermophilin 9 (BlpDst; Bacteriocin)|Antimicrobial, Antibacterial|18156339	1.2942857142857143
+>DRAMP00150|Sln2 (chain b of Salivaricin P; Bacteriocin)|Antimicrobial, Antibacterial|17416691	0.3760869565217391
+>DRAMP00151|Enterocin 1071A (Ent1071A; Bacteriocin)|Antimicrobial, Antibacterial|11976133	-0.46153846153846156
+>DRAMP00152|Enterocin 1071B (Ent1071B; Bacteriocin)|Antimicrobial, Antibacterial|11976133	-0.7314285714285714
+>DRAMP00153|NlmA (chain a of Mutacin IV; Bacteriocin)|Antimicrobial, Antibacterial|11133423	0.9113636363636364
+>DRAMP00154|NlmB (chain b of Mutacin IV; Bacteriocin)|Antimicrobial, Antibacterial|11133423	0.573469387755102
+>DRAMP00155|BrcA (chain a of Brochocin C; Bacteriocin)|Antimicrobial, Antibacterial|9835559	0.7779661016949152
+>DRAMP00156|BrcB (NKR-5-3A; chain b of Brochocin C; Bacteriocin)|Antimicrobial, Antibacterial|9835559	0.5953488372093023
+>DRAMP00157|Plantaricin S alpha (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|8534111##9572965	0.337037037037037
+>DRAMP00158|Lactocin 705alpha (lac705alpha; chain a of Lactocin 705; Bacteriocin)|Antimicrobial, Antibacterial|10754241	-0.41515151515151516
+>DRAMP00159|Lactocin 705beta (lac705beta; chain b of Lactocin 705; Bacteriocin)|Antimicrobial, Antibacterial|10754241	-0.22424242424242427
+>DRAMP00160|ThmA (chain a of Thermophilin 13; Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|9162062	0.5822222222222222
+>DRAMP00161|ThmB (chain b of Thermophilin 13; Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|9162062	1.0209302325581395
+>DRAMP00162|Thuricin CDalpha (Trn-alpha; one peptide of Thuricin CD; Bacteriocin; Predicted)|Antimicrobial, Antibacterial, Anti-Gram+|20435915##21526839	1.3433333333333333
+>DRAMP00163|Thuricin CDdbeta (Trn-beta; one peptide of Thuricin CD; Bacteriocin; Predicted)|Antimicrobial, Antibacterial, Anti-Gram+|20435915##21526839	1.24
+>DRAMP00164|Bacteriocin uberolysin (Bacteriocin)|Antimicrobial, Antibacterial|17464077	0.937142857142857
+>DRAMP00165|Gassericin A (GaaA; Bacteriocin; Predicted)|Antimicrobial, Antibacterial, Anti-Gram+|9648219##19666732	0.996551724137931
+>DRAMP00166|Butyrivibriocin AR10 (Bacteriocin; Predicted)|Antimicrobial, Antibacterial, Anti-Gram+|9023920##15162201	1.0017241379310344
+>DRAMP00167|Subtilosin A (Antilisterial bacteriocin subtilosin; D-amino acid; Bacteriocin; Preclinical)|Antimicrobial, Antibacterial, Anti-Gram+|3936839##15035610	0.6914285714285714
+>DRAMP00168|Divergicin A (Bacteriocin; Predicted)|Antimicrobial, Antibacterial|7768812##16385127	0.42608695652173917
+>DRAMP00169|Enterocin AS-48 (AS-48; Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-|2501837##14623193##11005847	0.5485714285714286
+>DRAMP00170|Carnocyclin A (CclA; Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|18552180##19692336	1.0583333333333333
+>DRAMP00171|Lactocyclicin Q (Bacteriocin; Predicted)|Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-|19139222##21948835	0.8262295081967213
+>DRAMP00172|Garvicin ML (Bacteriocin; Predicted)|Antimicrobial, Antibacterial, Anti-Gram+|21057028	0.8866666666666667
+>DRAMP00173|Leucocyclicin Q (Bacteriocin; Predicted)|Antimicrobial, Antibacterial, Anti-Gram+|21948835	0.7508196721311475
+>DRAMP00175|Enterocin L50A (EntL50A; Bacteriocin; Predicted)|Antimicrobial, Antibacterial, Anti-Gram+|9555877##20398277	0.20227272727272727
+>DRAMP00176|Enterocin L50B (EntL51B; Bacteriocin; Predicted)|Antimicrobial, Antibacterial, Anti-Gram+|9555877##20398277	-0.14418604651162792
+>DRAMP00177|Enterocin B (EntB; Bacteriocin; Predicted)|Antimicrobial, Antibacterial, Anti-Gram+|10224016##9245817	-0.3754716981132076
+>DRAMP00178|Enterocin EJ97 (EntEJ97; Bacteriocin; Predicted)|Antimicrobial, Antibacterial, Anti-Gram+|12620853##20385607##9871020	-0.5886363636363637
+>DRAMP00179|Enterocin Q (EntQ; Bacteriocin; Predicted)|Antimicrobial, Antibacterial|11073927##17021217	-0.35882352941176476
+>DRAMP00180|Lactococcin-B (LCN-B; Bacteriocin)|Antimicrobial, Antibacterial|1610182##8885398	-0.44468085106382976
+>DRAMP00001|Variacin (Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|8633879	0.45199999999999996
+>DRAMP00002|Entianin (Bacteriocin)|Antimicrobial, Antibacterial|21239550	0.2875
+>DRAMP00003|Bovicin HJ50 (Bacteriocin; Predicted)|Antimicrobial, Antibacterial, Anti-Gram+|14702402##19202107	0.296969696969697
+>DRAMP00004|Lantibiotic (Bacteriocin; Predicted)|Antimicrobial, Antibacterial|16088825	-0.391304347826087
+>DRAMP00005|Epicidin 280 (Bacteriocin; Predicted)|Antimicrobial, Antibacterial, Anti-Gram+|9726851	-0.22
+>DRAMP00006|Butyrivibriocin OR79 (Bacteriocin; Predicted)|Antimicrobial, Antibacterial, Anti-Gram+|10224011	0.11999999999999998
+>DRAMP00008|Lacticin 3147 A1 (LtnA1; Bacteriocin; Preclinical)|Antimicrobial, Antibacterial, Anti-Gram+|10971756##15023056##10608807	-0.29000000000000004
+>DRAMP00009|Bacteriocin lacticin 3147 A2 (LtnA2; Bacteriocin; Preclinical)|Antimicrobial, Antibacterial, Anti-Gram+|10971756##15023056##10608807	0.20689655172413793
+>DRAMP00010|Plantaricin W alpha (Plw-alpha; Bacteriocin; Predicted)|Antimicrobial, Antibacterial, Anti-Gram+|11238971	-0.3931034482758621
+>DRAMP00011|Plantaricin W beta (Plw-beta; Bacteriocin; Predicted)|Antimicrobial, Antibacterial, Anti-Gram+|11238971	0.10937500000000003
+>DRAMP00012|Lantibiotic lichenicidin VK21 A1 (LchA1; Lchalpha; Bacteriocin)|Antimicrobial, Antibacterial|19561184##19707558##20578714	0.284375
+>DRAMP00013|Lantibiotic lichenicidin VK21 A2 (LchA2; Lchbeta; Bacteriocin)|Antimicrobial, Antibacterial|19561184##19707558##20578714	0.25625000000000003
+>DRAMP00014|Geobacillin I (nisin analog; Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|22431611	0.7363636363636363
+>DRAMP00015|Geobacillin II (nisin analog; Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|22431611	0.6592592592592593
+>DRAMP00016|Salivaricin 9 (Sal9; Bacteriocin)|Antimicrobial, Antibacterial, Anti-Gram+|21310787	0.125
+>DRAMP00017|Microbisporicin A1 (Bacteriocin)|Antimicrobial, Antibacterial|18215770	0.3333333333333333
+>DRAMP00018|SmbA1 (Bacteriocin)|Antimicrobial, Antibacterial|15673730	0.353125
+>DRAMP00019|SmbA2 (Bacteriocin)|Antimicrobial, Antibacterial|15673730	0.9633333333333334
+>DRAMP00020|HalA1 (one chain of haloduracin; Bacteriocin)|Antimicrobial, Antibacterial|17085596	0.10714285714285712
