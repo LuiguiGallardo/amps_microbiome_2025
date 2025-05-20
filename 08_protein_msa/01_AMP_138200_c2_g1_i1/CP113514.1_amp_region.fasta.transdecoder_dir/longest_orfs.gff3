@@ -1,0 +1,113 @@
+CP113514.1	transdecoder	gene	1	705	.	-	.	ID=GENE.CP113514.1~~CP113514.1.p1;Name="ORF type:complete (-)"
+CP113514.1	transdecoder	mRNA	1	705	.	-	.	ID=CP113514.1.p1;Parent=GENE.CP113514.1~~CP113514.1.p1;Name="ORF type:complete (-)"
+CP113514.1	transdecoder	five_prime_UTR	677	705	.	-	.	ID=CP113514.1.p1.utr5p1;Parent=CP113514.1.p1
+CP113514.1	transdecoder	exon	1	705	.	-	.	ID=CP113514.1.p1.exon1;Parent=CP113514.1.p1
+CP113514.1	transdecoder	CDS	449	676	.	-	0	ID=cds.CP113514.1.p1;Parent=CP113514.1.p1
+CP113514.1	transdecoder	three_prime_UTR	1	448	.	-	.	ID=CP113514.1.p1.utr3p1;Parent=CP113514.1.p1
+
+CP113514.1	transdecoder	gene	1	705	.	+	.	ID=GENE.CP113514.1~~CP113514.1.p2;Name="ORF type:complete (+)"
+CP113514.1	transdecoder	mRNA	1	705	.	+	.	ID=CP113514.1.p2;Parent=GENE.CP113514.1~~CP113514.1.p2;Name="ORF type:complete (+)"
+CP113514.1	transdecoder	five_prime_UTR	1	413	.	+	.	ID=CP113514.1.p2.utr5p1;Parent=CP113514.1.p2
+CP113514.1	transdecoder	exon	1	705	.	+	.	ID=CP113514.1.p2.exon1;Parent=CP113514.1.p2
+CP113514.1	transdecoder	CDS	414	632	.	+	0	ID=cds.CP113514.1.p2;Parent=CP113514.1.p2
+CP113514.1	transdecoder	three_prime_UTR	633	705	.	+	.	ID=CP113514.1.p2.utr3p1;Parent=CP113514.1.p2
+
+CP113514.1	transdecoder	gene	1	705	.	-	.	ID=GENE.CP113514.1~~CP113514.1.p3;Name="ORF type:complete (-)"
+CP113514.1	transdecoder	mRNA	1	705	.	-	.	ID=CP113514.1.p3;Parent=GENE.CP113514.1~~CP113514.1.p3;Name="ORF type:complete (-)"
+CP113514.1	transdecoder	five_prime_UTR	194	705	.	-	.	ID=CP113514.1.p3.utr5p1;Parent=CP113514.1.p3
+CP113514.1	transdecoder	exon	1	705	.	-	.	ID=CP113514.1.p3.exon1;Parent=CP113514.1.p3
+CP113514.1	transdecoder	CDS	2	193	.	-	0	ID=cds.CP113514.1.p3;Parent=CP113514.1.p3
+
+CP113514.1	transdecoder	gene	1	705	.	-	.	ID=GENE.CP113514.1~~CP113514.1.p4;Name="ORF type:complete (-)"
+CP113514.1	transdecoder	mRNA	1	705	.	-	.	ID=CP113514.1.p4;Parent=GENE.CP113514.1~~CP113514.1.p4;Name="ORF type:complete (-)"
+CP113514.1	transdecoder	five_prime_UTR	165	705	.	-	.	ID=CP113514.1.p4.utr5p1;Parent=CP113514.1.p4
+CP113514.1	transdecoder	exon	1	705	.	-	.	ID=CP113514.1.p4.exon1;Parent=CP113514.1.p4
+CP113514.1	transdecoder	CDS	21	164	.	-	0	ID=cds.CP113514.1.p4;Parent=CP113514.1.p4
+CP113514.1	transdecoder	three_prime_UTR	1	20	.	-	.	ID=CP113514.1.p4.utr3p1;Parent=CP113514.1.p4
+
+CP113514.1	transdecoder	gene	1	705	.	+	.	ID=GENE.CP113514.1~~CP113514.1.p5;Name="ORF type:3prime_partial (+)"
+CP113514.1	transdecoder	mRNA	1	705	.	+	.	ID=CP113514.1.p5;Parent=GENE.CP113514.1~~CP113514.1.p5;Name="ORF type:3prime_partial (+)"
+CP113514.1	transdecoder	five_prime_UTR	1	565	.	+	.	ID=CP113514.1.p5.utr5p1;Parent=CP113514.1.p5
+CP113514.1	transdecoder	exon	1	705	.	+	.	ID=CP113514.1.p5.exon1;Parent=CP113514.1.p5
+CP113514.1	transdecoder	CDS	566	703	.	+	0	ID=cds.CP113514.1.p5;Parent=CP113514.1.p5;3_prime_partial=true
+
+CP113514.1	transdecoder	gene	1	705	.	-	.	ID=GENE.CP113514.1~~CP113514.1.p6;Name="ORF type:complete (-)"
+CP113514.1	transdecoder	mRNA	1	705	.	-	.	ID=CP113514.1.p6;Parent=GENE.CP113514.1~~CP113514.1.p6;Name="ORF type:complete (-)"
+CP113514.1	transdecoder	five_prime_UTR	631	705	.	-	.	ID=CP113514.1.p6.utr5p1;Parent=CP113514.1.p6
+CP113514.1	transdecoder	exon	1	705	.	-	.	ID=CP113514.1.p6.exon1;Parent=CP113514.1.p6
+CP113514.1	transdecoder	CDS	499	630	.	-	0	ID=cds.CP113514.1.p6;Parent=CP113514.1.p6
+CP113514.1	transdecoder	three_prime_UTR	1	498	.	-	.	ID=CP113514.1.p6.utr3p1;Parent=CP113514.1.p6
+
+CP113514.1	transdecoder	gene	1	705	.	-	.	ID=GENE.CP113514.1~~CP113514.1.p7;Name="ORF type:complete (-)"
+CP113514.1	transdecoder	mRNA	1	705	.	-	.	ID=CP113514.1.p7;Parent=GENE.CP113514.1~~CP113514.1.p7;Name="ORF type:complete (-)"
+CP113514.1	transdecoder	five_prime_UTR	291	705	.	-	.	ID=CP113514.1.p7.utr5p1;Parent=CP113514.1.p7
+CP113514.1	transdecoder	exon	1	705	.	-	.	ID=CP113514.1.p7.exon1;Parent=CP113514.1.p7
+CP113514.1	transdecoder	CDS	168	290	.	-	0	ID=cds.CP113514.1.p7;Parent=CP113514.1.p7
+CP113514.1	transdecoder	three_prime_UTR	1	167	.	-	.	ID=CP113514.1.p7.utr3p1;Parent=CP113514.1.p7
+
+CP113514.1	transdecoder	gene	1	705	.	+	.	ID=GENE.CP113514.1~~CP113514.1.p8;Name="ORF type:5prime_partial (+)"
+CP113514.1	transdecoder	mRNA	1	705	.	+	.	ID=CP113514.1.p8;Parent=GENE.CP113514.1~~CP113514.1.p8;Name="ORF type:5prime_partial (+)"
+CP113514.1	transdecoder	exon	1	705	.	+	.	ID=CP113514.1.p8.exon1;Parent=CP113514.1.p8
+CP113514.1	transdecoder	CDS	2	106	.	+	0	ID=cds.CP113514.1.p8;Parent=CP113514.1.p8;5_prime_partial=true
+CP113514.1	transdecoder	three_prime_UTR	107	705	.	+	.	ID=CP113514.1.p8.utr3p1;Parent=CP113514.1.p8
+
+CP113514.1	transdecoder	gene	1	705	.	+	.	ID=GENE.CP113514.1~~CP113514.1.p9;Name="ORF type:complete (+)"
+CP113514.1	transdecoder	mRNA	1	705	.	+	.	ID=CP113514.1.p9;Parent=GENE.CP113514.1~~CP113514.1.p9;Name="ORF type:complete (+)"
+CP113514.1	transdecoder	five_prime_UTR	1	191	.	+	.	ID=CP113514.1.p9.utr5p1;Parent=CP113514.1.p9
+CP113514.1	transdecoder	exon	1	705	.	+	.	ID=CP113514.1.p9.exon1;Parent=CP113514.1.p9
+CP113514.1	transdecoder	CDS	192	272	.	+	0	ID=cds.CP113514.1.p9;Parent=CP113514.1.p9
+CP113514.1	transdecoder	three_prime_UTR	273	705	.	+	.	ID=CP113514.1.p9.utr3p1;Parent=CP113514.1.p9
+
+CP113514.1	transdecoder	gene	1	705	.	+	.	ID=GENE.CP113514.1~~CP113514.1.p10;Name="ORF type:complete (+)"
+CP113514.1	transdecoder	mRNA	1	705	.	+	.	ID=CP113514.1.p10;Parent=GENE.CP113514.1~~CP113514.1.p10;Name="ORF type:complete (+)"
+CP113514.1	transdecoder	five_prime_UTR	1	216	.	+	.	ID=CP113514.1.p10.utr5p1;Parent=CP113514.1.p10
+CP113514.1	transdecoder	exon	1	705	.	+	.	ID=CP113514.1.p10.exon1;Parent=CP113514.1.p10
+CP113514.1	transdecoder	CDS	217	294	.	+	0	ID=cds.CP113514.1.p10;Parent=CP113514.1.p10
+CP113514.1	transdecoder	three_prime_UTR	295	705	.	+	.	ID=CP113514.1.p10.utr3p1;Parent=CP113514.1.p10
+
+CP113514.1	transdecoder	gene	1	705	.	+	.	ID=GENE.CP113514.1~~CP113514.1.p11;Name="ORF type:complete (+)"
+CP113514.1	transdecoder	mRNA	1	705	.	+	.	ID=CP113514.1.p11;Parent=GENE.CP113514.1~~CP113514.1.p11;Name="ORF type:complete (+)"
+CP113514.1	transdecoder	five_prime_UTR	1	356	.	+	.	ID=CP113514.1.p11.utr5p1;Parent=CP113514.1.p11
+CP113514.1	transdecoder	exon	1	705	.	+	.	ID=CP113514.1.p11.exon1;Parent=CP113514.1.p11
+CP113514.1	transdecoder	CDS	357	413	.	+	0	ID=cds.CP113514.1.p11;Parent=CP113514.1.p11
+CP113514.1	transdecoder	three_prime_UTR	414	705	.	+	.	ID=CP113514.1.p11.utr3p1;Parent=CP113514.1.p11
+
+CP113514.1	transdecoder	gene	1	705	.	+	.	ID=GENE.CP113514.1~~CP113514.1.p12;Name="ORF type:complete (+)"
+CP113514.1	transdecoder	mRNA	1	705	.	+	.	ID=CP113514.1.p12;Parent=GENE.CP113514.1~~CP113514.1.p12;Name="ORF type:complete (+)"
+CP113514.1	transdecoder	five_prime_UTR	1	324	.	+	.	ID=CP113514.1.p12.utr5p1;Parent=CP113514.1.p12
+CP113514.1	transdecoder	exon	1	705	.	+	.	ID=CP113514.1.p12.exon1;Parent=CP113514.1.p12
+CP113514.1	transdecoder	CDS	325	375	.	+	0	ID=cds.CP113514.1.p12;Parent=CP113514.1.p12
+CP113514.1	transdecoder	three_prime_UTR	376	705	.	+	.	ID=CP113514.1.p12.utr3p1;Parent=CP113514.1.p12
+
+CP113514.1	transdecoder	gene	1	705	.	+	.	ID=GENE.CP113514.1~~CP113514.1.p13;Name="ORF type:3prime_partial (+)"
+CP113514.1	transdecoder	mRNA	1	705	.	+	.	ID=CP113514.1.p13;Parent=GENE.CP113514.1~~CP113514.1.p13;Name="ORF type:3prime_partial (+)"
+CP113514.1	transdecoder	five_prime_UTR	1	668	.	+	.	ID=CP113514.1.p13.utr5p1;Parent=CP113514.1.p13
+CP113514.1	transdecoder	exon	1	705	.	+	.	ID=CP113514.1.p13.exon1;Parent=CP113514.1.p13
+CP113514.1	transdecoder	CDS	669	704	.	+	0	ID=cds.CP113514.1.p13;Parent=CP113514.1.p13;3_prime_partial=true
+
+CP113514.1	transdecoder	gene	1	705	.	+	.	ID=GENE.CP113514.1~~CP113514.1.p14;Name="ORF type:complete (+)"
+CP113514.1	transdecoder	mRNA	1	705	.	+	.	ID=CP113514.1.p14;Parent=GENE.CP113514.1~~CP113514.1.p14;Name="ORF type:complete (+)"
+CP113514.1	transdecoder	five_prime_UTR	1	393	.	+	.	ID=CP113514.1.p14.utr5p1;Parent=CP113514.1.p14
+CP113514.1	transdecoder	exon	1	705	.	+	.	ID=CP113514.1.p14.exon1;Parent=CP113514.1.p14
+CP113514.1	transdecoder	CDS	394	426	.	+	0	ID=cds.CP113514.1.p14;Parent=CP113514.1.p14
+CP113514.1	transdecoder	three_prime_UTR	427	705	.	+	.	ID=CP113514.1.p14.utr3p1;Parent=CP113514.1.p14
+
+CP113514.1	transdecoder	gene	1	705	.	-	.	ID=GENE.CP113514.1~~CP113514.1.p15;Name="ORF type:5prime_partial (-)"
+CP113514.1	transdecoder	mRNA	1	705	.	-	.	ID=CP113514.1.p15;Parent=GENE.CP113514.1~~CP113514.1.p15;Name="ORF type:5prime_partial (-)"
+CP113514.1	transdecoder	exon	1	705	.	-	.	ID=CP113514.1.p15.exon1;Parent=CP113514.1.p15
+CP113514.1	transdecoder	CDS	673	705	.	-	0	ID=cds.CP113514.1.p15;Parent=CP113514.1.p15;5_prime_partial=true
+CP113514.1	transdecoder	three_prime_UTR	1	672	.	-	.	ID=CP113514.1.p15.utr3p1;Parent=CP113514.1.p15
+
+CP113514.1	transdecoder	gene	1	705	.	+	.	ID=GENE.CP113514.1~~CP113514.1.p16;Name="ORF type:complete (+)"
+CP113514.1	transdecoder	mRNA	1	705	.	+	.	ID=CP113514.1.p16;Parent=GENE.CP113514.1~~CP113514.1.p16;Name="ORF type:complete (+)"
+CP113514.1	transdecoder	five_prime_UTR	1	47	.	+	.	ID=CP113514.1.p16.utr5p1;Parent=CP113514.1.p16
+CP113514.1	transdecoder	exon	1	705	.	+	.	ID=CP113514.1.p16.exon1;Parent=CP113514.1.p16
+CP113514.1	transdecoder	CDS	48	74	.	+	0	ID=cds.CP113514.1.p16;Parent=CP113514.1.p16
+CP113514.1	transdecoder	three_prime_UTR	75	705	.	+	.	ID=CP113514.1.p16.utr3p1;Parent=CP113514.1.p16
+
+CP113514.1	transdecoder	gene	1	705	.	-	.	ID=GENE.CP113514.1~~CP113514.1.p17;Name="ORF type:5prime_partial (-)"
+CP113514.1	transdecoder	mRNA	1	705	.	-	.	ID=CP113514.1.p17;Parent=GENE.CP113514.1~~CP113514.1.p17;Name="ORF type:5prime_partial (-)"
+CP113514.1	transdecoder	exon	1	705	.	-	.	ID=CP113514.1.p17.exon1;Parent=CP113514.1.p17
+CP113514.1	transdecoder	CDS	678	704	.	-	0	ID=cds.CP113514.1.p17;Parent=CP113514.1.p17;5_prime_partial=true
+CP113514.1	transdecoder	three_prime_UTR	1	677	.	-	.	ID=CP113514.1.p17.utr3p1;Parent=CP113514.1.p17
+

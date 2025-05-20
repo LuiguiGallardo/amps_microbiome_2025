@@ -1,0 +1,64 @@
+CP121673.1	transdecoder	gene	1	365	.	+	.	ID=GENE.CP121673.1~~CP121673.1.p1;Name="ORF type:5prime_partial (+)"
+CP121673.1	transdecoder	mRNA	1	365	.	+	.	ID=CP121673.1.p1;Parent=GENE.CP121673.1~~CP121673.1.p1;Name="ORF type:5prime_partial (+)"
+CP121673.1	transdecoder	exon	1	365	.	+	.	ID=CP121673.1.p1.exon1;Parent=CP121673.1.p1
+CP121673.1	transdecoder	CDS	1	165	.	+	0	ID=cds.CP121673.1.p1;Parent=CP121673.1.p1;5_prime_partial=true
+CP121673.1	transdecoder	three_prime_UTR	166	365	.	+	.	ID=CP121673.1.p1.utr3p1;Parent=CP121673.1.p1
+
+CP121673.1	transdecoder	gene	1	365	.	-	.	ID=GENE.CP121673.1~~CP121673.1.p2;Name="ORF type:5prime_partial (-)"
+CP121673.1	transdecoder	mRNA	1	365	.	-	.	ID=CP121673.1.p2;Parent=GENE.CP121673.1~~CP121673.1.p2;Name="ORF type:5prime_partial (-)"
+CP121673.1	transdecoder	exon	1	365	.	-	.	ID=CP121673.1.p2.exon1;Parent=CP121673.1.p2
+CP121673.1	transdecoder	CDS	208	363	.	-	0	ID=cds.CP121673.1.p2;Parent=CP121673.1.p2;5_prime_partial=true
+CP121673.1	transdecoder	three_prime_UTR	1	207	.	-	.	ID=CP121673.1.p2.utr3p1;Parent=CP121673.1.p2
+
+CP121673.1	transdecoder	gene	1	365	.	-	.	ID=GENE.CP121673.1~~CP121673.1.p3;Name="ORF type:5prime_partial (-)"
+CP121673.1	transdecoder	mRNA	1	365	.	-	.	ID=CP121673.1.p3;Parent=GENE.CP121673.1~~CP121673.1.p3;Name="ORF type:5prime_partial (-)"
+CP121673.1	transdecoder	exon	1	365	.	-	.	ID=CP121673.1.p3.exon1;Parent=CP121673.1.p3
+CP121673.1	transdecoder	CDS	242	364	.	-	0	ID=cds.CP121673.1.p3;Parent=CP121673.1.p3;5_prime_partial=true
+CP121673.1	transdecoder	three_prime_UTR	1	241	.	-	.	ID=CP121673.1.p3.utr3p1;Parent=CP121673.1.p3
+
+CP121673.1	transdecoder	gene	1	365	.	+	.	ID=GENE.CP121673.1~~CP121673.1.p4;Name="ORF type:5prime_partial (+)"
+CP121673.1	transdecoder	mRNA	1	365	.	+	.	ID=CP121673.1.p4;Parent=GENE.CP121673.1~~CP121673.1.p4;Name="ORF type:5prime_partial (+)"
+CP121673.1	transdecoder	exon	1	365	.	+	.	ID=CP121673.1.p4.exon1;Parent=CP121673.1.p4
+CP121673.1	transdecoder	CDS	3	95	.	+	0	ID=cds.CP121673.1.p4;Parent=CP121673.1.p4;5_prime_partial=true
+CP121673.1	transdecoder	three_prime_UTR	96	365	.	+	.	ID=CP121673.1.p4.utr3p1;Parent=CP121673.1.p4
+
+CP121673.1	transdecoder	gene	1	365	.	+	.	ID=GENE.CP121673.1~~CP121673.1.p5;Name="ORF type:complete (+)"
+CP121673.1	transdecoder	mRNA	1	365	.	+	.	ID=CP121673.1.p5;Parent=GENE.CP121673.1~~CP121673.1.p5;Name="ORF type:complete (+)"
+CP121673.1	transdecoder	five_prime_UTR	1	145	.	+	.	ID=CP121673.1.p5.utr5p1;Parent=CP121673.1.p5
+CP121673.1	transdecoder	exon	1	365	.	+	.	ID=CP121673.1.p5.exon1;Parent=CP121673.1.p5
+CP121673.1	transdecoder	CDS	146	226	.	+	0	ID=cds.CP121673.1.p5;Parent=CP121673.1.p5
+CP121673.1	transdecoder	three_prime_UTR	227	365	.	+	.	ID=CP121673.1.p5.utr3p1;Parent=CP121673.1.p5
+
+CP121673.1	transdecoder	gene	1	365	.	+	.	ID=GENE.CP121673.1~~CP121673.1.p6;Name="ORF type:complete (+)"
+CP121673.1	transdecoder	mRNA	1	365	.	+	.	ID=CP121673.1.p6;Parent=GENE.CP121673.1~~CP121673.1.p6;Name="ORF type:complete (+)"
+CP121673.1	transdecoder	five_prime_UTR	1	246	.	+	.	ID=CP121673.1.p6.utr5p1;Parent=CP121673.1.p6
+CP121673.1	transdecoder	exon	1	365	.	+	.	ID=CP121673.1.p6.exon1;Parent=CP121673.1.p6
+CP121673.1	transdecoder	CDS	247	291	.	+	0	ID=cds.CP121673.1.p6;Parent=CP121673.1.p6
+CP121673.1	transdecoder	three_prime_UTR	292	365	.	+	.	ID=CP121673.1.p6.utr3p1;Parent=CP121673.1.p6
+
+CP121673.1	transdecoder	gene	1	365	.	+	.	ID=GENE.CP121673.1~~CP121673.1.p7;Name="ORF type:complete (+)"
+CP121673.1	transdecoder	mRNA	1	365	.	+	.	ID=CP121673.1.p7;Parent=GENE.CP121673.1~~CP121673.1.p7;Name="ORF type:complete (+)"
+CP121673.1	transdecoder	five_prime_UTR	1	161	.	+	.	ID=CP121673.1.p7.utr5p1;Parent=CP121673.1.p7
+CP121673.1	transdecoder	exon	1	365	.	+	.	ID=CP121673.1.p7.exon1;Parent=CP121673.1.p7
+CP121673.1	transdecoder	CDS	162	203	.	+	0	ID=cds.CP121673.1.p7;Parent=CP121673.1.p7
+CP121673.1	transdecoder	three_prime_UTR	204	365	.	+	.	ID=CP121673.1.p7.utr3p1;Parent=CP121673.1.p7
+
+CP121673.1	transdecoder	gene	1	365	.	-	.	ID=GENE.CP121673.1~~CP121673.1.p8;Name="ORF type:3prime_partial (-)"
+CP121673.1	transdecoder	mRNA	1	365	.	-	.	ID=CP121673.1.p8;Parent=GENE.CP121673.1~~CP121673.1.p8;Name="ORF type:3prime_partial (-)"
+CP121673.1	transdecoder	five_prime_UTR	33	365	.	-	.	ID=CP121673.1.p8.utr5p1;Parent=CP121673.1.p8
+CP121673.1	transdecoder	exon	1	365	.	-	.	ID=CP121673.1.p8.exon1;Parent=CP121673.1.p8
+CP121673.1	transdecoder	CDS	3	32	.	-	0	ID=cds.CP121673.1.p8;Parent=CP121673.1.p8;3_prime_partial=true
+
+CP121673.1	transdecoder	gene	1	365	.	+	.	ID=GENE.CP121673.1~~CP121673.1.p9;Name="ORF type:complete (+)"
+CP121673.1	transdecoder	mRNA	1	365	.	+	.	ID=CP121673.1.p9;Parent=GENE.CP121673.1~~CP121673.1.p9;Name="ORF type:complete (+)"
+CP121673.1	transdecoder	five_prime_UTR	1	316	.	+	.	ID=CP121673.1.p9.utr5p1;Parent=CP121673.1.p9
+CP121673.1	transdecoder	exon	1	365	.	+	.	ID=CP121673.1.p9.exon1;Parent=CP121673.1.p9
+CP121673.1	transdecoder	CDS	317	346	.	+	0	ID=cds.CP121673.1.p9;Parent=CP121673.1.p9
+CP121673.1	transdecoder	three_prime_UTR	347	365	.	+	.	ID=CP121673.1.p9.utr3p1;Parent=CP121673.1.p9
+
+CP121673.1	transdecoder	gene	1	365	.	+	.	ID=GENE.CP121673.1~~CP121673.1.p10;Name="ORF type:5prime_partial (+)"
+CP121673.1	transdecoder	mRNA	1	365	.	+	.	ID=CP121673.1.p10;Parent=GENE.CP121673.1~~CP121673.1.p10;Name="ORF type:5prime_partial (+)"
+CP121673.1	transdecoder	exon	1	365	.	+	.	ID=CP121673.1.p10.exon1;Parent=CP121673.1.p10
+CP121673.1	transdecoder	CDS	2	28	.	+	0	ID=cds.CP121673.1.p10;Parent=CP121673.1.p10;5_prime_partial=true
+CP121673.1	transdecoder	three_prime_UTR	29	365	.	+	.	ID=CP121673.1.p10.utr3p1;Parent=CP121673.1.p10
+

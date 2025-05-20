@@ -1,0 +1,26 @@
+CP094473.1	transdecoder	gene	1	203	.	+	.	ID=GENE.CP094473.1~~CP094473.1.p1;Name="ORF type:5prime_partial (+)"
+CP094473.1	transdecoder	mRNA	1	203	.	+	.	ID=CP094473.1.p1;Parent=GENE.CP094473.1~~CP094473.1.p1;Name="ORF type:5prime_partial (+)"
+CP094473.1	transdecoder	exon	1	203	.	+	.	ID=CP094473.1.p1.exon1;Parent=CP094473.1.p1
+CP094473.1	transdecoder	CDS	3	80	.	+	0	ID=cds.CP094473.1.p1;Parent=CP094473.1.p1;5_prime_partial=true
+CP094473.1	transdecoder	three_prime_UTR	81	203	.	+	.	ID=CP094473.1.p1.utr3p1;Parent=CP094473.1.p1
+
+CP094473.1	transdecoder	gene	1	203	.	+	.	ID=GENE.CP094473.1~~CP094473.1.p2;Name="ORF type:complete (+)"
+CP094473.1	transdecoder	mRNA	1	203	.	+	.	ID=CP094473.1.p2;Parent=GENE.CP094473.1~~CP094473.1.p2;Name="ORF type:complete (+)"
+CP094473.1	transdecoder	five_prime_UTR	1	110	.	+	.	ID=CP094473.1.p2.utr5p1;Parent=CP094473.1.p2
+CP094473.1	transdecoder	exon	1	203	.	+	.	ID=CP094473.1.p2.exon1;Parent=CP094473.1.p2
+CP094473.1	transdecoder	CDS	111	155	.	+	0	ID=cds.CP094473.1.p2;Parent=CP094473.1.p2
+CP094473.1	transdecoder	three_prime_UTR	156	203	.	+	.	ID=CP094473.1.p2.utr3p1;Parent=CP094473.1.p2
+
+CP094473.1	transdecoder	gene	1	203	.	+	.	ID=GENE.CP094473.1~~CP094473.1.p3;Name="ORF type:complete (+)"
+CP094473.1	transdecoder	mRNA	1	203	.	+	.	ID=CP094473.1.p3;Parent=GENE.CP094473.1~~CP094473.1.p3;Name="ORF type:complete (+)"
+CP094473.1	transdecoder	five_prime_UTR	1	164	.	+	.	ID=CP094473.1.p3.utr5p1;Parent=CP094473.1.p3
+CP094473.1	transdecoder	exon	1	203	.	+	.	ID=CP094473.1.p3.exon1;Parent=CP094473.1.p3
+CP094473.1	transdecoder	CDS	165	197	.	+	0	ID=cds.CP094473.1.p3;Parent=CP094473.1.p3
+CP094473.1	transdecoder	three_prime_UTR	198	203	.	+	.	ID=CP094473.1.p3.utr3p1;Parent=CP094473.1.p3
+
+CP094473.1	transdecoder	gene	1	203	.	-	.	ID=GENE.CP094473.1~~CP094473.1.p4;Name="ORF type:5prime_partial (-)"
+CP094473.1	transdecoder	mRNA	1	203	.	-	.	ID=CP094473.1.p4;Parent=GENE.CP094473.1~~CP094473.1.p4;Name="ORF type:5prime_partial (-)"
+CP094473.1	transdecoder	exon	1	203	.	-	.	ID=CP094473.1.p4.exon1;Parent=CP094473.1.p4
+CP094473.1	transdecoder	CDS	171	203	.	-	0	ID=cds.CP094473.1.p4;Parent=CP094473.1.p4;5_prime_partial=true
+CP094473.1	transdecoder	three_prime_UTR	1	170	.	-	.	ID=CP094473.1.p4.utr3p1;Parent=CP094473.1.p4
+

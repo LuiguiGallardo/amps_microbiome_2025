@@ -1,0 +1,12 @@
+>LR699004.1.p1 type:3prime_partial gc:universal LR699004.1:81-215(+)
+MLPEGVARHWKMKLCLGFQISLMSFPIQLMRLAFHLFPYDKYTSF
+>LR699004.1.p2 type:5prime_partial gc:universal LR699004.1:216-139(-)
+KRTYICHTERDEKRAALVGLGNSSN*
+>LR699004.1.p3 type:3prime_partial gc:universal LR699004.1:78-1(-)
+MPVDYKGGEHSKPVIRSFIASLVRLH
+>LR699004.1.p4 type:5prime_partial gc:universal LR699004.1:215-165(-)
+KGRIFVIRKEMKSEPH*
+>LR699004.1.p5 type:complete gc:universal LR699004.1:23-67(+)
+MKLRMTGFECSPPL*
+>LR699004.1.p6 type:5prime_partial gc:universal LR699004.1:217-182(-)
+KKDVYLSYGKR*

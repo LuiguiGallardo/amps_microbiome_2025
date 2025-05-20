@@ -1,0 +1,35 @@
+CP030777.1	transdecoder	gene	1	188	.	-	.	ID=GENE.CP030777.1~~CP030777.1.p1;Name="ORF type:internal (-)"
+CP030777.1	transdecoder	mRNA	1	188	.	-	.	ID=CP030777.1.p1;Parent=GENE.CP030777.1~~CP030777.1.p1;Name="ORF type:internal (-)"
+CP030777.1	transdecoder	exon	1	188	.	-	.	ID=CP030777.1.p1.exon1;Parent=CP030777.1.p1
+CP030777.1	transdecoder	CDS	3	188	.	-	0	ID=cds.CP030777.1.p1;Parent=CP030777.1.p1;5_prime_partial=true;3_prime_partial=true
+
+CP030777.1	transdecoder	gene	1	188	.	-	.	ID=GENE.CP030777.1~~CP030777.1.p2;Name="ORF type:5prime_partial (-)"
+CP030777.1	transdecoder	mRNA	1	188	.	-	.	ID=CP030777.1.p2;Parent=GENE.CP030777.1~~CP030777.1.p2;Name="ORF type:5prime_partial (-)"
+CP030777.1	transdecoder	exon	1	188	.	-	.	ID=CP030777.1.p2.exon1;Parent=CP030777.1.p2
+CP030777.1	transdecoder	CDS	7	186	.	-	0	ID=cds.CP030777.1.p2;Parent=CP030777.1.p2;5_prime_partial=true
+CP030777.1	transdecoder	three_prime_UTR	1	6	.	-	.	ID=CP030777.1.p2.utr3p1;Parent=CP030777.1.p2
+
+CP030777.1	transdecoder	gene	1	188	.	+	.	ID=GENE.CP030777.1~~CP030777.1.p3;Name="ORF type:5prime_partial (+)"
+CP030777.1	transdecoder	mRNA	1	188	.	+	.	ID=CP030777.1.p3;Parent=GENE.CP030777.1~~CP030777.1.p3;Name="ORF type:5prime_partial (+)"
+CP030777.1	transdecoder	exon	1	188	.	+	.	ID=CP030777.1.p3.exon1;Parent=CP030777.1.p3
+CP030777.1	transdecoder	CDS	1	81	.	+	0	ID=cds.CP030777.1.p3;Parent=CP030777.1.p3;5_prime_partial=true
+CP030777.1	transdecoder	three_prime_UTR	82	188	.	+	.	ID=CP030777.1.p3.utr3p1;Parent=CP030777.1.p3
+
+CP030777.1	transdecoder	gene	1	188	.	+	.	ID=GENE.CP030777.1~~CP030777.1.p4;Name="ORF type:3prime_partial (+)"
+CP030777.1	transdecoder	mRNA	1	188	.	+	.	ID=CP030777.1.p4;Parent=GENE.CP030777.1~~CP030777.1.p4;Name="ORF type:3prime_partial (+)"
+CP030777.1	transdecoder	five_prime_UTR	1	111	.	+	.	ID=CP030777.1.p4.utr5p1;Parent=CP030777.1.p4
+CP030777.1	transdecoder	exon	1	188	.	+	.	ID=CP030777.1.p4.exon1;Parent=CP030777.1.p4
+CP030777.1	transdecoder	CDS	112	186	.	+	0	ID=cds.CP030777.1.p4;Parent=CP030777.1.p4;3_prime_partial=true
+
+CP030777.1	transdecoder	gene	1	188	.	+	.	ID=GENE.CP030777.1~~CP030777.1.p5;Name="ORF type:5prime_partial (+)"
+CP030777.1	transdecoder	mRNA	1	188	.	+	.	ID=CP030777.1.p5;Parent=GENE.CP030777.1~~CP030777.1.p5;Name="ORF type:5prime_partial (+)"
+CP030777.1	transdecoder	exon	1	188	.	+	.	ID=CP030777.1.p5.exon1;Parent=CP030777.1.p5
+CP030777.1	transdecoder	CDS	3	38	.	+	0	ID=cds.CP030777.1.p5;Parent=CP030777.1.p5;5_prime_partial=true
+CP030777.1	transdecoder	three_prime_UTR	39	188	.	+	.	ID=CP030777.1.p5.utr3p1;Parent=CP030777.1.p5
+
+CP030777.1	transdecoder	gene	1	188	.	-	.	ID=GENE.CP030777.1~~CP030777.1.p6;Name="ORF type:5prime_partial (-)"
+CP030777.1	transdecoder	mRNA	1	188	.	-	.	ID=CP030777.1.p6;Parent=GENE.CP030777.1~~CP030777.1.p6;Name="ORF type:5prime_partial (-)"
+CP030777.1	transdecoder	exon	1	188	.	-	.	ID=CP030777.1.p6.exon1;Parent=CP030777.1.p6
+CP030777.1	transdecoder	CDS	158	187	.	-	0	ID=cds.CP030777.1.p6;Parent=CP030777.1.p6;5_prime_partial=true
+CP030777.1	transdecoder	three_prime_UTR	1	157	.	-	.	ID=CP030777.1.p6.utr3p1;Parent=CP030777.1.p6
+

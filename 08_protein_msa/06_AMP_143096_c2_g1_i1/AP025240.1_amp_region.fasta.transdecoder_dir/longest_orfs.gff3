@@ -1,0 +1,37 @@
+AP025240.1	transdecoder	gene	1	217	.	+	.	ID=GENE.AP025240.1~~AP025240.1.p1;Name="ORF type:3prime_partial (+)"
+AP025240.1	transdecoder	mRNA	1	217	.	+	.	ID=AP025240.1.p1;Parent=GENE.AP025240.1~~AP025240.1.p1;Name="ORF type:3prime_partial (+)"
+AP025240.1	transdecoder	five_prime_UTR	1	80	.	+	.	ID=AP025240.1.p1.utr5p1;Parent=AP025240.1.p1
+AP025240.1	transdecoder	exon	1	217	.	+	.	ID=AP025240.1.p1.exon1;Parent=AP025240.1.p1
+AP025240.1	transdecoder	CDS	81	215	.	+	0	ID=cds.AP025240.1.p1;Parent=AP025240.1.p1;3_prime_partial=true
+
+AP025240.1	transdecoder	gene	1	217	.	-	.	ID=GENE.AP025240.1~~AP025240.1.p2;Name="ORF type:5prime_partial (-)"
+AP025240.1	transdecoder	mRNA	1	217	.	-	.	ID=AP025240.1.p2;Parent=GENE.AP025240.1~~AP025240.1.p2;Name="ORF type:5prime_partial (-)"
+AP025240.1	transdecoder	exon	1	217	.	-	.	ID=AP025240.1.p2.exon1;Parent=AP025240.1.p2
+AP025240.1	transdecoder	CDS	139	216	.	-	0	ID=cds.AP025240.1.p2;Parent=AP025240.1.p2;5_prime_partial=true
+AP025240.1	transdecoder	three_prime_UTR	1	138	.	-	.	ID=AP025240.1.p2.utr3p1;Parent=AP025240.1.p2
+
+AP025240.1	transdecoder	gene	1	217	.	-	.	ID=GENE.AP025240.1~~AP025240.1.p3;Name="ORF type:3prime_partial (-)"
+AP025240.1	transdecoder	mRNA	1	217	.	-	.	ID=AP025240.1.p3;Parent=GENE.AP025240.1~~AP025240.1.p3;Name="ORF type:3prime_partial (-)"
+AP025240.1	transdecoder	five_prime_UTR	79	217	.	-	.	ID=AP025240.1.p3.utr5p1;Parent=AP025240.1.p3
+AP025240.1	transdecoder	exon	1	217	.	-	.	ID=AP025240.1.p3.exon1;Parent=AP025240.1.p3
+AP025240.1	transdecoder	CDS	1	78	.	-	0	ID=cds.AP025240.1.p3;Parent=AP025240.1.p3;3_prime_partial=true
+
+AP025240.1	transdecoder	gene	1	217	.	-	.	ID=GENE.AP025240.1~~AP025240.1.p4;Name="ORF type:5prime_partial (-)"
+AP025240.1	transdecoder	mRNA	1	217	.	-	.	ID=AP025240.1.p4;Parent=GENE.AP025240.1~~AP025240.1.p4;Name="ORF type:5prime_partial (-)"
+AP025240.1	transdecoder	exon	1	217	.	-	.	ID=AP025240.1.p4.exon1;Parent=AP025240.1.p4
+AP025240.1	transdecoder	CDS	165	215	.	-	0	ID=cds.AP025240.1.p4;Parent=AP025240.1.p4;5_prime_partial=true
+AP025240.1	transdecoder	three_prime_UTR	1	164	.	-	.	ID=AP025240.1.p4.utr3p1;Parent=AP025240.1.p4
+
+AP025240.1	transdecoder	gene	1	217	.	+	.	ID=GENE.AP025240.1~~AP025240.1.p5;Name="ORF type:complete (+)"
+AP025240.1	transdecoder	mRNA	1	217	.	+	.	ID=AP025240.1.p5;Parent=GENE.AP025240.1~~AP025240.1.p5;Name="ORF type:complete (+)"
+AP025240.1	transdecoder	five_prime_UTR	1	22	.	+	.	ID=AP025240.1.p5.utr5p1;Parent=AP025240.1.p5
+AP025240.1	transdecoder	exon	1	217	.	+	.	ID=AP025240.1.p5.exon1;Parent=AP025240.1.p5
+AP025240.1	transdecoder	CDS	23	67	.	+	0	ID=cds.AP025240.1.p5;Parent=AP025240.1.p5
+AP025240.1	transdecoder	three_prime_UTR	68	217	.	+	.	ID=AP025240.1.p5.utr3p1;Parent=AP025240.1.p5
+
+AP025240.1	transdecoder	gene	1	217	.	-	.	ID=GENE.AP025240.1~~AP025240.1.p6;Name="ORF type:5prime_partial (-)"
+AP025240.1	transdecoder	mRNA	1	217	.	-	.	ID=AP025240.1.p6;Parent=GENE.AP025240.1~~AP025240.1.p6;Name="ORF type:5prime_partial (-)"
+AP025240.1	transdecoder	exon	1	217	.	-	.	ID=AP025240.1.p6.exon1;Parent=AP025240.1.p6
+AP025240.1	transdecoder	CDS	182	217	.	-	0	ID=cds.AP025240.1.p6;Parent=AP025240.1.p6;5_prime_partial=true
+AP025240.1	transdecoder	three_prime_UTR	1	181	.	-	.	ID=AP025240.1.p6.utr3p1;Parent=AP025240.1.p6
+

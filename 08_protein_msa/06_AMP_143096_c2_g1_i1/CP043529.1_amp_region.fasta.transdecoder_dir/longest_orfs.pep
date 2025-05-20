@@ -1,0 +1,12 @@
+>CP043529.1.p1 type:3prime_partial gc:universal CP043529.1:137-3(-)
+MLPEGVARHWKMKLCLGFQISLMSFPIQLMRLAFHLFPYDKYTSF
+>CP043529.1.p2 type:5prime_partial gc:universal CP043529.1:2-79(+)
+KRTYICHTERDEKRAALVGLGNSSN*
+>CP043529.1.p3 type:3prime_partial gc:universal CP043529.1:140-217(+)
+MPVDYKGGEHSKPVIRSFIASLVRLH
+>CP043529.1.p4 type:5prime_partial gc:universal CP043529.1:3-53(+)
+KGRIFVIRKEMKSEPH*
+>CP043529.1.p5 type:complete gc:universal CP043529.1:195-151(-)
+MKLRMTGFECSPPL*
+>CP043529.1.p6 type:5prime_partial gc:universal CP043529.1:1-36(+)
+KKDVYLSYGKR*

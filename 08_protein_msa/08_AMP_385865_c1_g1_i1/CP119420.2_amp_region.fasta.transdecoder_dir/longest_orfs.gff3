@@ -1,0 +1,30 @@
+CP119420.2	transdecoder	gene	1	203	.	-	.	ID=GENE.CP119420.2~~CP119420.2.p1;Name="ORF type:internal (-)"
+CP119420.2	transdecoder	mRNA	1	203	.	-	.	ID=CP119420.2.p1;Parent=GENE.CP119420.2~~CP119420.2.p1;Name="ORF type:internal (-)"
+CP119420.2	transdecoder	exon	1	203	.	-	.	ID=CP119420.2.p1.exon1;Parent=CP119420.2.p1
+CP119420.2	transdecoder	CDS	2	202	.	-	0	ID=cds.CP119420.2.p1;Parent=CP119420.2.p1;5_prime_partial=true;3_prime_partial=true
+
+CP119420.2	transdecoder	gene	1	203	.	-	.	ID=GENE.CP119420.2~~CP119420.2.p2;Name="ORF type:5prime_partial (-)"
+CP119420.2	transdecoder	mRNA	1	203	.	-	.	ID=CP119420.2.p2;Parent=GENE.CP119420.2~~CP119420.2.p2;Name="ORF type:5prime_partial (-)"
+CP119420.2	transdecoder	exon	1	203	.	-	.	ID=CP119420.2.p2.exon1;Parent=CP119420.2.p2
+CP119420.2	transdecoder	CDS	97	201	.	-	0	ID=cds.CP119420.2.p2;Parent=CP119420.2.p2;5_prime_partial=true
+CP119420.2	transdecoder	three_prime_UTR	1	96	.	-	.	ID=CP119420.2.p2.utr3p1;Parent=CP119420.2.p2
+
+CP119420.2	transdecoder	gene	1	203	.	+	.	ID=GENE.CP119420.2~~CP119420.2.p3;Name="ORF type:5prime_partial (+)"
+CP119420.2	transdecoder	mRNA	1	203	.	+	.	ID=CP119420.2.p3;Parent=GENE.CP119420.2~~CP119420.2.p3;Name="ORF type:5prime_partial (+)"
+CP119420.2	transdecoder	exon	1	203	.	+	.	ID=CP119420.2.p3.exon1;Parent=CP119420.2.p3
+CP119420.2	transdecoder	CDS	3	80	.	+	0	ID=cds.CP119420.2.p3;Parent=CP119420.2.p3;5_prime_partial=true
+CP119420.2	transdecoder	three_prime_UTR	81	203	.	+	.	ID=CP119420.2.p3.utr3p1;Parent=CP119420.2.p3
+
+CP119420.2	transdecoder	gene	1	203	.	+	.	ID=GENE.CP119420.2~~CP119420.2.p4;Name="ORF type:complete (+)"
+CP119420.2	transdecoder	mRNA	1	203	.	+	.	ID=CP119420.2.p4;Parent=GENE.CP119420.2~~CP119420.2.p4;Name="ORF type:complete (+)"
+CP119420.2	transdecoder	five_prime_UTR	1	110	.	+	.	ID=CP119420.2.p4.utr5p1;Parent=CP119420.2.p4
+CP119420.2	transdecoder	exon	1	203	.	+	.	ID=CP119420.2.p4.exon1;Parent=CP119420.2.p4
+CP119420.2	transdecoder	CDS	111	155	.	+	0	ID=cds.CP119420.2.p4;Parent=CP119420.2.p4
+CP119420.2	transdecoder	three_prime_UTR	156	203	.	+	.	ID=CP119420.2.p4.utr3p1;Parent=CP119420.2.p4
+
+CP119420.2	transdecoder	gene	1	203	.	+	.	ID=GENE.CP119420.2~~CP119420.2.p5;Name="ORF type:3prime_partial (+)"
+CP119420.2	transdecoder	mRNA	1	203	.	+	.	ID=CP119420.2.p5;Parent=GENE.CP119420.2~~CP119420.2.p5;Name="ORF type:3prime_partial (+)"
+CP119420.2	transdecoder	five_prime_UTR	1	164	.	+	.	ID=CP119420.2.p5.utr5p1;Parent=CP119420.2.p5
+CP119420.2	transdecoder	exon	1	203	.	+	.	ID=CP119420.2.p5.exon1;Parent=CP119420.2.p5
+CP119420.2	transdecoder	CDS	165	203	.	+	0	ID=cds.CP119420.2.p5;Parent=CP119420.2.p5;3_prime_partial=true
+

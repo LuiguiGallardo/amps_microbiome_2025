@@ -1,0 +1,31 @@
+LR699017.1	transdecoder	gene	1	184	.	+	.	ID=GENE.LR699017.1~~LR699017.1.p1;Name="ORF type:5prime_partial (+)"
+LR699017.1	transdecoder	mRNA	1	184	.	+	.	ID=LR699017.1.p1;Parent=GENE.LR699017.1~~LR699017.1.p1;Name="ORF type:5prime_partial (+)"
+LR699017.1	transdecoder	exon	1	184	.	+	.	ID=LR699017.1.p1.exon1;Parent=LR699017.1.p1
+LR699017.1	transdecoder	CDS	2	178	.	+	0	ID=cds.LR699017.1.p1;Parent=LR699017.1.p1;5_prime_partial=true
+LR699017.1	transdecoder	three_prime_UTR	179	184	.	+	.	ID=LR699017.1.p1.utr3p1;Parent=LR699017.1.p1
+
+LR699017.1	transdecoder	gene	1	184	.	-	.	ID=GENE.LR699017.1~~LR699017.1.p2;Name="ORF type:5prime_partial (-)"
+LR699017.1	transdecoder	mRNA	1	184	.	-	.	ID=LR699017.1.p2;Parent=GENE.LR699017.1~~LR699017.1.p2;Name="ORF type:5prime_partial (-)"
+LR699017.1	transdecoder	exon	1	184	.	-	.	ID=LR699017.1.p2.exon1;Parent=LR699017.1.p2
+LR699017.1	transdecoder	CDS	57	182	.	-	0	ID=cds.LR699017.1.p2;Parent=LR699017.1.p2;5_prime_partial=true
+LR699017.1	transdecoder	three_prime_UTR	1	56	.	-	.	ID=LR699017.1.p2.utr3p1;Parent=LR699017.1.p2
+
+LR699017.1	transdecoder	gene	1	184	.	+	.	ID=GENE.LR699017.1~~LR699017.1.p3;Name="ORF type:5prime_partial (+)"
+LR699017.1	transdecoder	mRNA	1	184	.	+	.	ID=LR699017.1.p3;Parent=GENE.LR699017.1~~LR699017.1.p3;Name="ORF type:5prime_partial (+)"
+LR699017.1	transdecoder	exon	1	184	.	+	.	ID=LR699017.1.p3.exon1;Parent=LR699017.1.p3
+LR699017.1	transdecoder	CDS	1	87	.	+	0	ID=cds.LR699017.1.p3;Parent=LR699017.1.p3;5_prime_partial=true
+LR699017.1	transdecoder	three_prime_UTR	88	184	.	+	.	ID=LR699017.1.p3.utr3p1;Parent=LR699017.1.p3
+
+LR699017.1	transdecoder	gene	1	184	.	-	.	ID=GENE.LR699017.1~~LR699017.1.p4;Name="ORF type:5prime_partial (-)"
+LR699017.1	transdecoder	mRNA	1	184	.	-	.	ID=LR699017.1.p4;Parent=GENE.LR699017.1~~LR699017.1.p4;Name="ORF type:5prime_partial (-)"
+LR699017.1	transdecoder	exon	1	184	.	-	.	ID=LR699017.1.p4.exon1;Parent=LR699017.1.p4
+LR699017.1	transdecoder	CDS	104	184	.	-	0	ID=cds.LR699017.1.p4;Parent=LR699017.1.p4;5_prime_partial=true
+LR699017.1	transdecoder	three_prime_UTR	1	103	.	-	.	ID=LR699017.1.p4.utr3p1;Parent=LR699017.1.p4
+
+LR699017.1	transdecoder	gene	1	184	.	-	.	ID=GENE.LR699017.1~~LR699017.1.p5;Name="ORF type:complete (-)"
+LR699017.1	transdecoder	mRNA	1	184	.	-	.	ID=LR699017.1.p5;Parent=GENE.LR699017.1~~LR699017.1.p5;Name="ORF type:complete (-)"
+LR699017.1	transdecoder	five_prime_UTR	74	184	.	-	.	ID=LR699017.1.p5.utr5p1;Parent=LR699017.1.p5
+LR699017.1	transdecoder	exon	1	184	.	-	.	ID=LR699017.1.p5.exon1;Parent=LR699017.1.p5
+LR699017.1	transdecoder	CDS	20	73	.	-	0	ID=cds.LR699017.1.p5;Parent=LR699017.1.p5
+LR699017.1	transdecoder	three_prime_UTR	1	19	.	-	.	ID=LR699017.1.p5.utr3p1;Parent=LR699017.1.p5
+

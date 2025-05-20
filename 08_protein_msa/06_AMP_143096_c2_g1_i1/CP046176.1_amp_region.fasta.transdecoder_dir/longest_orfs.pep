@@ -1,0 +1,12 @@
+>CP046176.1.p1 type:3prime_partial gc:universal CP046176.1:81-215(+)
+MLPEGVARHWKMKLCLGFQISLMSFPIQLMRLAFHLFPYDKYTPF
+>CP046176.1.p2 type:5prime_partial gc:universal CP046176.1:216-139(-)
+KRAYICHTERDEKRAALVGLGNSSN*
+>CP046176.1.p3 type:3prime_partial gc:universal CP046176.1:78-1(-)
+MPVDYKGGEHSKPVIRSFIASLVRLH
+>CP046176.1.p4 type:5prime_partial gc:universal CP046176.1:215-165(-)
+KGRIFVIRKEMKSEPH*
+>CP046176.1.p5 type:complete gc:universal CP046176.1:23-67(+)
+MKLRMTGFECSPPL*
+>CP046176.1.p6 type:5prime_partial gc:universal CP046176.1:217-182(-)
+KKGVYLSYGKR*

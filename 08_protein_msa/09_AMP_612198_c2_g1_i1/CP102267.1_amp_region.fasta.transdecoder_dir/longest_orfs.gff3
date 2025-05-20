@@ -1,0 +1,44 @@
+CP102267.1	transdecoder	gene	1	255	.	+	.	ID=GENE.CP102267.1~~CP102267.1.p1;Name="ORF type:5prime_partial (+)"
+CP102267.1	transdecoder	mRNA	1	255	.	+	.	ID=CP102267.1.p1;Parent=GENE.CP102267.1~~CP102267.1.p1;Name="ORF type:5prime_partial (+)"
+CP102267.1	transdecoder	exon	1	255	.	+	.	ID=CP102267.1.p1.exon1;Parent=CP102267.1.p1
+CP102267.1	transdecoder	CDS	2	124	.	+	0	ID=cds.CP102267.1.p1;Parent=CP102267.1.p1;5_prime_partial=true
+CP102267.1	transdecoder	three_prime_UTR	125	255	.	+	.	ID=CP102267.1.p1.utr3p1;Parent=CP102267.1.p1
+
+CP102267.1	transdecoder	gene	1	255	.	+	.	ID=GENE.CP102267.1~~CP102267.1.p2;Name="ORF type:5prime_partial (+)"
+CP102267.1	transdecoder	mRNA	1	255	.	+	.	ID=CP102267.1.p2;Parent=GENE.CP102267.1~~CP102267.1.p2;Name="ORF type:5prime_partial (+)"
+CP102267.1	transdecoder	exon	1	255	.	+	.	ID=CP102267.1.p2.exon1;Parent=CP102267.1.p2
+CP102267.1	transdecoder	CDS	3	107	.	+	0	ID=cds.CP102267.1.p2;Parent=CP102267.1.p2;5_prime_partial=true
+CP102267.1	transdecoder	three_prime_UTR	108	255	.	+	.	ID=CP102267.1.p2.utr3p1;Parent=CP102267.1.p2
+
+CP102267.1	transdecoder	gene	1	255	.	-	.	ID=GENE.CP102267.1~~CP102267.1.p3;Name="ORF type:complete (-)"
+CP102267.1	transdecoder	mRNA	1	255	.	-	.	ID=CP102267.1.p3;Parent=GENE.CP102267.1~~CP102267.1.p3;Name="ORF type:complete (-)"
+CP102267.1	transdecoder	five_prime_UTR	150	255	.	-	.	ID=CP102267.1.p3.utr5p1;Parent=CP102267.1.p3
+CP102267.1	transdecoder	exon	1	255	.	-	.	ID=CP102267.1.p3.exon1;Parent=CP102267.1.p3
+CP102267.1	transdecoder	CDS	48	149	.	-	0	ID=cds.CP102267.1.p3;Parent=CP102267.1.p3
+CP102267.1	transdecoder	three_prime_UTR	1	47	.	-	.	ID=CP102267.1.p3.utr3p1;Parent=CP102267.1.p3
+
+CP102267.1	transdecoder	gene	1	255	.	-	.	ID=GENE.CP102267.1~~CP102267.1.p4;Name="ORF type:5prime_partial (-)"
+CP102267.1	transdecoder	mRNA	1	255	.	-	.	ID=CP102267.1.p4;Parent=GENE.CP102267.1~~CP102267.1.p4;Name="ORF type:5prime_partial (-)"
+CP102267.1	transdecoder	exon	1	255	.	-	.	ID=CP102267.1.p4.exon1;Parent=CP102267.1.p4
+CP102267.1	transdecoder	CDS	170	253	.	-	0	ID=cds.CP102267.1.p4;Parent=CP102267.1.p4;5_prime_partial=true
+CP102267.1	transdecoder	three_prime_UTR	1	169	.	-	.	ID=CP102267.1.p4.utr3p1;Parent=CP102267.1.p4
+
+CP102267.1	transdecoder	gene	1	255	.	+	.	ID=GENE.CP102267.1~~CP102267.1.p5;Name="ORF type:5prime_partial (+)"
+CP102267.1	transdecoder	mRNA	1	255	.	+	.	ID=CP102267.1.p5;Parent=GENE.CP102267.1~~CP102267.1.p5;Name="ORF type:5prime_partial (+)"
+CP102267.1	transdecoder	exon	1	255	.	+	.	ID=CP102267.1.p5.exon1;Parent=CP102267.1.p5
+CP102267.1	transdecoder	CDS	1	60	.	+	0	ID=cds.CP102267.1.p5;Parent=CP102267.1.p5;5_prime_partial=true
+CP102267.1	transdecoder	three_prime_UTR	61	255	.	+	.	ID=CP102267.1.p5.utr3p1;Parent=CP102267.1.p5
+
+CP102267.1	transdecoder	gene	1	255	.	-	.	ID=GENE.CP102267.1~~CP102267.1.p6;Name="ORF type:5prime_partial (-)"
+CP102267.1	transdecoder	mRNA	1	255	.	-	.	ID=CP102267.1.p6;Parent=GENE.CP102267.1~~CP102267.1.p6;Name="ORF type:5prime_partial (-)"
+CP102267.1	transdecoder	exon	1	255	.	-	.	ID=CP102267.1.p6.exon1;Parent=CP102267.1.p6
+CP102267.1	transdecoder	CDS	195	254	.	-	0	ID=cds.CP102267.1.p6;Parent=CP102267.1.p6;5_prime_partial=true
+CP102267.1	transdecoder	three_prime_UTR	1	194	.	-	.	ID=CP102267.1.p6.utr3p1;Parent=CP102267.1.p6
+
+CP102267.1	transdecoder	gene	1	255	.	-	.	ID=GENE.CP102267.1~~CP102267.1.p7;Name="ORF type:complete (-)"
+CP102267.1	transdecoder	mRNA	1	255	.	-	.	ID=CP102267.1.p7;Parent=GENE.CP102267.1~~CP102267.1.p7;Name="ORF type:complete (-)"
+CP102267.1	transdecoder	five_prime_UTR	101	255	.	-	.	ID=CP102267.1.p7.utr5p1;Parent=CP102267.1.p7
+CP102267.1	transdecoder	exon	1	255	.	-	.	ID=CP102267.1.p7.exon1;Parent=CP102267.1.p7
+CP102267.1	transdecoder	CDS	65	100	.	-	0	ID=cds.CP102267.1.p7;Parent=CP102267.1.p7
+CP102267.1	transdecoder	three_prime_UTR	1	64	.	-	.	ID=CP102267.1.p7.utr3p1;Parent=CP102267.1.p7
+

@@ -1,0 +1,35 @@
+FP929046.1	transdecoder	gene	1	188	.	+	.	ID=GENE.FP929046.1~~FP929046.1.p1;Name="ORF type:internal (+)"
+FP929046.1	transdecoder	mRNA	1	188	.	+	.	ID=FP929046.1.p1;Parent=GENE.FP929046.1~~FP929046.1.p1;Name="ORF type:internal (+)"
+FP929046.1	transdecoder	exon	1	188	.	+	.	ID=FP929046.1.p1.exon1;Parent=FP929046.1.p1
+FP929046.1	transdecoder	CDS	1	186	.	+	0	ID=cds.FP929046.1.p1;Parent=FP929046.1.p1;5_prime_partial=true;3_prime_partial=true
+
+FP929046.1	transdecoder	gene	1	188	.	+	.	ID=GENE.FP929046.1~~FP929046.1.p2;Name="ORF type:5prime_partial (+)"
+FP929046.1	transdecoder	mRNA	1	188	.	+	.	ID=FP929046.1.p2;Parent=GENE.FP929046.1~~FP929046.1.p2;Name="ORF type:5prime_partial (+)"
+FP929046.1	transdecoder	exon	1	188	.	+	.	ID=FP929046.1.p2.exon1;Parent=FP929046.1.p2
+FP929046.1	transdecoder	CDS	3	182	.	+	0	ID=cds.FP929046.1.p2;Parent=FP929046.1.p2;5_prime_partial=true
+FP929046.1	transdecoder	three_prime_UTR	183	188	.	+	.	ID=FP929046.1.p2.utr3p1;Parent=FP929046.1.p2
+
+FP929046.1	transdecoder	gene	1	188	.	-	.	ID=GENE.FP929046.1~~FP929046.1.p3;Name="ORF type:5prime_partial (-)"
+FP929046.1	transdecoder	mRNA	1	188	.	-	.	ID=FP929046.1.p3;Parent=GENE.FP929046.1~~FP929046.1.p3;Name="ORF type:5prime_partial (-)"
+FP929046.1	transdecoder	exon	1	188	.	-	.	ID=FP929046.1.p3.exon1;Parent=FP929046.1.p3
+FP929046.1	transdecoder	CDS	108	188	.	-	0	ID=cds.FP929046.1.p3;Parent=FP929046.1.p3;5_prime_partial=true
+FP929046.1	transdecoder	three_prime_UTR	1	107	.	-	.	ID=FP929046.1.p3.utr3p1;Parent=FP929046.1.p3
+
+FP929046.1	transdecoder	gene	1	188	.	-	.	ID=GENE.FP929046.1~~FP929046.1.p4;Name="ORF type:3prime_partial (-)"
+FP929046.1	transdecoder	mRNA	1	188	.	-	.	ID=FP929046.1.p4;Parent=GENE.FP929046.1~~FP929046.1.p4;Name="ORF type:3prime_partial (-)"
+FP929046.1	transdecoder	five_prime_UTR	78	188	.	-	.	ID=FP929046.1.p4.utr5p1;Parent=FP929046.1.p4
+FP929046.1	transdecoder	exon	1	188	.	-	.	ID=FP929046.1.p4.exon1;Parent=FP929046.1.p4
+FP929046.1	transdecoder	CDS	3	77	.	-	0	ID=cds.FP929046.1.p4;Parent=FP929046.1.p4;3_prime_partial=true
+
+FP929046.1	transdecoder	gene	1	188	.	-	.	ID=GENE.FP929046.1~~FP929046.1.p5;Name="ORF type:5prime_partial (-)"
+FP929046.1	transdecoder	mRNA	1	188	.	-	.	ID=FP929046.1.p5;Parent=GENE.FP929046.1~~FP929046.1.p5;Name="ORF type:5prime_partial (-)"
+FP929046.1	transdecoder	exon	1	188	.	-	.	ID=FP929046.1.p5.exon1;Parent=FP929046.1.p5
+FP929046.1	transdecoder	CDS	151	186	.	-	0	ID=cds.FP929046.1.p5;Parent=FP929046.1.p5;5_prime_partial=true
+FP929046.1	transdecoder	three_prime_UTR	1	150	.	-	.	ID=FP929046.1.p5.utr3p1;Parent=FP929046.1.p5
+
+FP929046.1	transdecoder	gene	1	188	.	+	.	ID=GENE.FP929046.1~~FP929046.1.p6;Name="ORF type:5prime_partial (+)"
+FP929046.1	transdecoder	mRNA	1	188	.	+	.	ID=FP929046.1.p6;Parent=GENE.FP929046.1~~FP929046.1.p6;Name="ORF type:5prime_partial (+)"
+FP929046.1	transdecoder	exon	1	188	.	+	.	ID=FP929046.1.p6.exon1;Parent=FP929046.1.p6
+FP929046.1	transdecoder	CDS	2	31	.	+	0	ID=cds.FP929046.1.p6;Parent=FP929046.1.p6;5_prime_partial=true
+FP929046.1	transdecoder	three_prime_UTR	32	188	.	+	.	ID=FP929046.1.p6.utr3p1;Parent=FP929046.1.p6
+

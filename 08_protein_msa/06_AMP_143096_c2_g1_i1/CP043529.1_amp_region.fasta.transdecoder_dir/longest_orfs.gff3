@@ -1,0 +1,37 @@
+CP043529.1	transdecoder	gene	1	217	.	-	.	ID=GENE.CP043529.1~~CP043529.1.p1;Name="ORF type:3prime_partial (-)"
+CP043529.1	transdecoder	mRNA	1	217	.	-	.	ID=CP043529.1.p1;Parent=GENE.CP043529.1~~CP043529.1.p1;Name="ORF type:3prime_partial (-)"
+CP043529.1	transdecoder	five_prime_UTR	138	217	.	-	.	ID=CP043529.1.p1.utr5p1;Parent=CP043529.1.p1
+CP043529.1	transdecoder	exon	1	217	.	-	.	ID=CP043529.1.p1.exon1;Parent=CP043529.1.p1
+CP043529.1	transdecoder	CDS	3	137	.	-	0	ID=cds.CP043529.1.p1;Parent=CP043529.1.p1;3_prime_partial=true
+
+CP043529.1	transdecoder	gene	1	217	.	+	.	ID=GENE.CP043529.1~~CP043529.1.p2;Name="ORF type:5prime_partial (+)"
+CP043529.1	transdecoder	mRNA	1	217	.	+	.	ID=CP043529.1.p2;Parent=GENE.CP043529.1~~CP043529.1.p2;Name="ORF type:5prime_partial (+)"
+CP043529.1	transdecoder	exon	1	217	.	+	.	ID=CP043529.1.p2.exon1;Parent=CP043529.1.p2
+CP043529.1	transdecoder	CDS	2	79	.	+	0	ID=cds.CP043529.1.p2;Parent=CP043529.1.p2;5_prime_partial=true
+CP043529.1	transdecoder	three_prime_UTR	80	217	.	+	.	ID=CP043529.1.p2.utr3p1;Parent=CP043529.1.p2
+
+CP043529.1	transdecoder	gene	1	217	.	+	.	ID=GENE.CP043529.1~~CP043529.1.p3;Name="ORF type:3prime_partial (+)"
+CP043529.1	transdecoder	mRNA	1	217	.	+	.	ID=CP043529.1.p3;Parent=GENE.CP043529.1~~CP043529.1.p3;Name="ORF type:3prime_partial (+)"
+CP043529.1	transdecoder	five_prime_UTR	1	139	.	+	.	ID=CP043529.1.p3.utr5p1;Parent=CP043529.1.p3
+CP043529.1	transdecoder	exon	1	217	.	+	.	ID=CP043529.1.p3.exon1;Parent=CP043529.1.p3
+CP043529.1	transdecoder	CDS	140	217	.	+	0	ID=cds.CP043529.1.p3;Parent=CP043529.1.p3;3_prime_partial=true
+
+CP043529.1	transdecoder	gene	1	217	.	+	.	ID=GENE.CP043529.1~~CP043529.1.p4;Name="ORF type:5prime_partial (+)"
+CP043529.1	transdecoder	mRNA	1	217	.	+	.	ID=CP043529.1.p4;Parent=GENE.CP043529.1~~CP043529.1.p4;Name="ORF type:5prime_partial (+)"
+CP043529.1	transdecoder	exon	1	217	.	+	.	ID=CP043529.1.p4.exon1;Parent=CP043529.1.p4
+CP043529.1	transdecoder	CDS	3	53	.	+	0	ID=cds.CP043529.1.p4;Parent=CP043529.1.p4;5_prime_partial=true
+CP043529.1	transdecoder	three_prime_UTR	54	217	.	+	.	ID=CP043529.1.p4.utr3p1;Parent=CP043529.1.p4
+
+CP043529.1	transdecoder	gene	1	217	.	-	.	ID=GENE.CP043529.1~~CP043529.1.p5;Name="ORF type:complete (-)"
+CP043529.1	transdecoder	mRNA	1	217	.	-	.	ID=CP043529.1.p5;Parent=GENE.CP043529.1~~CP043529.1.p5;Name="ORF type:complete (-)"
+CP043529.1	transdecoder	five_prime_UTR	196	217	.	-	.	ID=CP043529.1.p5.utr5p1;Parent=CP043529.1.p5
+CP043529.1	transdecoder	exon	1	217	.	-	.	ID=CP043529.1.p5.exon1;Parent=CP043529.1.p5
+CP043529.1	transdecoder	CDS	151	195	.	-	0	ID=cds.CP043529.1.p5;Parent=CP043529.1.p5
+CP043529.1	transdecoder	three_prime_UTR	1	150	.	-	.	ID=CP043529.1.p5.utr3p1;Parent=CP043529.1.p5
+
+CP043529.1	transdecoder	gene	1	217	.	+	.	ID=GENE.CP043529.1~~CP043529.1.p6;Name="ORF type:5prime_partial (+)"
+CP043529.1	transdecoder	mRNA	1	217	.	+	.	ID=CP043529.1.p6;Parent=GENE.CP043529.1~~CP043529.1.p6;Name="ORF type:5prime_partial (+)"
+CP043529.1	transdecoder	exon	1	217	.	+	.	ID=CP043529.1.p6.exon1;Parent=CP043529.1.p6
+CP043529.1	transdecoder	CDS	1	36	.	+	0	ID=cds.CP043529.1.p6;Parent=CP043529.1.p6;5_prime_partial=true
+CP043529.1	transdecoder	three_prime_UTR	37	217	.	+	.	ID=CP043529.1.p6.utr3p1;Parent=CP043529.1.p6
+

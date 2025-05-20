@@ -1,0 +1,1 @@
+/Users/luigui/miniforge3/envs/transdecoder_env/opt/transdecoder/util/compute_base_probs.pl BK025808.1_amp_region.fasta 0 > /Volumes/black/01_amps_2024/11_protein_alignment/03_AMP_138681_c7_g1_i1/BK025808.1_amp_region.fasta.transdecoder_dir/base_freqs.dat

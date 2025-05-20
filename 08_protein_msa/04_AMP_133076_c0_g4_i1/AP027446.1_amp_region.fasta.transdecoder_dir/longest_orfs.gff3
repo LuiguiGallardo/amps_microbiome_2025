@@ -1,0 +1,64 @@
+AP027446.1	transdecoder	gene	1	365	.	-	.	ID=GENE.AP027446.1~~AP027446.1.p1;Name="ORF type:5prime_partial (-)"
+AP027446.1	transdecoder	mRNA	1	365	.	-	.	ID=AP027446.1.p1;Parent=GENE.AP027446.1~~AP027446.1.p1;Name="ORF type:5prime_partial (-)"
+AP027446.1	transdecoder	exon	1	365	.	-	.	ID=AP027446.1.p1.exon1;Parent=AP027446.1.p1
+AP027446.1	transdecoder	CDS	201	365	.	-	0	ID=cds.AP027446.1.p1;Parent=AP027446.1.p1;5_prime_partial=true
+AP027446.1	transdecoder	three_prime_UTR	1	200	.	-	.	ID=AP027446.1.p1.utr3p1;Parent=AP027446.1.p1
+
+AP027446.1	transdecoder	gene	1	365	.	+	.	ID=GENE.AP027446.1~~AP027446.1.p2;Name="ORF type:5prime_partial (+)"
+AP027446.1	transdecoder	mRNA	1	365	.	+	.	ID=AP027446.1.p2;Parent=GENE.AP027446.1~~AP027446.1.p2;Name="ORF type:5prime_partial (+)"
+AP027446.1	transdecoder	exon	1	365	.	+	.	ID=AP027446.1.p2.exon1;Parent=AP027446.1.p2
+AP027446.1	transdecoder	CDS	3	158	.	+	0	ID=cds.AP027446.1.p2;Parent=AP027446.1.p2;5_prime_partial=true
+AP027446.1	transdecoder	three_prime_UTR	159	365	.	+	.	ID=AP027446.1.p2.utr3p1;Parent=AP027446.1.p2
+
+AP027446.1	transdecoder	gene	1	365	.	+	.	ID=GENE.AP027446.1~~AP027446.1.p3;Name="ORF type:5prime_partial (+)"
+AP027446.1	transdecoder	mRNA	1	365	.	+	.	ID=AP027446.1.p3;Parent=GENE.AP027446.1~~AP027446.1.p3;Name="ORF type:5prime_partial (+)"
+AP027446.1	transdecoder	exon	1	365	.	+	.	ID=AP027446.1.p3.exon1;Parent=AP027446.1.p3
+AP027446.1	transdecoder	CDS	2	124	.	+	0	ID=cds.AP027446.1.p3;Parent=AP027446.1.p3;5_prime_partial=true
+AP027446.1	transdecoder	three_prime_UTR	125	365	.	+	.	ID=AP027446.1.p3.utr3p1;Parent=AP027446.1.p3
+
+AP027446.1	transdecoder	gene	1	365	.	-	.	ID=GENE.AP027446.1~~AP027446.1.p4;Name="ORF type:5prime_partial (-)"
+AP027446.1	transdecoder	mRNA	1	365	.	-	.	ID=AP027446.1.p4;Parent=GENE.AP027446.1~~AP027446.1.p4;Name="ORF type:5prime_partial (-)"
+AP027446.1	transdecoder	exon	1	365	.	-	.	ID=AP027446.1.p4.exon1;Parent=AP027446.1.p4
+AP027446.1	transdecoder	CDS	271	363	.	-	0	ID=cds.AP027446.1.p4;Parent=AP027446.1.p4;5_prime_partial=true
+AP027446.1	transdecoder	three_prime_UTR	1	270	.	-	.	ID=AP027446.1.p4.utr3p1;Parent=AP027446.1.p4
+
+AP027446.1	transdecoder	gene	1	365	.	-	.	ID=GENE.AP027446.1~~AP027446.1.p5;Name="ORF type:complete (-)"
+AP027446.1	transdecoder	mRNA	1	365	.	-	.	ID=AP027446.1.p5;Parent=GENE.AP027446.1~~AP027446.1.p5;Name="ORF type:complete (-)"
+AP027446.1	transdecoder	five_prime_UTR	221	365	.	-	.	ID=AP027446.1.p5.utr5p1;Parent=AP027446.1.p5
+AP027446.1	transdecoder	exon	1	365	.	-	.	ID=AP027446.1.p5.exon1;Parent=AP027446.1.p5
+AP027446.1	transdecoder	CDS	140	220	.	-	0	ID=cds.AP027446.1.p5;Parent=AP027446.1.p5
+AP027446.1	transdecoder	three_prime_UTR	1	139	.	-	.	ID=AP027446.1.p5.utr3p1;Parent=AP027446.1.p5
+
+AP027446.1	transdecoder	gene	1	365	.	-	.	ID=GENE.AP027446.1~~AP027446.1.p6;Name="ORF type:complete (-)"
+AP027446.1	transdecoder	mRNA	1	365	.	-	.	ID=AP027446.1.p6;Parent=GENE.AP027446.1~~AP027446.1.p6;Name="ORF type:complete (-)"
+AP027446.1	transdecoder	five_prime_UTR	120	365	.	-	.	ID=AP027446.1.p6.utr5p1;Parent=AP027446.1.p6
+AP027446.1	transdecoder	exon	1	365	.	-	.	ID=AP027446.1.p6.exon1;Parent=AP027446.1.p6
+AP027446.1	transdecoder	CDS	75	119	.	-	0	ID=cds.AP027446.1.p6;Parent=AP027446.1.p6
+AP027446.1	transdecoder	three_prime_UTR	1	74	.	-	.	ID=AP027446.1.p6.utr3p1;Parent=AP027446.1.p6
+
+AP027446.1	transdecoder	gene	1	365	.	-	.	ID=GENE.AP027446.1~~AP027446.1.p7;Name="ORF type:complete (-)"
+AP027446.1	transdecoder	mRNA	1	365	.	-	.	ID=AP027446.1.p7;Parent=GENE.AP027446.1~~AP027446.1.p7;Name="ORF type:complete (-)"
+AP027446.1	transdecoder	five_prime_UTR	205	365	.	-	.	ID=AP027446.1.p7.utr5p1;Parent=AP027446.1.p7
+AP027446.1	transdecoder	exon	1	365	.	-	.	ID=AP027446.1.p7.exon1;Parent=AP027446.1.p7
+AP027446.1	transdecoder	CDS	163	204	.	-	0	ID=cds.AP027446.1.p7;Parent=AP027446.1.p7
+AP027446.1	transdecoder	three_prime_UTR	1	162	.	-	.	ID=AP027446.1.p7.utr3p1;Parent=AP027446.1.p7
+
+AP027446.1	transdecoder	gene	1	365	.	+	.	ID=GENE.AP027446.1~~AP027446.1.p8;Name="ORF type:3prime_partial (+)"
+AP027446.1	transdecoder	mRNA	1	365	.	+	.	ID=AP027446.1.p8;Parent=GENE.AP027446.1~~AP027446.1.p8;Name="ORF type:3prime_partial (+)"
+AP027446.1	transdecoder	five_prime_UTR	1	333	.	+	.	ID=AP027446.1.p8.utr5p1;Parent=AP027446.1.p8
+AP027446.1	transdecoder	exon	1	365	.	+	.	ID=AP027446.1.p8.exon1;Parent=AP027446.1.p8
+AP027446.1	transdecoder	CDS	334	363	.	+	0	ID=cds.AP027446.1.p8;Parent=AP027446.1.p8;3_prime_partial=true
+
+AP027446.1	transdecoder	gene	1	365	.	-	.	ID=GENE.AP027446.1~~AP027446.1.p9;Name="ORF type:complete (-)"
+AP027446.1	transdecoder	mRNA	1	365	.	-	.	ID=AP027446.1.p9;Parent=GENE.AP027446.1~~AP027446.1.p9;Name="ORF type:complete (-)"
+AP027446.1	transdecoder	five_prime_UTR	50	365	.	-	.	ID=AP027446.1.p9.utr5p1;Parent=AP027446.1.p9
+AP027446.1	transdecoder	exon	1	365	.	-	.	ID=AP027446.1.p9.exon1;Parent=AP027446.1.p9
+AP027446.1	transdecoder	CDS	20	49	.	-	0	ID=cds.AP027446.1.p9;Parent=AP027446.1.p9
+AP027446.1	transdecoder	three_prime_UTR	1	19	.	-	.	ID=AP027446.1.p9.utr3p1;Parent=AP027446.1.p9
+
+AP027446.1	transdecoder	gene	1	365	.	-	.	ID=GENE.AP027446.1~~AP027446.1.p10;Name="ORF type:5prime_partial (-)"
+AP027446.1	transdecoder	mRNA	1	365	.	-	.	ID=AP027446.1.p10;Parent=GENE.AP027446.1~~AP027446.1.p10;Name="ORF type:5prime_partial (-)"
+AP027446.1	transdecoder	exon	1	365	.	-	.	ID=AP027446.1.p10.exon1;Parent=AP027446.1.p10
+AP027446.1	transdecoder	CDS	338	364	.	-	0	ID=cds.AP027446.1.p10;Parent=AP027446.1.p10;5_prime_partial=true
+AP027446.1	transdecoder	three_prime_UTR	1	337	.	-	.	ID=AP027446.1.p10.utr3p1;Parent=AP027446.1.p10
+

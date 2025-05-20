@@ -1,0 +1,113 @@
+CP103206.1	transdecoder	gene	1	704	.	-	.	ID=GENE.CP103206.1~~CP103206.1.p1;Name="ORF type:5prime_partial (-)"
+CP103206.1	transdecoder	mRNA	1	704	.	-	.	ID=CP103206.1.p1;Parent=GENE.CP103206.1~~CP103206.1.p1;Name="ORF type:5prime_partial (-)"
+CP103206.1	transdecoder	exon	1	704	.	-	.	ID=CP103206.1.p1.exon1;Parent=CP103206.1.p1
+CP103206.1	transdecoder	CDS	383	703	.	-	0	ID=cds.CP103206.1.p1;Parent=CP103206.1.p1;5_prime_partial=true
+CP103206.1	transdecoder	three_prime_UTR	1	382	.	-	.	ID=CP103206.1.p1.utr3p1;Parent=CP103206.1.p1
+
+CP103206.1	transdecoder	gene	1	704	.	-	.	ID=GENE.CP103206.1~~CP103206.1.p2;Name="ORF type:complete (-)"
+CP103206.1	transdecoder	mRNA	1	704	.	-	.	ID=CP103206.1.p2;Parent=GENE.CP103206.1~~CP103206.1.p2;Name="ORF type:complete (-)"
+CP103206.1	transdecoder	five_prime_UTR	631	704	.	-	.	ID=CP103206.1.p2.utr5p1;Parent=CP103206.1.p2
+CP103206.1	transdecoder	exon	1	704	.	-	.	ID=CP103206.1.p2.exon1;Parent=CP103206.1.p2
+CP103206.1	transdecoder	CDS	448	630	.	-	0	ID=cds.CP103206.1.p2;Parent=CP103206.1.p2
+CP103206.1	transdecoder	three_prime_UTR	1	447	.	-	.	ID=CP103206.1.p2.utr3p1;Parent=CP103206.1.p2
+
+CP103206.1	transdecoder	gene	1	704	.	-	.	ID=GENE.CP103206.1~~CP103206.1.p3;Name="ORF type:complete (-)"
+CP103206.1	transdecoder	mRNA	1	704	.	-	.	ID=CP103206.1.p3;Parent=GENE.CP103206.1~~CP103206.1.p3;Name="ORF type:complete (-)"
+CP103206.1	transdecoder	five_prime_UTR	164	704	.	-	.	ID=CP103206.1.p3.utr5p1;Parent=CP103206.1.p3
+CP103206.1	transdecoder	exon	1	704	.	-	.	ID=CP103206.1.p3.exon1;Parent=CP103206.1.p3
+CP103206.1	transdecoder	CDS	2	163	.	-	0	ID=cds.CP103206.1.p3;Parent=CP103206.1.p3
+
+CP103206.1	transdecoder	gene	1	704	.	+	.	ID=GENE.CP103206.1~~CP103206.1.p4;Name="ORF type:3prime_partial (+)"
+CP103206.1	transdecoder	mRNA	1	704	.	+	.	ID=CP103206.1.p4;Parent=GENE.CP103206.1~~CP103206.1.p4;Name="ORF type:3prime_partial (+)"
+CP103206.1	transdecoder	five_prime_UTR	1	565	.	+	.	ID=CP103206.1.p4.utr5p1;Parent=CP103206.1.p4
+CP103206.1	transdecoder	exon	1	704	.	+	.	ID=CP103206.1.p4.exon1;Parent=CP103206.1.p4
+CP103206.1	transdecoder	CDS	566	703	.	+	0	ID=cds.CP103206.1.p4;Parent=CP103206.1.p4;3_prime_partial=true
+
+CP103206.1	transdecoder	gene	1	704	.	+	.	ID=GENE.CP103206.1~~CP103206.1.p5;Name="ORF type:complete (+)"
+CP103206.1	transdecoder	mRNA	1	704	.	+	.	ID=CP103206.1.p5;Parent=GENE.CP103206.1~~CP103206.1.p5;Name="ORF type:complete (+)"
+CP103206.1	transdecoder	five_prime_UTR	1	412	.	+	.	ID=CP103206.1.p5.utr5p1;Parent=CP103206.1.p5
+CP103206.1	transdecoder	exon	1	704	.	+	.	ID=CP103206.1.p5.exon1;Parent=CP103206.1.p5
+CP103206.1	transdecoder	CDS	413	550	.	+	0	ID=cds.CP103206.1.p5;Parent=CP103206.1.p5
+CP103206.1	transdecoder	three_prime_UTR	551	704	.	+	.	ID=CP103206.1.p5.utr3p1;Parent=CP103206.1.p5
+
+CP103206.1	transdecoder	gene	1	704	.	-	.	ID=GENE.CP103206.1~~CP103206.1.p6;Name="ORF type:complete (-)"
+CP103206.1	transdecoder	mRNA	1	704	.	-	.	ID=CP103206.1.p6;Parent=GENE.CP103206.1~~CP103206.1.p6;Name="ORF type:complete (-)"
+CP103206.1	transdecoder	five_prime_UTR	290	704	.	-	.	ID=CP103206.1.p6.utr5p1;Parent=CP103206.1.p6
+CP103206.1	transdecoder	exon	1	704	.	-	.	ID=CP103206.1.p6.exon1;Parent=CP103206.1.p6
+CP103206.1	transdecoder	CDS	167	289	.	-	0	ID=cds.CP103206.1.p6;Parent=CP103206.1.p6
+CP103206.1	transdecoder	three_prime_UTR	1	166	.	-	.	ID=CP103206.1.p6.utr3p1;Parent=CP103206.1.p6
+
+CP103206.1	transdecoder	gene	1	704	.	+	.	ID=GENE.CP103206.1~~CP103206.1.p7;Name="ORF type:5prime_partial (+)"
+CP103206.1	transdecoder	mRNA	1	704	.	+	.	ID=CP103206.1.p7;Parent=GENE.CP103206.1~~CP103206.1.p7;Name="ORF type:5prime_partial (+)"
+CP103206.1	transdecoder	exon	1	704	.	+	.	ID=CP103206.1.p7.exon1;Parent=CP103206.1.p7
+CP103206.1	transdecoder	CDS	2	106	.	+	0	ID=cds.CP103206.1.p7;Parent=CP103206.1.p7;5_prime_partial=true
+CP103206.1	transdecoder	three_prime_UTR	107	704	.	+	.	ID=CP103206.1.p7.utr3p1;Parent=CP103206.1.p7
+
+CP103206.1	transdecoder	gene	1	704	.	+	.	ID=GENE.CP103206.1~~CP103206.1.p8;Name="ORF type:complete (+)"
+CP103206.1	transdecoder	mRNA	1	704	.	+	.	ID=CP103206.1.p8;Parent=GENE.CP103206.1~~CP103206.1.p8;Name="ORF type:complete (+)"
+CP103206.1	transdecoder	five_prime_UTR	1	190	.	+	.	ID=CP103206.1.p8.utr5p1;Parent=CP103206.1.p8
+CP103206.1	transdecoder	exon	1	704	.	+	.	ID=CP103206.1.p8.exon1;Parent=CP103206.1.p8
+CP103206.1	transdecoder	CDS	191	271	.	+	0	ID=cds.CP103206.1.p8;Parent=CP103206.1.p8
+CP103206.1	transdecoder	three_prime_UTR	272	704	.	+	.	ID=CP103206.1.p8.utr3p1;Parent=CP103206.1.p8
+
+CP103206.1	transdecoder	gene	1	704	.	+	.	ID=GENE.CP103206.1~~CP103206.1.p9;Name="ORF type:complete (+)"
+CP103206.1	transdecoder	mRNA	1	704	.	+	.	ID=CP103206.1.p9;Parent=GENE.CP103206.1~~CP103206.1.p9;Name="ORF type:complete (+)"
+CP103206.1	transdecoder	five_prime_UTR	1	215	.	+	.	ID=CP103206.1.p9.utr5p1;Parent=CP103206.1.p9
+CP103206.1	transdecoder	exon	1	704	.	+	.	ID=CP103206.1.p9.exon1;Parent=CP103206.1.p9
+CP103206.1	transdecoder	CDS	216	293	.	+	0	ID=cds.CP103206.1.p9;Parent=CP103206.1.p9
+CP103206.1	transdecoder	three_prime_UTR	294	704	.	+	.	ID=CP103206.1.p9.utr3p1;Parent=CP103206.1.p9
+
+CP103206.1	transdecoder	gene	1	704	.	+	.	ID=GENE.CP103206.1~~CP103206.1.p10;Name="ORF type:complete (+)"
+CP103206.1	transdecoder	mRNA	1	704	.	+	.	ID=CP103206.1.p10;Parent=GENE.CP103206.1~~CP103206.1.p10;Name="ORF type:complete (+)"
+CP103206.1	transdecoder	five_prime_UTR	1	569	.	+	.	ID=CP103206.1.p10.utr5p1;Parent=CP103206.1.p10
+CP103206.1	transdecoder	exon	1	704	.	+	.	ID=CP103206.1.p10.exon1;Parent=CP103206.1.p10
+CP103206.1	transdecoder	CDS	570	632	.	+	0	ID=cds.CP103206.1.p10;Parent=CP103206.1.p10
+CP103206.1	transdecoder	three_prime_UTR	633	704	.	+	.	ID=CP103206.1.p10.utr3p1;Parent=CP103206.1.p10
+
+CP103206.1	transdecoder	gene	1	704	.	+	.	ID=GENE.CP103206.1~~CP103206.1.p11;Name="ORF type:complete (+)"
+CP103206.1	transdecoder	mRNA	1	704	.	+	.	ID=CP103206.1.p11;Parent=GENE.CP103206.1~~CP103206.1.p11;Name="ORF type:complete (+)"
+CP103206.1	transdecoder	five_prime_UTR	1	355	.	+	.	ID=CP103206.1.p11.utr5p1;Parent=CP103206.1.p11
+CP103206.1	transdecoder	exon	1	704	.	+	.	ID=CP103206.1.p11.exon1;Parent=CP103206.1.p11
+CP103206.1	transdecoder	CDS	356	412	.	+	0	ID=cds.CP103206.1.p11;Parent=CP103206.1.p11
+CP103206.1	transdecoder	three_prime_UTR	413	704	.	+	.	ID=CP103206.1.p11.utr3p1;Parent=CP103206.1.p11
+
+CP103206.1	transdecoder	gene	1	704	.	-	.	ID=GENE.CP103206.1~~CP103206.1.p12;Name="ORF type:complete (-)"
+CP103206.1	transdecoder	mRNA	1	704	.	-	.	ID=CP103206.1.p12;Parent=GENE.CP103206.1~~CP103206.1.p12;Name="ORF type:complete (-)"
+CP103206.1	transdecoder	five_prime_UTR	193	704	.	-	.	ID=CP103206.1.p12.utr5p1;Parent=CP103206.1.p12
+CP103206.1	transdecoder	exon	1	704	.	-	.	ID=CP103206.1.p12.exon1;Parent=CP103206.1.p12
+CP103206.1	transdecoder	CDS	136	192	.	-	0	ID=cds.CP103206.1.p12;Parent=CP103206.1.p12
+CP103206.1	transdecoder	three_prime_UTR	1	135	.	-	.	ID=CP103206.1.p12.utr3p1;Parent=CP103206.1.p12
+
+CP103206.1	transdecoder	gene	1	704	.	+	.	ID=GENE.CP103206.1~~CP103206.1.p13;Name="ORF type:complete (+)"
+CP103206.1	transdecoder	mRNA	1	704	.	+	.	ID=CP103206.1.p13;Parent=GENE.CP103206.1~~CP103206.1.p13;Name="ORF type:complete (+)"
+CP103206.1	transdecoder	five_prime_UTR	1	323	.	+	.	ID=CP103206.1.p13.utr5p1;Parent=CP103206.1.p13
+CP103206.1	transdecoder	exon	1	704	.	+	.	ID=CP103206.1.p13.exon1;Parent=CP103206.1.p13
+CP103206.1	transdecoder	CDS	324	374	.	+	0	ID=cds.CP103206.1.p13;Parent=CP103206.1.p13
+CP103206.1	transdecoder	three_prime_UTR	375	704	.	+	.	ID=CP103206.1.p13.utr3p1;Parent=CP103206.1.p13
+
+CP103206.1	transdecoder	gene	1	704	.	+	.	ID=GENE.CP103206.1~~CP103206.1.p14;Name="ORF type:3prime_partial (+)"
+CP103206.1	transdecoder	mRNA	1	704	.	+	.	ID=CP103206.1.p14;Parent=GENE.CP103206.1~~CP103206.1.p14;Name="ORF type:3prime_partial (+)"
+CP103206.1	transdecoder	five_prime_UTR	1	668	.	+	.	ID=CP103206.1.p14.utr5p1;Parent=CP103206.1.p14
+CP103206.1	transdecoder	exon	1	704	.	+	.	ID=CP103206.1.p14.exon1;Parent=CP103206.1.p14
+CP103206.1	transdecoder	CDS	669	704	.	+	0	ID=cds.CP103206.1.p14;Parent=CP103206.1.p14;3_prime_partial=true
+
+CP103206.1	transdecoder	gene	1	704	.	+	.	ID=GENE.CP103206.1~~CP103206.1.p15;Name="ORF type:complete (+)"
+CP103206.1	transdecoder	mRNA	1	704	.	+	.	ID=CP103206.1.p15;Parent=GENE.CP103206.1~~CP103206.1.p15;Name="ORF type:complete (+)"
+CP103206.1	transdecoder	five_prime_UTR	1	392	.	+	.	ID=CP103206.1.p15.utr5p1;Parent=CP103206.1.p15
+CP103206.1	transdecoder	exon	1	704	.	+	.	ID=CP103206.1.p15.exon1;Parent=CP103206.1.p15
+CP103206.1	transdecoder	CDS	393	425	.	+	0	ID=cds.CP103206.1.p15;Parent=CP103206.1.p15
+CP103206.1	transdecoder	three_prime_UTR	426	704	.	+	.	ID=CP103206.1.p15.utr3p1;Parent=CP103206.1.p15
+
+CP103206.1	transdecoder	gene	1	704	.	+	.	ID=GENE.CP103206.1~~CP103206.1.p16;Name="ORF type:complete (+)"
+CP103206.1	transdecoder	mRNA	1	704	.	+	.	ID=CP103206.1.p16;Parent=GENE.CP103206.1~~CP103206.1.p16;Name="ORF type:complete (+)"
+CP103206.1	transdecoder	five_prime_UTR	1	47	.	+	.	ID=CP103206.1.p16.utr5p1;Parent=CP103206.1.p16
+CP103206.1	transdecoder	exon	1	704	.	+	.	ID=CP103206.1.p16.exon1;Parent=CP103206.1.p16
+CP103206.1	transdecoder	CDS	48	74	.	+	0	ID=cds.CP103206.1.p16;Parent=CP103206.1.p16
+CP103206.1	transdecoder	three_prime_UTR	75	704	.	+	.	ID=CP103206.1.p16.utr3p1;Parent=CP103206.1.p16
+
+CP103206.1	transdecoder	gene	1	704	.	-	.	ID=GENE.CP103206.1~~CP103206.1.p17;Name="ORF type:5prime_partial (-)"
+CP103206.1	transdecoder	mRNA	1	704	.	-	.	ID=CP103206.1.p17;Parent=GENE.CP103206.1~~CP103206.1.p17;Name="ORF type:5prime_partial (-)"
+CP103206.1	transdecoder	exon	1	704	.	-	.	ID=CP103206.1.p17.exon1;Parent=CP103206.1.p17
+CP103206.1	transdecoder	CDS	678	704	.	-	0	ID=cds.CP103206.1.p17;Parent=CP103206.1.p17;5_prime_partial=true
+CP103206.1	transdecoder	three_prime_UTR	1	677	.	-	.	ID=CP103206.1.p17.utr3p1;Parent=CP103206.1.p17
+

@@ -1,0 +1,57 @@
+BK033981.1	transdecoder	gene	1	330	.	+	.	ID=GENE.BK033981.1~~BK033981.1.p1;Name="ORF type:5prime_partial (+)"
+BK033981.1	transdecoder	mRNA	1	330	.	+	.	ID=BK033981.1.p1;Parent=GENE.BK033981.1~~BK033981.1.p1;Name="ORF type:5prime_partial (+)"
+BK033981.1	transdecoder	exon	1	330	.	+	.	ID=BK033981.1.p1.exon1;Parent=BK033981.1.p1
+BK033981.1	transdecoder	CDS	3	224	.	+	0	ID=cds.BK033981.1.p1;Parent=BK033981.1.p1;5_prime_partial=true
+BK033981.1	transdecoder	three_prime_UTR	225	330	.	+	.	ID=BK033981.1.p1.utr3p1;Parent=BK033981.1.p1
+
+BK033981.1	transdecoder	gene	1	330	.	-	.	ID=GENE.BK033981.1~~BK033981.1.p2;Name="ORF type:5prime_partial (-)"
+BK033981.1	transdecoder	mRNA	1	330	.	-	.	ID=BK033981.1.p2;Parent=GENE.BK033981.1~~BK033981.1.p2;Name="ORF type:5prime_partial (-)"
+BK033981.1	transdecoder	exon	1	330	.	-	.	ID=BK033981.1.p2.exon1;Parent=BK033981.1.p2
+BK033981.1	transdecoder	CDS	260	328	.	-	0	ID=cds.BK033981.1.p2;Parent=BK033981.1.p2;5_prime_partial=true
+BK033981.1	transdecoder	three_prime_UTR	1	259	.	-	.	ID=BK033981.1.p2.utr3p1;Parent=BK033981.1.p2
+
+BK033981.1	transdecoder	gene	1	330	.	-	.	ID=GENE.BK033981.1~~BK033981.1.p3;Name="ORF type:complete (-)"
+BK033981.1	transdecoder	mRNA	1	330	.	-	.	ID=BK033981.1.p3;Parent=GENE.BK033981.1~~BK033981.1.p3;Name="ORF type:complete (-)"
+BK033981.1	transdecoder	five_prime_UTR	137	330	.	-	.	ID=BK033981.1.p3.utr5p1;Parent=BK033981.1.p3
+BK033981.1	transdecoder	exon	1	330	.	-	.	ID=BK033981.1.p3.exon1;Parent=BK033981.1.p3
+BK033981.1	transdecoder	CDS	71	136	.	-	0	ID=cds.BK033981.1.p3;Parent=BK033981.1.p3
+BK033981.1	transdecoder	three_prime_UTR	1	70	.	-	.	ID=BK033981.1.p3.utr3p1;Parent=BK033981.1.p3
+
+BK033981.1	transdecoder	gene	1	330	.	-	.	ID=GENE.BK033981.1~~BK033981.1.p4;Name="ORF type:complete (-)"
+BK033981.1	transdecoder	mRNA	1	330	.	-	.	ID=BK033981.1.p4;Parent=GENE.BK033981.1~~BK033981.1.p4;Name="ORF type:complete (-)"
+BK033981.1	transdecoder	five_prime_UTR	282	330	.	-	.	ID=BK033981.1.p4.utr5p1;Parent=BK033981.1.p4
+BK033981.1	transdecoder	exon	1	330	.	-	.	ID=BK033981.1.p4.exon1;Parent=BK033981.1.p4
+BK033981.1	transdecoder	CDS	225	281	.	-	0	ID=cds.BK033981.1.p4;Parent=BK033981.1.p4
+BK033981.1	transdecoder	three_prime_UTR	1	224	.	-	.	ID=BK033981.1.p4.utr3p1;Parent=BK033981.1.p4
+
+BK033981.1	transdecoder	gene	1	330	.	-	.	ID=GENE.BK033981.1~~BK033981.1.p5;Name="ORF type:5prime_partial (-)"
+BK033981.1	transdecoder	mRNA	1	330	.	-	.	ID=BK033981.1.p5;Parent=GENE.BK033981.1~~BK033981.1.p5;Name="ORF type:5prime_partial (-)"
+BK033981.1	transdecoder	exon	1	330	.	-	.	ID=BK033981.1.p5.exon1;Parent=BK033981.1.p5
+BK033981.1	transdecoder	CDS	283	330	.	-	0	ID=cds.BK033981.1.p5;Parent=BK033981.1.p5;5_prime_partial=true
+BK033981.1	transdecoder	three_prime_UTR	1	282	.	-	.	ID=BK033981.1.p5.utr3p1;Parent=BK033981.1.p5
+
+BK033981.1	transdecoder	gene	1	330	.	+	.	ID=GENE.BK033981.1~~BK033981.1.p6;Name="ORF type:3prime_partial (+)"
+BK033981.1	transdecoder	mRNA	1	330	.	+	.	ID=BK033981.1.p6;Parent=GENE.BK033981.1~~BK033981.1.p6;Name="ORF type:3prime_partial (+)"
+BK033981.1	transdecoder	five_prime_UTR	1	284	.	+	.	ID=BK033981.1.p6.utr5p1;Parent=BK033981.1.p6
+BK033981.1	transdecoder	exon	1	330	.	+	.	ID=BK033981.1.p6.exon1;Parent=BK033981.1.p6
+BK033981.1	transdecoder	CDS	285	329	.	+	0	ID=cds.BK033981.1.p6;Parent=BK033981.1.p6;3_prime_partial=true
+
+BK033981.1	transdecoder	gene	1	330	.	+	.	ID=GENE.BK033981.1~~BK033981.1.p7;Name="ORF type:5prime_partial (+)"
+BK033981.1	transdecoder	mRNA	1	330	.	+	.	ID=BK033981.1.p7;Parent=GENE.BK033981.1~~BK033981.1.p7;Name="ORF type:5prime_partial (+)"
+BK033981.1	transdecoder	exon	1	330	.	+	.	ID=BK033981.1.p7.exon1;Parent=BK033981.1.p7
+BK033981.1	transdecoder	CDS	1	45	.	+	0	ID=cds.BK033981.1.p7;Parent=BK033981.1.p7;5_prime_partial=true
+BK033981.1	transdecoder	three_prime_UTR	46	330	.	+	.	ID=BK033981.1.p7.utr3p1;Parent=BK033981.1.p7
+
+BK033981.1	transdecoder	gene	1	330	.	+	.	ID=GENE.BK033981.1~~BK033981.1.p8;Name="ORF type:3prime_partial (+)"
+BK033981.1	transdecoder	mRNA	1	330	.	+	.	ID=BK033981.1.p8;Parent=GENE.BK033981.1~~BK033981.1.p8;Name="ORF type:3prime_partial (+)"
+BK033981.1	transdecoder	five_prime_UTR	1	288	.	+	.	ID=BK033981.1.p8.utr5p1;Parent=BK033981.1.p8
+BK033981.1	transdecoder	exon	1	330	.	+	.	ID=BK033981.1.p8.exon1;Parent=BK033981.1.p8
+BK033981.1	transdecoder	CDS	289	330	.	+	0	ID=cds.BK033981.1.p8;Parent=BK033981.1.p8;3_prime_partial=true
+
+BK033981.1	transdecoder	gene	1	330	.	-	.	ID=GENE.BK033981.1~~BK033981.1.p9;Name="ORF type:complete (-)"
+BK033981.1	transdecoder	mRNA	1	330	.	-	.	ID=BK033981.1.p9;Parent=GENE.BK033981.1~~BK033981.1.p9;Name="ORF type:complete (-)"
+BK033981.1	transdecoder	five_prime_UTR	130	330	.	-	.	ID=BK033981.1.p9.utr5p1;Parent=BK033981.1.p9
+BK033981.1	transdecoder	exon	1	330	.	-	.	ID=BK033981.1.p9.exon1;Parent=BK033981.1.p9
+BK033981.1	transdecoder	CDS	103	129	.	-	0	ID=cds.BK033981.1.p9;Parent=BK033981.1.p9
+BK033981.1	transdecoder	three_prime_UTR	1	102	.	-	.	ID=BK033981.1.p9.utr3p1;Parent=BK033981.1.p9
+

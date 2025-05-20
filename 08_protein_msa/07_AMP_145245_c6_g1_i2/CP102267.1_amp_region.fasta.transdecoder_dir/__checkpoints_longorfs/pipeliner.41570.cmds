@@ -1,0 +1,1 @@
+/Users/luigui/miniforge3/envs/transdecoder_env/opt/transdecoder/util/compute_base_probs.pl CP102267.1_amp_region.fasta 0 > /Volumes/black/01_amps_2024/11_protein_alignment/07_AMP_145245_c6_g1_i2/CP102267.1_amp_region.fasta.transdecoder_dir/base_freqs.dat

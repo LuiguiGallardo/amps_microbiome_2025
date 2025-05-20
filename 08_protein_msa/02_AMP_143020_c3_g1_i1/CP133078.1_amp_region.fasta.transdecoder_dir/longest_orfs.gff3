@@ -1,0 +1,50 @@
+CP133078.1	transdecoder	gene	1	355	.	+	.	ID=GENE.CP133078.1~~CP133078.1.p1;Name="ORF type:5prime_partial (+)"
+CP133078.1	transdecoder	mRNA	1	355	.	+	.	ID=CP133078.1.p1;Parent=GENE.CP133078.1~~CP133078.1.p1;Name="ORF type:5prime_partial (+)"
+CP133078.1	transdecoder	exon	1	355	.	+	.	ID=CP133078.1.p1.exon1;Parent=CP133078.1.p1
+CP133078.1	transdecoder	CDS	1	129	.	+	0	ID=cds.CP133078.1.p1;Parent=CP133078.1.p1;5_prime_partial=true
+CP133078.1	transdecoder	three_prime_UTR	130	355	.	+	.	ID=CP133078.1.p1.utr3p1;Parent=CP133078.1.p1
+
+CP133078.1	transdecoder	gene	1	355	.	-	.	ID=GENE.CP133078.1~~CP133078.1.p2;Name="ORF type:complete (-)"
+CP133078.1	transdecoder	mRNA	1	355	.	-	.	ID=CP133078.1.p2;Parent=GENE.CP133078.1~~CP133078.1.p2;Name="ORF type:complete (-)"
+CP133078.1	transdecoder	five_prime_UTR	231	355	.	-	.	ID=CP133078.1.p2.utr5p1;Parent=CP133078.1.p2
+CP133078.1	transdecoder	exon	1	355	.	-	.	ID=CP133078.1.p2.exon1;Parent=CP133078.1.p2
+CP133078.1	transdecoder	CDS	126	230	.	-	0	ID=cds.CP133078.1.p2;Parent=CP133078.1.p2
+CP133078.1	transdecoder	three_prime_UTR	1	125	.	-	.	ID=CP133078.1.p2.utr3p1;Parent=CP133078.1.p2
+
+CP133078.1	transdecoder	gene	1	355	.	-	.	ID=GENE.CP133078.1~~CP133078.1.p3;Name="ORF type:5prime_partial (-)"
+CP133078.1	transdecoder	mRNA	1	355	.	-	.	ID=CP133078.1.p3;Parent=GENE.CP133078.1~~CP133078.1.p3;Name="ORF type:5prime_partial (-)"
+CP133078.1	transdecoder	exon	1	355	.	-	.	ID=CP133078.1.p3.exon1;Parent=CP133078.1.p3
+CP133078.1	transdecoder	CDS	255	353	.	-	0	ID=cds.CP133078.1.p3;Parent=CP133078.1.p3;5_prime_partial=true
+CP133078.1	transdecoder	three_prime_UTR	1	254	.	-	.	ID=CP133078.1.p3.utr3p1;Parent=CP133078.1.p3
+
+CP133078.1	transdecoder	gene	1	355	.	-	.	ID=GENE.CP133078.1~~CP133078.1.p4;Name="ORF type:3prime_partial (-)"
+CP133078.1	transdecoder	mRNA	1	355	.	-	.	ID=CP133078.1.p4;Parent=GENE.CP133078.1~~CP133078.1.p4;Name="ORF type:3prime_partial (-)"
+CP133078.1	transdecoder	five_prime_UTR	72	355	.	-	.	ID=CP133078.1.p4.utr5p1;Parent=CP133078.1.p4
+CP133078.1	transdecoder	exon	1	355	.	-	.	ID=CP133078.1.p4.exon1;Parent=CP133078.1.p4
+CP133078.1	transdecoder	CDS	3	71	.	-	0	ID=cds.CP133078.1.p4;Parent=CP133078.1.p4;3_prime_partial=true
+
+CP133078.1	transdecoder	gene	1	355	.	+	.	ID=GENE.CP133078.1~~CP133078.1.p5;Name="ORF type:5prime_partial (+)"
+CP133078.1	transdecoder	mRNA	1	355	.	+	.	ID=CP133078.1.p5;Parent=GENE.CP133078.1~~CP133078.1.p5;Name="ORF type:5prime_partial (+)"
+CP133078.1	transdecoder	exon	1	355	.	+	.	ID=CP133078.1.p5.exon1;Parent=CP133078.1.p5
+CP133078.1	transdecoder	CDS	3	62	.	+	0	ID=cds.CP133078.1.p5;Parent=CP133078.1.p5;5_prime_partial=true
+CP133078.1	transdecoder	three_prime_UTR	63	355	.	+	.	ID=CP133078.1.p5.utr3p1;Parent=CP133078.1.p5
+
+CP133078.1	transdecoder	gene	1	355	.	+	.	ID=GENE.CP133078.1~~CP133078.1.p6;Name="ORF type:3prime_partial (+)"
+CP133078.1	transdecoder	mRNA	1	355	.	+	.	ID=CP133078.1.p6;Parent=GENE.CP133078.1~~CP133078.1.p6;Name="ORF type:3prime_partial (+)"
+CP133078.1	transdecoder	five_prime_UTR	1	297	.	+	.	ID=CP133078.1.p6.utr5p1;Parent=CP133078.1.p6
+CP133078.1	transdecoder	exon	1	355	.	+	.	ID=CP133078.1.p6.exon1;Parent=CP133078.1.p6
+CP133078.1	transdecoder	CDS	298	354	.	+	0	ID=cds.CP133078.1.p6;Parent=CP133078.1.p6;3_prime_partial=true
+
+CP133078.1	transdecoder	gene	1	355	.	+	.	ID=GENE.CP133078.1~~CP133078.1.p7;Name="ORF type:complete (+)"
+CP133078.1	transdecoder	mRNA	1	355	.	+	.	ID=CP133078.1.p7;Parent=GENE.CP133078.1~~CP133078.1.p7;Name="ORF type:complete (+)"
+CP133078.1	transdecoder	five_prime_UTR	1	228	.	+	.	ID=CP133078.1.p7.utr5p1;Parent=CP133078.1.p7
+CP133078.1	transdecoder	exon	1	355	.	+	.	ID=CP133078.1.p7.exon1;Parent=CP133078.1.p7
+CP133078.1	transdecoder	CDS	229	270	.	+	0	ID=cds.CP133078.1.p7;Parent=CP133078.1.p7
+CP133078.1	transdecoder	three_prime_UTR	271	355	.	+	.	ID=CP133078.1.p7.utr3p1;Parent=CP133078.1.p7
+
+CP133078.1	transdecoder	gene	1	355	.	+	.	ID=GENE.CP133078.1~~CP133078.1.p8;Name="ORF type:3prime_partial (+)"
+CP133078.1	transdecoder	mRNA	1	355	.	+	.	ID=CP133078.1.p8;Parent=GENE.CP133078.1~~CP133078.1.p8;Name="ORF type:3prime_partial (+)"
+CP133078.1	transdecoder	five_prime_UTR	1	316	.	+	.	ID=CP133078.1.p8.utr5p1;Parent=CP133078.1.p8
+CP133078.1	transdecoder	exon	1	355	.	+	.	ID=CP133078.1.p8.exon1;Parent=CP133078.1.p8
+CP133078.1	transdecoder	CDS	317	355	.	+	0	ID=cds.CP133078.1.p8;Parent=CP133078.1.p8;3_prime_partial=true
+

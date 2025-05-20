@@ -1,0 +1,10 @@
+>AMP_3096
+KKKKGVYLSYGKR
+>Phocaeicola_dorei_strain_DSM_17855
+KKGVYLSYGKR
+>Phocaeicola_vulgatus_MG01-10
+KKDVYLSYGKR
+>Phocaeicola_vulgatus_strain_mpk
+KKDVYLSYGKR
+>Bacteroides_dorei_isolate_HS1_L_1_B_010
+KKDVYLSYGKR

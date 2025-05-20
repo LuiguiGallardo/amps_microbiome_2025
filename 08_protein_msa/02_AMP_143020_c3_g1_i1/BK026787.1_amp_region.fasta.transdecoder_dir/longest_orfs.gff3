@@ -1,0 +1,56 @@
+BK026787.1	transdecoder	gene	1	356	.	+	.	ID=GENE.BK026787.1~~BK026787.1.p1;Name="ORF type:5prime_partial (+)"
+BK026787.1	transdecoder	mRNA	1	356	.	+	.	ID=BK026787.1.p1;Parent=GENE.BK026787.1~~BK026787.1.p1;Name="ORF type:5prime_partial (+)"
+BK026787.1	transdecoder	exon	1	356	.	+	.	ID=BK026787.1.p1.exon1;Parent=BK026787.1.p1
+BK026787.1	transdecoder	CDS	1	129	.	+	0	ID=cds.BK026787.1.p1;Parent=BK026787.1.p1;5_prime_partial=true
+BK026787.1	transdecoder	three_prime_UTR	130	356	.	+	.	ID=BK026787.1.p1.utr3p1;Parent=BK026787.1.p1
+
+BK026787.1	transdecoder	gene	1	356	.	+	.	ID=GENE.BK026787.1~~BK026787.1.p2;Name="ORF type:3prime_partial (+)"
+BK026787.1	transdecoder	mRNA	1	356	.	+	.	ID=BK026787.1.p2;Parent=GENE.BK026787.1~~BK026787.1.p2;Name="ORF type:3prime_partial (+)"
+BK026787.1	transdecoder	five_prime_UTR	1	229	.	+	.	ID=BK026787.1.p2.utr5p1;Parent=BK026787.1.p2
+BK026787.1	transdecoder	exon	1	356	.	+	.	ID=BK026787.1.p2.exon1;Parent=BK026787.1.p2
+BK026787.1	transdecoder	CDS	230	355	.	+	0	ID=cds.BK026787.1.p2;Parent=BK026787.1.p2;3_prime_partial=true
+
+BK026787.1	transdecoder	gene	1	356	.	+	.	ID=GENE.BK026787.1~~BK026787.1.p3;Name="ORF type:5prime_partial (+)"
+BK026787.1	transdecoder	mRNA	1	356	.	+	.	ID=BK026787.1.p3;Parent=GENE.BK026787.1~~BK026787.1.p3;Name="ORF type:5prime_partial (+)"
+BK026787.1	transdecoder	exon	1	356	.	+	.	ID=BK026787.1.p3.exon1;Parent=BK026787.1.p3
+BK026787.1	transdecoder	CDS	3	110	.	+	0	ID=cds.BK026787.1.p3;Parent=BK026787.1.p3;5_prime_partial=true
+BK026787.1	transdecoder	three_prime_UTR	111	356	.	+	.	ID=BK026787.1.p3.utr3p1;Parent=BK026787.1.p3
+
+BK026787.1	transdecoder	gene	1	356	.	-	.	ID=GENE.BK026787.1~~BK026787.1.p4;Name="ORF type:complete (-)"
+BK026787.1	transdecoder	mRNA	1	356	.	-	.	ID=BK026787.1.p4;Parent=GENE.BK026787.1~~BK026787.1.p4;Name="ORF type:complete (-)"
+BK026787.1	transdecoder	five_prime_UTR	232	356	.	-	.	ID=BK026787.1.p4.utr5p1;Parent=BK026787.1.p4
+BK026787.1	transdecoder	exon	1	356	.	-	.	ID=BK026787.1.p4.exon1;Parent=BK026787.1.p4
+BK026787.1	transdecoder	CDS	130	231	.	-	0	ID=cds.BK026787.1.p4;Parent=BK026787.1.p4
+BK026787.1	transdecoder	three_prime_UTR	1	129	.	-	.	ID=BK026787.1.p4.utr3p1;Parent=BK026787.1.p4
+
+BK026787.1	transdecoder	gene	1	356	.	-	.	ID=GENE.BK026787.1~~BK026787.1.p5;Name="ORF type:5prime_partial (-)"
+BK026787.1	transdecoder	mRNA	1	356	.	-	.	ID=BK026787.1.p5;Parent=GENE.BK026787.1~~BK026787.1.p5;Name="ORF type:5prime_partial (-)"
+BK026787.1	transdecoder	exon	1	356	.	-	.	ID=BK026787.1.p5.exon1;Parent=BK026787.1.p5
+BK026787.1	transdecoder	CDS	256	354	.	-	0	ID=cds.BK026787.1.p5;Parent=BK026787.1.p5;5_prime_partial=true
+BK026787.1	transdecoder	three_prime_UTR	1	255	.	-	.	ID=BK026787.1.p5.utr3p1;Parent=BK026787.1.p5
+
+BK026787.1	transdecoder	gene	1	356	.	-	.	ID=GENE.BK026787.1~~BK026787.1.p6;Name="ORF type:3prime_partial (-)"
+BK026787.1	transdecoder	mRNA	1	356	.	-	.	ID=BK026787.1.p6;Parent=GENE.BK026787.1~~BK026787.1.p6;Name="ORF type:3prime_partial (-)"
+BK026787.1	transdecoder	five_prime_UTR	72	356	.	-	.	ID=BK026787.1.p6.utr5p1;Parent=BK026787.1.p6
+BK026787.1	transdecoder	exon	1	356	.	-	.	ID=BK026787.1.p6.exon1;Parent=BK026787.1.p6
+BK026787.1	transdecoder	CDS	3	71	.	-	0	ID=cds.BK026787.1.p6;Parent=BK026787.1.p6;3_prime_partial=true
+
+BK026787.1	transdecoder	gene	1	356	.	-	.	ID=GENE.BK026787.1~~BK026787.1.p7;Name="ORF type:complete (-)"
+BK026787.1	transdecoder	mRNA	1	356	.	-	.	ID=BK026787.1.p7;Parent=GENE.BK026787.1~~BK026787.1.p7;Name="ORF type:complete (-)"
+BK026787.1	transdecoder	five_prime_UTR	180	356	.	-	.	ID=BK026787.1.p7.utr5p1;Parent=BK026787.1.p7
+BK026787.1	transdecoder	exon	1	356	.	-	.	ID=BK026787.1.p7.exon1;Parent=BK026787.1.p7
+BK026787.1	transdecoder	CDS	126	179	.	-	0	ID=cds.BK026787.1.p7;Parent=BK026787.1.p7
+BK026787.1	transdecoder	three_prime_UTR	1	125	.	-	.	ID=BK026787.1.p7.utr3p1;Parent=BK026787.1.p7
+
+BK026787.1	transdecoder	gene	1	356	.	+	.	ID=GENE.BK026787.1~~BK026787.1.p8;Name="ORF type:3prime_partial (+)"
+BK026787.1	transdecoder	mRNA	1	356	.	+	.	ID=BK026787.1.p8;Parent=GENE.BK026787.1~~BK026787.1.p8;Name="ORF type:3prime_partial (+)"
+BK026787.1	transdecoder	five_prime_UTR	1	317	.	+	.	ID=BK026787.1.p8.utr5p1;Parent=BK026787.1.p8
+BK026787.1	transdecoder	exon	1	356	.	+	.	ID=BK026787.1.p8.exon1;Parent=BK026787.1.p8
+BK026787.1	transdecoder	CDS	318	356	.	+	0	ID=cds.BK026787.1.p8;Parent=BK026787.1.p8;3_prime_partial=true
+
+BK026787.1	transdecoder	gene	1	356	.	+	.	ID=GENE.BK026787.1~~BK026787.1.p9;Name="ORF type:5prime_partial (+)"
+BK026787.1	transdecoder	mRNA	1	356	.	+	.	ID=BK026787.1.p9;Parent=GENE.BK026787.1~~BK026787.1.p9;Name="ORF type:5prime_partial (+)"
+BK026787.1	transdecoder	exon	1	356	.	+	.	ID=BK026787.1.p9.exon1;Parent=BK026787.1.p9
+BK026787.1	transdecoder	CDS	2	31	.	+	0	ID=cds.BK026787.1.p9;Parent=BK026787.1.p9;5_prime_partial=true
+BK026787.1	transdecoder	three_prime_UTR	32	356	.	+	.	ID=BK026787.1.p9.utr3p1;Parent=BK026787.1.p9
+

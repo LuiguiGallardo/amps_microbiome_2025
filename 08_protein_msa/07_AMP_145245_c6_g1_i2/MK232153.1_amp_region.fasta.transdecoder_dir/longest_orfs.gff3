@@ -1,0 +1,91 @@
+MK232153.1	transdecoder	gene	1	597	.	-	.	ID=GENE.MK232153.1~~MK232153.1.p1;Name="ORF type:3prime_partial (-)"
+MK232153.1	transdecoder	mRNA	1	597	.	-	.	ID=MK232153.1.p1;Parent=GENE.MK232153.1~~MK232153.1.p1;Name="ORF type:3prime_partial (-)"
+MK232153.1	transdecoder	five_prime_UTR	112	597	.	-	.	ID=MK232153.1.p1.utr5p1;Parent=MK232153.1.p1
+MK232153.1	transdecoder	exon	1	597	.	-	.	ID=MK232153.1.p1.exon1;Parent=MK232153.1.p1
+MK232153.1	transdecoder	CDS	1	111	.	-	0	ID=cds.MK232153.1.p1;Parent=MK232153.1.p1;3_prime_partial=true
+
+MK232153.1	transdecoder	gene	1	597	.	-	.	ID=GENE.MK232153.1~~MK232153.1.p2;Name="ORF type:5prime_partial (-)"
+MK232153.1	transdecoder	mRNA	1	597	.	-	.	ID=MK232153.1.p2;Parent=GENE.MK232153.1~~MK232153.1.p2;Name="ORF type:5prime_partial (-)"
+MK232153.1	transdecoder	exon	1	597	.	-	.	ID=MK232153.1.p2.exon1;Parent=MK232153.1.p2
+MK232153.1	transdecoder	CDS	511	597	.	-	0	ID=cds.MK232153.1.p2;Parent=MK232153.1.p2;5_prime_partial=true
+MK232153.1	transdecoder	three_prime_UTR	1	510	.	-	.	ID=MK232153.1.p2.utr3p1;Parent=MK232153.1.p2
+
+MK232153.1	transdecoder	gene	1	597	.	-	.	ID=GENE.MK232153.1~~MK232153.1.p3;Name="ORF type:5prime_partial (-)"
+MK232153.1	transdecoder	mRNA	1	597	.	-	.	ID=MK232153.1.p3;Parent=GENE.MK232153.1~~MK232153.1.p3;Name="ORF type:5prime_partial (-)"
+MK232153.1	transdecoder	exon	1	597	.	-	.	ID=MK232153.1.p3.exon1;Parent=MK232153.1.p3
+MK232153.1	transdecoder	CDS	516	596	.	-	0	ID=cds.MK232153.1.p3;Parent=MK232153.1.p3;5_prime_partial=true
+MK232153.1	transdecoder	three_prime_UTR	1	515	.	-	.	ID=MK232153.1.p3.utr3p1;Parent=MK232153.1.p3
+
+MK232153.1	transdecoder	gene	1	597	.	-	.	ID=GENE.MK232153.1~~MK232153.1.p4;Name="ORF type:complete (-)"
+MK232153.1	transdecoder	mRNA	1	597	.	-	.	ID=MK232153.1.p4;Parent=GENE.MK232153.1~~MK232153.1.p4;Name="ORF type:complete (-)"
+MK232153.1	transdecoder	five_prime_UTR	498	597	.	-	.	ID=MK232153.1.p4.utr5p1;Parent=MK232153.1.p4
+MK232153.1	transdecoder	exon	1	597	.	-	.	ID=MK232153.1.p4.exon1;Parent=MK232153.1.p4
+MK232153.1	transdecoder	CDS	435	497	.	-	0	ID=cds.MK232153.1.p4;Parent=MK232153.1.p4
+MK232153.1	transdecoder	three_prime_UTR	1	434	.	-	.	ID=MK232153.1.p4.utr3p1;Parent=MK232153.1.p4
+
+MK232153.1	transdecoder	gene	1	597	.	+	.	ID=GENE.MK232153.1~~MK232153.1.p5;Name="ORF type:complete (+)"
+MK232153.1	transdecoder	mRNA	1	597	.	+	.	ID=MK232153.1.p5;Parent=GENE.MK232153.1~~MK232153.1.p5;Name="ORF type:complete (+)"
+MK232153.1	transdecoder	five_prime_UTR	1	289	.	+	.	ID=MK232153.1.p5.utr5p1;Parent=MK232153.1.p5
+MK232153.1	transdecoder	exon	1	597	.	+	.	ID=MK232153.1.p5.exon1;Parent=MK232153.1.p5
+MK232153.1	transdecoder	CDS	290	349	.	+	0	ID=cds.MK232153.1.p5;Parent=MK232153.1.p5
+MK232153.1	transdecoder	three_prime_UTR	350	597	.	+	.	ID=MK232153.1.p5.utr3p1;Parent=MK232153.1.p5
+
+MK232153.1	transdecoder	gene	1	597	.	-	.	ID=GENE.MK232153.1~~MK232153.1.p6;Name="ORF type:3prime_partial (-)"
+MK232153.1	transdecoder	mRNA	1	597	.	-	.	ID=MK232153.1.p6;Parent=GENE.MK232153.1~~MK232153.1.p6;Name="ORF type:3prime_partial (-)"
+MK232153.1	transdecoder	five_prime_UTR	60	597	.	-	.	ID=MK232153.1.p6.utr5p1;Parent=MK232153.1.p6
+MK232153.1	transdecoder	exon	1	597	.	-	.	ID=MK232153.1.p6.exon1;Parent=MK232153.1.p6
+MK232153.1	transdecoder	CDS	3	59	.	-	0	ID=cds.MK232153.1.p6;Parent=MK232153.1.p6;3_prime_partial=true
+
+MK232153.1	transdecoder	gene	1	597	.	+	.	ID=GENE.MK232153.1~~MK232153.1.p7;Name="ORF type:complete (+)"
+MK232153.1	transdecoder	mRNA	1	597	.	+	.	ID=MK232153.1.p7;Parent=GENE.MK232153.1~~MK232153.1.p7;Name="ORF type:complete (+)"
+MK232153.1	transdecoder	five_prime_UTR	1	394	.	+	.	ID=MK232153.1.p7.utr5p1;Parent=MK232153.1.p7
+MK232153.1	transdecoder	exon	1	597	.	+	.	ID=MK232153.1.p7.exon1;Parent=MK232153.1.p7
+MK232153.1	transdecoder	CDS	395	448	.	+	0	ID=cds.MK232153.1.p7;Parent=MK232153.1.p7
+MK232153.1	transdecoder	three_prime_UTR	449	597	.	+	.	ID=MK232153.1.p7.utr3p1;Parent=MK232153.1.p7
+
+MK232153.1	transdecoder	gene	1	597	.	+	.	ID=GENE.MK232153.1~~MK232153.1.p8;Name="ORF type:5prime_partial (+)"
+MK232153.1	transdecoder	mRNA	1	597	.	+	.	ID=MK232153.1.p8;Parent=GENE.MK232153.1~~MK232153.1.p8;Name="ORF type:5prime_partial (+)"
+MK232153.1	transdecoder	exon	1	597	.	+	.	ID=MK232153.1.p8.exon1;Parent=MK232153.1.p8
+MK232153.1	transdecoder	CDS	3	47	.	+	0	ID=cds.MK232153.1.p8;Parent=MK232153.1.p8;5_prime_partial=true
+MK232153.1	transdecoder	three_prime_UTR	48	597	.	+	.	ID=MK232153.1.p8.utr3p1;Parent=MK232153.1.p8
+
+MK232153.1	transdecoder	gene	1	597	.	+	.	ID=GENE.MK232153.1~~MK232153.1.p9;Name="ORF type:complete (+)"
+MK232153.1	transdecoder	mRNA	1	597	.	+	.	ID=MK232153.1.p9;Parent=GENE.MK232153.1~~MK232153.1.p9;Name="ORF type:complete (+)"
+MK232153.1	transdecoder	five_prime_UTR	1	109	.	+	.	ID=MK232153.1.p9.utr5p1;Parent=MK232153.1.p9
+MK232153.1	transdecoder	exon	1	597	.	+	.	ID=MK232153.1.p9.exon1;Parent=MK232153.1.p9
+MK232153.1	transdecoder	CDS	110	151	.	+	0	ID=cds.MK232153.1.p9;Parent=MK232153.1.p9
+MK232153.1	transdecoder	three_prime_UTR	152	597	.	+	.	ID=MK232153.1.p9.utr3p1;Parent=MK232153.1.p9
+
+MK232153.1	transdecoder	gene	1	597	.	-	.	ID=GENE.MK232153.1~~MK232153.1.p10;Name="ORF type:complete (-)"
+MK232153.1	transdecoder	mRNA	1	597	.	-	.	ID=MK232153.1.p10;Parent=GENE.MK232153.1~~MK232153.1.p10;Name="ORF type:complete (-)"
+MK232153.1	transdecoder	five_prime_UTR	485	597	.	-	.	ID=MK232153.1.p10.utr5p1;Parent=MK232153.1.p10
+MK232153.1	transdecoder	exon	1	597	.	-	.	ID=MK232153.1.p10.exon1;Parent=MK232153.1.p10
+MK232153.1	transdecoder	CDS	443	484	.	-	0	ID=cds.MK232153.1.p10;Parent=MK232153.1.p10
+MK232153.1	transdecoder	three_prime_UTR	1	442	.	-	.	ID=MK232153.1.p10.utr3p1;Parent=MK232153.1.p10
+
+MK232153.1	transdecoder	gene	1	597	.	-	.	ID=GENE.MK232153.1~~MK232153.1.p11;Name="ORF type:complete (-)"
+MK232153.1	transdecoder	mRNA	1	597	.	-	.	ID=MK232153.1.p11;Parent=GENE.MK232153.1~~MK232153.1.p11;Name="ORF type:complete (-)"
+MK232153.1	transdecoder	five_prime_UTR	259	597	.	-	.	ID=MK232153.1.p11.utr5p1;Parent=MK232153.1.p11
+MK232153.1	transdecoder	exon	1	597	.	-	.	ID=MK232153.1.p11.exon1;Parent=MK232153.1.p11
+MK232153.1	transdecoder	CDS	220	258	.	-	0	ID=cds.MK232153.1.p11;Parent=MK232153.1.p11
+MK232153.1	transdecoder	three_prime_UTR	1	219	.	-	.	ID=MK232153.1.p11.utr3p1;Parent=MK232153.1.p11
+
+MK232153.1	transdecoder	gene	1	597	.	+	.	ID=GENE.MK232153.1~~MK232153.1.p12;Name="ORF type:5prime_partial (+)"
+MK232153.1	transdecoder	mRNA	1	597	.	+	.	ID=MK232153.1.p12;Parent=GENE.MK232153.1~~MK232153.1.p12;Name="ORF type:5prime_partial (+)"
+MK232153.1	transdecoder	exon	1	597	.	+	.	ID=MK232153.1.p12.exon1;Parent=MK232153.1.p12
+MK232153.1	transdecoder	CDS	1	30	.	+	0	ID=cds.MK232153.1.p12;Parent=MK232153.1.p12;5_prime_partial=true
+MK232153.1	transdecoder	three_prime_UTR	31	597	.	+	.	ID=MK232153.1.p12.utr3p1;Parent=MK232153.1.p12
+
+MK232153.1	transdecoder	gene	1	597	.	+	.	ID=GENE.MK232153.1~~MK232153.1.p13;Name="ORF type:3prime_partial (+)"
+MK232153.1	transdecoder	mRNA	1	597	.	+	.	ID=MK232153.1.p13;Parent=GENE.MK232153.1~~MK232153.1.p13;Name="ORF type:3prime_partial (+)"
+MK232153.1	transdecoder	five_prime_UTR	1	568	.	+	.	ID=MK232153.1.p13.utr5p1;Parent=MK232153.1.p13
+MK232153.1	transdecoder	exon	1	597	.	+	.	ID=MK232153.1.p13.exon1;Parent=MK232153.1.p13
+MK232153.1	transdecoder	CDS	569	595	.	+	0	ID=cds.MK232153.1.p13;Parent=MK232153.1.p13;3_prime_partial=true
+
+MK232153.1	transdecoder	gene	1	597	.	-	.	ID=GENE.MK232153.1~~MK232153.1.p14;Name="ORF type:complete (-)"
+MK232153.1	transdecoder	mRNA	1	597	.	-	.	ID=MK232153.1.p14;Parent=GENE.MK232153.1~~MK232153.1.p14;Name="ORF type:complete (-)"
+MK232153.1	transdecoder	five_prime_UTR	508	597	.	-	.	ID=MK232153.1.p14.utr5p1;Parent=MK232153.1.p14
+MK232153.1	transdecoder	exon	1	597	.	-	.	ID=MK232153.1.p14.exon1;Parent=MK232153.1.p14
+MK232153.1	transdecoder	CDS	481	507	.	-	0	ID=cds.MK232153.1.p14;Parent=MK232153.1.p14
+MK232153.1	transdecoder	three_prime_UTR	1	480	.	-	.	ID=MK232153.1.p14.utr3p1;Parent=MK232153.1.p14
+

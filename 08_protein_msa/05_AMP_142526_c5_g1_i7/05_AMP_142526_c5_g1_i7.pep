@@ -1,0 +1,10 @@
+>Romboutsia_sp._13154
+ILNKGGVFYV
+>Romboutsia_sp._13432
+ILNKGGVSYGKS
+>Romboutsia_sp._13368
+ILNKGGVFYV
+>Romboutsia_ilealis_strain_CRIB
+ILNKGGVFYVKY
+>AMP_2526
+ILNKGGVFYVKY

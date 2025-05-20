@@ -1,0 +1,1 @@
+/Users/luigui/miniforge3/envs/transdecoder_env/opt/transdecoder/util/compute_base_probs.pl AP031425.1_amp_region.fasta 0 > /Volumes/black/01_amps_2024/11_protein_alignment/08_AMP_385865_c1_g1_i1/AP031425.1_amp_region.fasta.transdecoder_dir/base_freqs.dat

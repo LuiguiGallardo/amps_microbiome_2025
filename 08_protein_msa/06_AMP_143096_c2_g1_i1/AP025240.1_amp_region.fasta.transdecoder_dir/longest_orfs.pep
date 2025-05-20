@@ -1,0 +1,12 @@
+>AP025240.1.p1 type:3prime_partial gc:universal AP025240.1:81-215(+)
+MLPEGVARHWKMKLCLGFQISLMSFPIQLMRLAFHLFPYDKYTSF
+>AP025240.1.p2 type:5prime_partial gc:universal AP025240.1:216-139(-)
+KRTYICHTERDEKRAALVGLGNSSN*
+>AP025240.1.p3 type:3prime_partial gc:universal AP025240.1:78-1(-)
+MPVDYKGGEHSKPVIRSFIASLVRLH
+>AP025240.1.p4 type:5prime_partial gc:universal AP025240.1:215-165(-)
+KGRIFVIRKEMKSEPH*
+>AP025240.1.p5 type:complete gc:universal AP025240.1:23-67(+)
+MKLRMTGFECSPPL*
+>AP025240.1.p6 type:5prime_partial gc:universal AP025240.1:217-182(-)
+KKDVYLSYGKR*

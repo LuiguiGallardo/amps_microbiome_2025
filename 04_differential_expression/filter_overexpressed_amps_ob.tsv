@@ -1,10 +1,10 @@
 amp_origin	amp_id	origin	orgin_complete	overexpressed_group	O 1	O 2	O 3	OMS 1	OMS 2	OMS 3
-AMP 5865 (Faecalibacterium prausnitzii)	AMP 5865	Bacteria	Faecalibacterium prausnitzii	O	35.11	1	1.93	1	1	2.13
-AMP 8200 (Bacteroidaceae/Plasmid)	AMP 8200	Bacteria/Plasmid	Bacteroidaceae/Plasmid	O	1	32	3	1	1	1
+AMP 5865 (Faecalibacterium spp.)	AMP 5865	Bacteria	Faecalibacterium spp.	O	35.11	1	1.93	1	1	2.13
+AMP 8200 (Bacteroides dorei plasmid)	AMP 8200	Plasmid	Plasmid	O	1	32	3	1	1	1
 AMP 3020 (Caudovirales)	AMP 3020	Virus	Caudovirales	O	6.06	29	1	1	1	2
 AMP 3076 (Escherichia coli)	AMP 3076	Bacteria	Escherichia coli	OMS	2.15	1	3	43.46	1	31
 AMP 2526 (Romboutsia ilealis)	AMP 2526	Bacteria	Romboutsia ilealis	OMS	3	1	1	33.13	1	3
-AMP 3096 (Phocaeicola)	AMP 3096	Bacteria	Phocaeicola	OMS	79.98	7	9	4480.25	1	478
-AMP 2198 (Bacteria)	AMP 2198	Bacteria	Bacteria	OMS	14.48	1	1	514.04	1	105.75
+AMP 3096 (Bacteroides spp.)	AMP 3096	Bacteria	Bacteroides spp.	OMS	79.98	7	9	4480.25	1	478
+AMP 2198 (Blautia wexlerae)	AMP 2198	Bacteria	Blautia wexlerae	OMS	14.48	1	1	514.04	1	105.75
 AMP 8681 (Caudovirales)	AMP 8681	Virus	Caudovirales	OMS	6	1	1	1	58	3
 AMP 5245 (Human fecal virus)	AMP 5245	Virus	Human fecal virus	OMS	10.31	7	11.41	419.74	1	155.25

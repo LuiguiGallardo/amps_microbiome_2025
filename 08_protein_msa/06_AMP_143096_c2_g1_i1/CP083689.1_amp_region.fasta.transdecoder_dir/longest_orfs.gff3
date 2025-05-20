@@ -1,0 +1,44 @@
+CP083689.1	transdecoder	gene	1	217	.	+	.	ID=GENE.CP083689.1~~CP083689.1.p1;Name="ORF type:complete (+)"
+CP083689.1	transdecoder	mRNA	1	217	.	+	.	ID=CP083689.1.p1;Parent=GENE.CP083689.1~~CP083689.1.p1;Name="ORF type:complete (+)"
+CP083689.1	transdecoder	five_prime_UTR	1	80	.	+	.	ID=CP083689.1.p1.utr5p1;Parent=CP083689.1.p1
+CP083689.1	transdecoder	exon	1	217	.	+	.	ID=CP083689.1.p1.exon1;Parent=CP083689.1.p1
+CP083689.1	transdecoder	CDS	81	164	.	+	0	ID=cds.CP083689.1.p1;Parent=CP083689.1.p1
+CP083689.1	transdecoder	three_prime_UTR	165	217	.	+	.	ID=CP083689.1.p1.utr3p1;Parent=CP083689.1.p1
+
+CP083689.1	transdecoder	gene	1	217	.	-	.	ID=GENE.CP083689.1~~CP083689.1.p2;Name="ORF type:5prime_partial (-)"
+CP083689.1	transdecoder	mRNA	1	217	.	-	.	ID=CP083689.1.p2;Parent=GENE.CP083689.1~~CP083689.1.p2;Name="ORF type:5prime_partial (-)"
+CP083689.1	transdecoder	exon	1	217	.	-	.	ID=CP083689.1.p2.exon1;Parent=CP083689.1.p2
+CP083689.1	transdecoder	CDS	139	216	.	-	0	ID=cds.CP083689.1.p2;Parent=CP083689.1.p2;5_prime_partial=true
+CP083689.1	transdecoder	three_prime_UTR	1	138	.	-	.	ID=CP083689.1.p2.utr3p1;Parent=CP083689.1.p2
+
+CP083689.1	transdecoder	gene	1	217	.	-	.	ID=GENE.CP083689.1~~CP083689.1.p3;Name="ORF type:3prime_partial (-)"
+CP083689.1	transdecoder	mRNA	1	217	.	-	.	ID=CP083689.1.p3;Parent=GENE.CP083689.1~~CP083689.1.p3;Name="ORF type:3prime_partial (-)"
+CP083689.1	transdecoder	five_prime_UTR	79	217	.	-	.	ID=CP083689.1.p3.utr5p1;Parent=CP083689.1.p3
+CP083689.1	transdecoder	exon	1	217	.	-	.	ID=CP083689.1.p3.exon1;Parent=CP083689.1.p3
+CP083689.1	transdecoder	CDS	1	78	.	-	0	ID=cds.CP083689.1.p3;Parent=CP083689.1.p3;3_prime_partial=true
+
+CP083689.1	transdecoder	gene	1	217	.	-	.	ID=GENE.CP083689.1~~CP083689.1.p4;Name="ORF type:5prime_partial (-)"
+CP083689.1	transdecoder	mRNA	1	217	.	-	.	ID=CP083689.1.p4;Parent=GENE.CP083689.1~~CP083689.1.p4;Name="ORF type:5prime_partial (-)"
+CP083689.1	transdecoder	exon	1	217	.	-	.	ID=CP083689.1.p4.exon1;Parent=CP083689.1.p4
+CP083689.1	transdecoder	CDS	165	215	.	-	0	ID=cds.CP083689.1.p4;Parent=CP083689.1.p4;5_prime_partial=true
+CP083689.1	transdecoder	three_prime_UTR	1	164	.	-	.	ID=CP083689.1.p4.utr3p1;Parent=CP083689.1.p4
+
+CP083689.1	transdecoder	gene	1	217	.	+	.	ID=GENE.CP083689.1~~CP083689.1.p5;Name="ORF type:3prime_partial (+)"
+CP083689.1	transdecoder	mRNA	1	217	.	+	.	ID=CP083689.1.p5;Parent=GENE.CP083689.1~~CP083689.1.p5;Name="ORF type:3prime_partial (+)"
+CP083689.1	transdecoder	five_prime_UTR	1	167	.	+	.	ID=CP083689.1.p5.utr5p1;Parent=CP083689.1.p5
+CP083689.1	transdecoder	exon	1	217	.	+	.	ID=CP083689.1.p5.exon1;Parent=CP083689.1.p5
+CP083689.1	transdecoder	CDS	168	215	.	+	0	ID=cds.CP083689.1.p5;Parent=CP083689.1.p5;3_prime_partial=true
+
+CP083689.1	transdecoder	gene	1	217	.	+	.	ID=GENE.CP083689.1~~CP083689.1.p6;Name="ORF type:complete (+)"
+CP083689.1	transdecoder	mRNA	1	217	.	+	.	ID=CP083689.1.p6;Parent=GENE.CP083689.1~~CP083689.1.p6;Name="ORF type:complete (+)"
+CP083689.1	transdecoder	five_prime_UTR	1	22	.	+	.	ID=CP083689.1.p6.utr5p1;Parent=CP083689.1.p6
+CP083689.1	transdecoder	exon	1	217	.	+	.	ID=CP083689.1.p6.exon1;Parent=CP083689.1.p6
+CP083689.1	transdecoder	CDS	23	67	.	+	0	ID=cds.CP083689.1.p6;Parent=CP083689.1.p6
+CP083689.1	transdecoder	three_prime_UTR	68	217	.	+	.	ID=CP083689.1.p6.utr3p1;Parent=CP083689.1.p6
+
+CP083689.1	transdecoder	gene	1	217	.	-	.	ID=GENE.CP083689.1~~CP083689.1.p7;Name="ORF type:5prime_partial (-)"
+CP083689.1	transdecoder	mRNA	1	217	.	-	.	ID=CP083689.1.p7;Parent=GENE.CP083689.1~~CP083689.1.p7;Name="ORF type:5prime_partial (-)"
+CP083689.1	transdecoder	exon	1	217	.	-	.	ID=CP083689.1.p7.exon1;Parent=CP083689.1.p7
+CP083689.1	transdecoder	CDS	182	217	.	-	0	ID=cds.CP083689.1.p7;Parent=CP083689.1.p7;5_prime_partial=true
+CP083689.1	transdecoder	three_prime_UTR	1	181	.	-	.	ID=CP083689.1.p7.utr3p1;Parent=CP083689.1.p7
+

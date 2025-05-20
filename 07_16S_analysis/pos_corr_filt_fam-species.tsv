@@ -1,0 +1,52 @@
+taxa	amp	group	value	pvalue
+g_Adlercreutzia	AMP 3020 (Caudovirales)	NA	0.983738754	0.000394492
+g_Gordonibacter	AMP 3020 (Caudovirales)	NA	0.812897019	0.049236282
+s_Bacteroides_caccae	AMP 3020 (Caudovirales)	NA	0.880406274	0.020598735
+s_Bacteroides_stercoris	AMP 3020 (Caudovirales)	NA	0.880406274	0.020598735
+g_Barnesiella	AMP 8681 (Caudovirales)	NA	0.941123948	0.005097541
+g_Coprobacter	AMP 8681 (Caudovirales)	NA	0.8932596	0.016482195
+f_Barnesiellaceae	AMP 8681 (Caudovirales)	NA	0.941123948	0.005097541
+g_Butyricimonas	AMP 3020 (Caudovirales)	NA	0.941123948	0.005097541
+s_Prevotellaceae_bacterium	AMP 3020 (Caudovirales)	NA	0.812897019	0.049236282
+s_Prevotella_stercorea	AMP 5865 (Faecalibacterium spp.)	NA	0.8932596	0.016482195
+s_Alistipes_finegoldii	AMP 8681 (Caudovirales)	NA	0.941123948	0.005097541
+s_Alistipes_putredinis	AMP 8681 (Caudovirales)	NA	0.880406274	0.020598735
+s_Alistipes_sp.	AMP 8681 (Caudovirales)	NA	0.941123948	0.005097541
+s_Parabacteroides_distasonis	AMP 3020 (Caudovirales)	NA	0.954863711	0.003009949
+g_Holdemanella	AMP 5865 (Faecalibacterium spp.)	NA	0.8932596	0.016482195
+g_Lactobacillus	AMP 8200 (Bacteroides dorei plasmid)	NA	0.845154255	0.034109423
+f_Lactobacillaceae	AMP 8200 (Bacteroides dorei plasmid)	NA	0.845154255	0.034109423
+g_RF39	AMP 8681 (Caudovirales)	NA	0.941123948	0.005097541
+f_Christensenellaceae	AMP 8681 (Caudovirales)	NA	0.8196886	0.045837141
+g_Clostridium_sensu_stricto_1	AMP 5865 (Faecalibacterium spp.)	NA	0.941123948	0.005097541
+f_Clostridiaceae	AMP 5865 (Faecalibacterium spp.)	NA	0.941123948	0.005097541
+g_Eubacterium_oxidoreducens	AMP 3020 (Caudovirales)	NA	0.83165549	0.04012438
+g_Eubacterium_xylanophilum	AMP 3020 (Caudovirales)	NA	0.8932596	0.016482195
+g_Lachnospiraceae_NK4A136	AMP 3020 (Caudovirales)	NA	0.880406274	0.020598735
+g_Lachnospiraceae_UCG.010	AMP 8681 (Caudovirales)	NA	0.8196886	0.045837141
+s_Roseburia_hominis	AMP 5865 (Faecalibacterium spp.)	NA	0.8196886	0.045837141
+g_Monoglobus	AMP 3020 (Caudovirales)	NA	0.941123948	0.005097541
+f_Monoglobaceae	AMP 3020 (Caudovirales)	NA	0.941123948	0.005097541
+g_Eubacterium_coprostanoligenes	AMP 8681 (Caudovirales)	NA	0.941123948	0.005097541
+s_Anaerostipes_hadrus	AMP 5865 (Faecalibacterium spp.)	NA	0.8196886	0.045837141
+g_Colidextribacter	AMP 2526 (Romboutsia ilealis)	NA	0.9258201	0.008049893
+g_Colidextribacter	AMP 2198 (Blautia wexlerae)	NA	0.880406274	0.020598735
+g_NK4A214	AMP 3020 (Caudovirales)	NA	0.8196886	0.045837141
+g_UCG.002	AMP 8681 (Caudovirales)	NA	0.8196886	0.045837141
+g_UCG.005	AMP 5865 (Faecalibacterium spp.)	NA	0.885364878	0.018958595
+s_Ruminococcaceae_bacterium	AMP 3076 (Escherichia coli)	NA	0.954863711	0.003009949
+s_Ruminococcaceae_bacterium	AMP 3096 (Bacteroides spp.)	NA	0.8196886	0.045837141
+s_Ruminococcaceae_bacterium	AMP 5245 (Human fecal virus)	NA	0.941123948	0.005097541
+g_Candidatus_Soleaferrea	AMP 3096 (Bacteroides spp.)	NA	0.81167945	0.049857585
+g_Candidatus_Soleaferrea	AMP 5245 (Human fecal virus)	NA	0.81167945	0.049857585
+s_Eubacterium_siraeum	AMP 3020 (Caudovirales)	NA	0.880406274	0.020598735
+g_Faecalibacterium	AMP 3020 (Caudovirales)	NA	0.880406274	0.020598735
+g_UCG.010	AMP 3020 (Caudovirales)	NA	0.880406274	0.020598735
+g_Family_XIII_UCG.001	AMP 3020 (Caudovirales)	NA	0.8196886	0.045837141
+s_Bacteroides_xylanisolvens	AMP 5865 (Faecalibacterium spp.)	NA	0.8932596	0.016482195
+s_Dialister_invisus	AMP 3020 (Caudovirales)	NA	0.8932596	0.016482195
+g_Veillonella	AMP 3020 (Caudovirales)	NA	0.941123948	0.005097541
+s_Sutterella_stercoricanis	AMP 5865 (Faecalibacterium spp.)	NA	0.954863711	0.003009949
+g_Sutterella	AMP 3020 (Caudovirales)	NA	0.941123948	0.005097541
+f_Pasteurellaceae	AMP 5865 (Faecalibacterium spp.)	NA	0.880406274	0.020598735
+f_Puniceicoccaceae	AMP 3020 (Caudovirales)	NA	0.8932596	0.016482195

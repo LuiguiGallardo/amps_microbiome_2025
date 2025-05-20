@@ -1,0 +1,53 @@
+LN555523.1	transdecoder	gene	1	542	.	-	.	ID=GENE.LN555523.1~~LN555523.1.p1;Name="ORF type:complete (-)"
+LN555523.1	transdecoder	mRNA	1	542	.	-	.	ID=LN555523.1.p1;Parent=GENE.LN555523.1~~LN555523.1.p1;Name="ORF type:complete (-)"
+LN555523.1	transdecoder	five_prime_UTR	256	542	.	-	.	ID=LN555523.1.p1.utr5p1;Parent=LN555523.1.p1
+LN555523.1	transdecoder	exon	1	542	.	-	.	ID=LN555523.1.p1.exon1;Parent=LN555523.1.p1
+LN555523.1	transdecoder	CDS	52	255	.	-	0	ID=cds.LN555523.1.p1;Parent=LN555523.1.p1
+LN555523.1	transdecoder	three_prime_UTR	1	51	.	-	.	ID=LN555523.1.p1.utr3p1;Parent=LN555523.1.p1
+
+LN555523.1	transdecoder	gene	1	542	.	-	.	ID=GENE.LN555523.1~~LN555523.1.p2;Name="ORF type:complete (-)"
+LN555523.1	transdecoder	mRNA	1	542	.	-	.	ID=LN555523.1.p2;Parent=GENE.LN555523.1~~LN555523.1.p2;Name="ORF type:complete (-)"
+LN555523.1	transdecoder	five_prime_UTR	517	542	.	-	.	ID=LN555523.1.p2.utr5p1;Parent=LN555523.1.p2
+LN555523.1	transdecoder	exon	1	542	.	-	.	ID=LN555523.1.p2.exon1;Parent=LN555523.1.p2
+LN555523.1	transdecoder	CDS	352	516	.	-	0	ID=cds.LN555523.1.p2;Parent=LN555523.1.p2
+LN555523.1	transdecoder	three_prime_UTR	1	351	.	-	.	ID=LN555523.1.p2.utr3p1;Parent=LN555523.1.p2
+
+LN555523.1	transdecoder	gene	1	542	.	+	.	ID=GENE.LN555523.1~~LN555523.1.p3;Name="ORF type:5prime_partial (+)"
+LN555523.1	transdecoder	mRNA	1	542	.	+	.	ID=LN555523.1.p3;Parent=GENE.LN555523.1~~LN555523.1.p3;Name="ORF type:5prime_partial (+)"
+LN555523.1	transdecoder	exon	1	542	.	+	.	ID=LN555523.1.p3.exon1;Parent=LN555523.1.p3
+LN555523.1	transdecoder	CDS	3	98	.	+	0	ID=cds.LN555523.1.p3;Parent=LN555523.1.p3;5_prime_partial=true
+LN555523.1	transdecoder	three_prime_UTR	99	542	.	+	.	ID=LN555523.1.p3.utr3p1;Parent=LN555523.1.p3
+
+LN555523.1	transdecoder	gene	1	542	.	+	.	ID=GENE.LN555523.1~~LN555523.1.p4;Name="ORF type:complete (+)"
+LN555523.1	transdecoder	mRNA	1	542	.	+	.	ID=LN555523.1.p4;Parent=GENE.LN555523.1~~LN555523.1.p4;Name="ORF type:complete (+)"
+LN555523.1	transdecoder	five_prime_UTR	1	429	.	+	.	ID=LN555523.1.p4.utr5p1;Parent=LN555523.1.p4
+LN555523.1	transdecoder	exon	1	542	.	+	.	ID=LN555523.1.p4.exon1;Parent=LN555523.1.p4
+LN555523.1	transdecoder	CDS	430	513	.	+	0	ID=cds.LN555523.1.p4;Parent=LN555523.1.p4
+LN555523.1	transdecoder	three_prime_UTR	514	542	.	+	.	ID=LN555523.1.p4.utr3p1;Parent=LN555523.1.p4
+
+LN555523.1	transdecoder	gene	1	542	.	-	.	ID=GENE.LN555523.1~~LN555523.1.p5;Name="ORF type:complete (-)"
+LN555523.1	transdecoder	mRNA	1	542	.	-	.	ID=LN555523.1.p5;Parent=GENE.LN555523.1~~LN555523.1.p5;Name="ORF type:complete (-)"
+LN555523.1	transdecoder	five_prime_UTR	291	542	.	-	.	ID=LN555523.1.p5.utr5p1;Parent=LN555523.1.p5
+LN555523.1	transdecoder	exon	1	542	.	-	.	ID=LN555523.1.p5.exon1;Parent=LN555523.1.p5
+LN555523.1	transdecoder	CDS	231	290	.	-	0	ID=cds.LN555523.1.p5;Parent=LN555523.1.p5
+LN555523.1	transdecoder	three_prime_UTR	1	230	.	-	.	ID=LN555523.1.p5.utr3p1;Parent=LN555523.1.p5
+
+LN555523.1	transdecoder	gene	1	542	.	-	.	ID=GENE.LN555523.1~~LN555523.1.p6;Name="ORF type:5prime_partial (-)"
+LN555523.1	transdecoder	mRNA	1	542	.	-	.	ID=LN555523.1.p6;Parent=GENE.LN555523.1~~LN555523.1.p6;Name="ORF type:5prime_partial (-)"
+LN555523.1	transdecoder	exon	1	542	.	-	.	ID=LN555523.1.p6.exon1;Parent=LN555523.1.p6
+LN555523.1	transdecoder	CDS	503	541	.	-	0	ID=cds.LN555523.1.p6;Parent=LN555523.1.p6;5_prime_partial=true
+LN555523.1	transdecoder	three_prime_UTR	1	502	.	-	.	ID=LN555523.1.p6.utr3p1;Parent=LN555523.1.p6
+
+LN555523.1	transdecoder	gene	1	542	.	+	.	ID=GENE.LN555523.1~~LN555523.1.p7;Name="ORF type:complete (+)"
+LN555523.1	transdecoder	mRNA	1	542	.	+	.	ID=LN555523.1.p7;Parent=GENE.LN555523.1~~LN555523.1.p7;Name="ORF type:complete (+)"
+LN555523.1	transdecoder	five_prime_UTR	1	273	.	+	.	ID=LN555523.1.p7.utr5p1;Parent=LN555523.1.p7
+LN555523.1	transdecoder	exon	1	542	.	+	.	ID=LN555523.1.p7.exon1;Parent=LN555523.1.p7
+LN555523.1	transdecoder	CDS	274	309	.	+	0	ID=cds.LN555523.1.p7;Parent=LN555523.1.p7
+LN555523.1	transdecoder	three_prime_UTR	310	542	.	+	.	ID=LN555523.1.p7.utr3p1;Parent=LN555523.1.p7
+
+LN555523.1	transdecoder	gene	1	542	.	+	.	ID=GENE.LN555523.1~~LN555523.1.p8;Name="ORF type:5prime_partial (+)"
+LN555523.1	transdecoder	mRNA	1	542	.	+	.	ID=LN555523.1.p8;Parent=GENE.LN555523.1~~LN555523.1.p8;Name="ORF type:5prime_partial (+)"
+LN555523.1	transdecoder	exon	1	542	.	+	.	ID=LN555523.1.p8.exon1;Parent=LN555523.1.p8
+LN555523.1	transdecoder	CDS	1	33	.	+	0	ID=cds.LN555523.1.p8;Parent=LN555523.1.p8;5_prime_partial=true
+LN555523.1	transdecoder	three_prime_UTR	34	542	.	+	.	ID=LN555523.1.p8.utr3p1;Parent=LN555523.1.p8
+

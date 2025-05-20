@@ -1,0 +1,33 @@
+CP157286.1	transdecoder	gene	1	206	.	-	.	ID=GENE.CP157286.1~~CP157286.1.p1;Name="ORF type:5prime_partial (-)"
+CP157286.1	transdecoder	mRNA	1	206	.	-	.	ID=CP157286.1.p1;Parent=GENE.CP157286.1~~CP157286.1.p1;Name="ORF type:5prime_partial (-)"
+CP157286.1	transdecoder	exon	1	206	.	-	.	ID=CP157286.1.p1.exon1;Parent=CP157286.1.p1
+CP157286.1	transdecoder	CDS	127	204	.	-	0	ID=cds.CP157286.1.p1;Parent=CP157286.1.p1;5_prime_partial=true
+CP157286.1	transdecoder	three_prime_UTR	1	126	.	-	.	ID=CP157286.1.p1.utr3p1;Parent=CP157286.1.p1
+
+CP157286.1	transdecoder	gene	1	206	.	+	.	ID=GENE.CP157286.1~~CP157286.1.p2;Name="ORF type:complete (+)"
+CP157286.1	transdecoder	mRNA	1	206	.	+	.	ID=CP157286.1.p2;Parent=GENE.CP157286.1~~CP157286.1.p2;Name="ORF type:complete (+)"
+CP157286.1	transdecoder	five_prime_UTR	1	47	.	+	.	ID=CP157286.1.p2.utr5p1;Parent=CP157286.1.p2
+CP157286.1	transdecoder	exon	1	206	.	+	.	ID=CP157286.1.p2.exon1;Parent=CP157286.1.p2
+CP157286.1	transdecoder	CDS	48	110	.	+	0	ID=cds.CP157286.1.p2;Parent=CP157286.1.p2
+CP157286.1	transdecoder	three_prime_UTR	111	206	.	+	.	ID=CP157286.1.p2.utr3p1;Parent=CP157286.1.p2
+
+CP157286.1	transdecoder	gene	1	206	.	-	.	ID=GENE.CP157286.1~~CP157286.1.p3;Name="ORF type:complete (-)"
+CP157286.1	transdecoder	mRNA	1	206	.	-	.	ID=CP157286.1.p3;Parent=GENE.CP157286.1~~CP157286.1.p3;Name="ORF type:complete (-)"
+CP157286.1	transdecoder	five_prime_UTR	97	206	.	-	.	ID=CP157286.1.p3.utr5p1;Parent=CP157286.1.p3
+CP157286.1	transdecoder	exon	1	206	.	-	.	ID=CP157286.1.p3.exon1;Parent=CP157286.1.p3
+CP157286.1	transdecoder	CDS	52	96	.	-	0	ID=cds.CP157286.1.p3;Parent=CP157286.1.p3
+CP157286.1	transdecoder	three_prime_UTR	1	51	.	-	.	ID=CP157286.1.p3.utr3p1;Parent=CP157286.1.p3
+
+CP157286.1	transdecoder	gene	1	206	.	+	.	ID=GENE.CP157286.1~~CP157286.1.p4;Name="ORF type:5prime_partial (+)"
+CP157286.1	transdecoder	mRNA	1	206	.	+	.	ID=CP157286.1.p4;Parent=GENE.CP157286.1~~CP157286.1.p4;Name="ORF type:5prime_partial (+)"
+CP157286.1	transdecoder	exon	1	206	.	+	.	ID=CP157286.1.p4.exon1;Parent=CP157286.1.p4
+CP157286.1	transdecoder	CDS	1	36	.	+	0	ID=cds.CP157286.1.p4;Parent=CP157286.1.p4;5_prime_partial=true
+CP157286.1	transdecoder	three_prime_UTR	37	206	.	+	.	ID=CP157286.1.p4.utr3p1;Parent=CP157286.1.p4
+
+CP157286.1	transdecoder	gene	1	206	.	-	.	ID=GENE.CP157286.1~~CP157286.1.p5;Name="ORF type:complete (-)"
+CP157286.1	transdecoder	mRNA	1	206	.	-	.	ID=CP157286.1.p5;Parent=GENE.CP157286.1~~CP157286.1.p5;Name="ORF type:complete (-)"
+CP157286.1	transdecoder	five_prime_UTR	43	206	.	-	.	ID=CP157286.1.p5.utr5p1;Parent=CP157286.1.p5
+CP157286.1	transdecoder	exon	1	206	.	-	.	ID=CP157286.1.p5.exon1;Parent=CP157286.1.p5
+CP157286.1	transdecoder	CDS	10	42	.	-	0	ID=cds.CP157286.1.p5;Parent=CP157286.1.p5
+CP157286.1	transdecoder	three_prime_UTR	1	9	.	-	.	ID=CP157286.1.p5.utr3p1;Parent=CP157286.1.p5
+

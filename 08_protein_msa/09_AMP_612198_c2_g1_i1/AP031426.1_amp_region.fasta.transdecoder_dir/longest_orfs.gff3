@@ -1,0 +1,51 @@
+AP031426.1	transdecoder	gene	1	255	.	+	.	ID=GENE.AP031426.1~~AP031426.1.p1;Name="ORF type:5prime_partial (+)"
+AP031426.1	transdecoder	mRNA	1	255	.	+	.	ID=AP031426.1.p1;Parent=GENE.AP031426.1~~AP031426.1.p1;Name="ORF type:5prime_partial (+)"
+AP031426.1	transdecoder	exon	1	255	.	+	.	ID=AP031426.1.p1.exon1;Parent=AP031426.1.p1
+AP031426.1	transdecoder	CDS	2	124	.	+	0	ID=cds.AP031426.1.p1;Parent=AP031426.1.p1;5_prime_partial=true
+AP031426.1	transdecoder	three_prime_UTR	125	255	.	+	.	ID=AP031426.1.p1.utr3p1;Parent=AP031426.1.p1
+
+AP031426.1	transdecoder	gene	1	255	.	+	.	ID=GENE.AP031426.1~~AP031426.1.p2;Name="ORF type:5prime_partial (+)"
+AP031426.1	transdecoder	mRNA	1	255	.	+	.	ID=AP031426.1.p2;Parent=GENE.AP031426.1~~AP031426.1.p2;Name="ORF type:5prime_partial (+)"
+AP031426.1	transdecoder	exon	1	255	.	+	.	ID=AP031426.1.p2.exon1;Parent=AP031426.1.p2
+AP031426.1	transdecoder	CDS	3	107	.	+	0	ID=cds.AP031426.1.p2;Parent=AP031426.1.p2;5_prime_partial=true
+AP031426.1	transdecoder	three_prime_UTR	108	255	.	+	.	ID=AP031426.1.p2.utr3p1;Parent=AP031426.1.p2
+
+AP031426.1	transdecoder	gene	1	255	.	-	.	ID=GENE.AP031426.1~~AP031426.1.p3;Name="ORF type:complete (-)"
+AP031426.1	transdecoder	mRNA	1	255	.	-	.	ID=AP031426.1.p3;Parent=GENE.AP031426.1~~AP031426.1.p3;Name="ORF type:complete (-)"
+AP031426.1	transdecoder	five_prime_UTR	150	255	.	-	.	ID=AP031426.1.p3.utr5p1;Parent=AP031426.1.p3
+AP031426.1	transdecoder	exon	1	255	.	-	.	ID=AP031426.1.p3.exon1;Parent=AP031426.1.p3
+AP031426.1	transdecoder	CDS	48	149	.	-	0	ID=cds.AP031426.1.p3;Parent=AP031426.1.p3
+AP031426.1	transdecoder	three_prime_UTR	1	47	.	-	.	ID=AP031426.1.p3.utr3p1;Parent=AP031426.1.p3
+
+AP031426.1	transdecoder	gene	1	255	.	-	.	ID=GENE.AP031426.1~~AP031426.1.p4;Name="ORF type:5prime_partial (-)"
+AP031426.1	transdecoder	mRNA	1	255	.	-	.	ID=AP031426.1.p4;Parent=GENE.AP031426.1~~AP031426.1.p4;Name="ORF type:5prime_partial (-)"
+AP031426.1	transdecoder	exon	1	255	.	-	.	ID=AP031426.1.p4.exon1;Parent=AP031426.1.p4
+AP031426.1	transdecoder	CDS	170	253	.	-	0	ID=cds.AP031426.1.p4;Parent=AP031426.1.p4;5_prime_partial=true
+AP031426.1	transdecoder	three_prime_UTR	1	169	.	-	.	ID=AP031426.1.p4.utr3p1;Parent=AP031426.1.p4
+
+AP031426.1	transdecoder	gene	1	255	.	+	.	ID=GENE.AP031426.1~~AP031426.1.p5;Name="ORF type:5prime_partial (+)"
+AP031426.1	transdecoder	mRNA	1	255	.	+	.	ID=AP031426.1.p5;Parent=GENE.AP031426.1~~AP031426.1.p5;Name="ORF type:5prime_partial (+)"
+AP031426.1	transdecoder	exon	1	255	.	+	.	ID=AP031426.1.p5.exon1;Parent=AP031426.1.p5
+AP031426.1	transdecoder	CDS	1	60	.	+	0	ID=cds.AP031426.1.p5;Parent=AP031426.1.p5;5_prime_partial=true
+AP031426.1	transdecoder	three_prime_UTR	61	255	.	+	.	ID=AP031426.1.p5.utr3p1;Parent=AP031426.1.p5
+
+AP031426.1	transdecoder	gene	1	255	.	-	.	ID=GENE.AP031426.1~~AP031426.1.p6;Name="ORF type:5prime_partial (-)"
+AP031426.1	transdecoder	mRNA	1	255	.	-	.	ID=AP031426.1.p6;Parent=GENE.AP031426.1~~AP031426.1.p6;Name="ORF type:5prime_partial (-)"
+AP031426.1	transdecoder	exon	1	255	.	-	.	ID=AP031426.1.p6.exon1;Parent=AP031426.1.p6
+AP031426.1	transdecoder	CDS	195	254	.	-	0	ID=cds.AP031426.1.p6;Parent=AP031426.1.p6;5_prime_partial=true
+AP031426.1	transdecoder	three_prime_UTR	1	194	.	-	.	ID=AP031426.1.p6.utr3p1;Parent=AP031426.1.p6
+
+AP031426.1	transdecoder	gene	1	255	.	-	.	ID=GENE.AP031426.1~~AP031426.1.p7;Name="ORF type:complete (-)"
+AP031426.1	transdecoder	mRNA	1	255	.	-	.	ID=AP031426.1.p7;Parent=GENE.AP031426.1~~AP031426.1.p7;Name="ORF type:complete (-)"
+AP031426.1	transdecoder	five_prime_UTR	101	255	.	-	.	ID=AP031426.1.p7.utr5p1;Parent=AP031426.1.p7
+AP031426.1	transdecoder	exon	1	255	.	-	.	ID=AP031426.1.p7.exon1;Parent=AP031426.1.p7
+AP031426.1	transdecoder	CDS	65	100	.	-	0	ID=cds.AP031426.1.p7;Parent=AP031426.1.p7
+AP031426.1	transdecoder	three_prime_UTR	1	64	.	-	.	ID=AP031426.1.p7.utr3p1;Parent=AP031426.1.p7
+
+AP031426.1	transdecoder	gene	1	255	.	-	.	ID=GENE.AP031426.1~~AP031426.1.p8;Name="ORF type:complete (-)"
+AP031426.1	transdecoder	mRNA	1	255	.	-	.	ID=AP031426.1.p8;Parent=GENE.AP031426.1~~AP031426.1.p8;Name="ORF type:complete (-)"
+AP031426.1	transdecoder	five_prime_UTR	43	255	.	-	.	ID=AP031426.1.p8.utr5p1;Parent=AP031426.1.p8
+AP031426.1	transdecoder	exon	1	255	.	-	.	ID=AP031426.1.p8.exon1;Parent=AP031426.1.p8
+AP031426.1	transdecoder	CDS	16	42	.	-	0	ID=cds.AP031426.1.p8;Parent=AP031426.1.p8
+AP031426.1	transdecoder	three_prime_UTR	1	15	.	-	.	ID=AP031426.1.p8.utr3p1;Parent=AP031426.1.p8
+

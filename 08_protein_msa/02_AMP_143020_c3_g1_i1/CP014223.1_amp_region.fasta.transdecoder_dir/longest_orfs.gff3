@@ -1,0 +1,49 @@
+CP014223.1	transdecoder	gene	1	353	.	-	.	ID=GENE.CP014223.1~~CP014223.1.p1;Name="ORF type:5prime_partial (-)"
+CP014223.1	transdecoder	mRNA	1	353	.	-	.	ID=CP014223.1.p1;Parent=GENE.CP014223.1~~CP014223.1.p1;Name="ORF type:5prime_partial (-)"
+CP014223.1	transdecoder	exon	1	353	.	-	.	ID=CP014223.1.p1.exon1;Parent=CP014223.1.p1
+CP014223.1	transdecoder	CDS	233	352	.	-	0	ID=cds.CP014223.1.p1;Parent=CP014223.1.p1;5_prime_partial=true
+CP014223.1	transdecoder	three_prime_UTR	1	232	.	-	.	ID=CP014223.1.p1.utr3p1;Parent=CP014223.1.p1
+
+CP014223.1	transdecoder	gene	1	353	.	+	.	ID=GENE.CP014223.1~~CP014223.1.p2;Name="ORF type:5prime_partial (+)"
+CP014223.1	transdecoder	mRNA	1	353	.	+	.	ID=CP014223.1.p2;Parent=GENE.CP014223.1~~CP014223.1.p2;Name="ORF type:5prime_partial (+)"
+CP014223.1	transdecoder	exon	1	353	.	+	.	ID=CP014223.1.p2.exon1;Parent=CP014223.1.p2
+CP014223.1	transdecoder	CDS	1	105	.	+	0	ID=cds.CP014223.1.p2;Parent=CP014223.1.p2;5_prime_partial=true
+CP014223.1	transdecoder	three_prime_UTR	106	353	.	+	.	ID=CP014223.1.p2.utr3p1;Parent=CP014223.1.p2
+
+CP014223.1	transdecoder	gene	1	353	.	-	.	ID=GENE.CP014223.1~~CP014223.1.p3;Name="ORF type:5prime_partial (-)"
+CP014223.1	transdecoder	mRNA	1	353	.	-	.	ID=CP014223.1.p3;Parent=GENE.CP014223.1~~CP014223.1.p3;Name="ORF type:5prime_partial (-)"
+CP014223.1	transdecoder	exon	1	353	.	-	.	ID=CP014223.1.p3.exon1;Parent=CP014223.1.p3
+CP014223.1	transdecoder	CDS	268	351	.	-	0	ID=cds.CP014223.1.p3;Parent=CP014223.1.p3;5_prime_partial=true
+CP014223.1	transdecoder	three_prime_UTR	1	267	.	-	.	ID=CP014223.1.p3.utr3p1;Parent=CP014223.1.p3
+
+CP014223.1	transdecoder	gene	1	353	.	-	.	ID=GENE.CP014223.1~~CP014223.1.p4;Name="ORF type:3prime_partial (-)"
+CP014223.1	transdecoder	mRNA	1	353	.	-	.	ID=CP014223.1.p4;Parent=GENE.CP014223.1~~CP014223.1.p4;Name="ORF type:3prime_partial (-)"
+CP014223.1	transdecoder	five_prime_UTR	72	353	.	-	.	ID=CP014223.1.p4.utr5p1;Parent=CP014223.1.p4
+CP014223.1	transdecoder	exon	1	353	.	-	.	ID=CP014223.1.p4.exon1;Parent=CP014223.1.p4
+CP014223.1	transdecoder	CDS	3	71	.	-	0	ID=cds.CP014223.1.p4;Parent=CP014223.1.p4;3_prime_partial=true
+
+CP014223.1	transdecoder	gene	1	353	.	+	.	ID=GENE.CP014223.1~~CP014223.1.p5;Name="ORF type:5prime_partial (+)"
+CP014223.1	transdecoder	mRNA	1	353	.	+	.	ID=CP014223.1.p5;Parent=GENE.CP014223.1~~CP014223.1.p5;Name="ORF type:5prime_partial (+)"
+CP014223.1	transdecoder	exon	1	353	.	+	.	ID=CP014223.1.p5.exon1;Parent=CP014223.1.p5
+CP014223.1	transdecoder	CDS	3	62	.	+	0	ID=cds.CP014223.1.p5;Parent=CP014223.1.p5;5_prime_partial=true
+CP014223.1	transdecoder	three_prime_UTR	63	353	.	+	.	ID=CP014223.1.p5.utr3p1;Parent=CP014223.1.p5
+
+CP014223.1	transdecoder	gene	1	353	.	+	.	ID=GENE.CP014223.1~~CP014223.1.p6;Name="ORF type:3prime_partial (+)"
+CP014223.1	transdecoder	mRNA	1	353	.	+	.	ID=CP014223.1.p6;Parent=GENE.CP014223.1~~CP014223.1.p6;Name="ORF type:3prime_partial (+)"
+CP014223.1	transdecoder	five_prime_UTR	1	295	.	+	.	ID=CP014223.1.p6.utr5p1;Parent=CP014223.1.p6
+CP014223.1	transdecoder	exon	1	353	.	+	.	ID=CP014223.1.p6.exon1;Parent=CP014223.1.p6
+CP014223.1	transdecoder	CDS	296	352	.	+	0	ID=cds.CP014223.1.p6;Parent=CP014223.1.p6;3_prime_partial=true
+
+CP014223.1	transdecoder	gene	1	353	.	+	.	ID=GENE.CP014223.1~~CP014223.1.p7;Name="ORF type:complete (+)"
+CP014223.1	transdecoder	mRNA	1	353	.	+	.	ID=CP014223.1.p7;Parent=GENE.CP014223.1~~CP014223.1.p7;Name="ORF type:complete (+)"
+CP014223.1	transdecoder	five_prime_UTR	1	226	.	+	.	ID=CP014223.1.p7.utr5p1;Parent=CP014223.1.p7
+CP014223.1	transdecoder	exon	1	353	.	+	.	ID=CP014223.1.p7.exon1;Parent=CP014223.1.p7
+CP014223.1	transdecoder	CDS	227	271	.	+	0	ID=cds.CP014223.1.p7;Parent=CP014223.1.p7
+CP014223.1	transdecoder	three_prime_UTR	272	353	.	+	.	ID=CP014223.1.p7.utr3p1;Parent=CP014223.1.p7
+
+CP014223.1	transdecoder	gene	1	353	.	+	.	ID=GENE.CP014223.1~~CP014223.1.p8;Name="ORF type:3prime_partial (+)"
+CP014223.1	transdecoder	mRNA	1	353	.	+	.	ID=CP014223.1.p8;Parent=GENE.CP014223.1~~CP014223.1.p8;Name="ORF type:3prime_partial (+)"
+CP014223.1	transdecoder	five_prime_UTR	1	314	.	+	.	ID=CP014223.1.p8.utr5p1;Parent=CP014223.1.p8
+CP014223.1	transdecoder	exon	1	353	.	+	.	ID=CP014223.1.p8.exon1;Parent=CP014223.1.p8
+CP014223.1	transdecoder	CDS	315	353	.	+	0	ID=cds.CP014223.1.p8;Parent=CP014223.1.p8;3_prime_partial=true
+

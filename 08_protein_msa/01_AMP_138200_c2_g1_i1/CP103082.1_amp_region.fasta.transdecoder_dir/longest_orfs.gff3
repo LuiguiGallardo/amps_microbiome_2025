@@ -1,0 +1,127 @@
+CP103082.1	transdecoder	gene	1	744	.	-	.	ID=GENE.CP103082.1~~CP103082.1.p1;Name="ORF type:complete (-)"
+CP103082.1	transdecoder	mRNA	1	744	.	-	.	ID=CP103082.1.p1;Parent=GENE.CP103082.1~~CP103082.1.p1;Name="ORF type:complete (-)"
+CP103082.1	transdecoder	five_prime_UTR	716	744	.	-	.	ID=CP103082.1.p1.utr5p1;Parent=CP103082.1.p1
+CP103082.1	transdecoder	exon	1	744	.	-	.	ID=CP103082.1.p1.exon1;Parent=CP103082.1.p1
+CP103082.1	transdecoder	CDS	488	715	.	-	0	ID=cds.CP103082.1.p1;Parent=CP103082.1.p1
+CP103082.1	transdecoder	three_prime_UTR	1	487	.	-	.	ID=CP103082.1.p1.utr3p1;Parent=CP103082.1.p1
+
+CP103082.1	transdecoder	gene	1	744	.	+	.	ID=GENE.CP103082.1~~CP103082.1.p2;Name="ORF type:complete (+)"
+CP103082.1	transdecoder	mRNA	1	744	.	+	.	ID=CP103082.1.p2;Parent=GENE.CP103082.1~~CP103082.1.p2;Name="ORF type:complete (+)"
+CP103082.1	transdecoder	five_prime_UTR	1	452	.	+	.	ID=CP103082.1.p2.utr5p1;Parent=CP103082.1.p2
+CP103082.1	transdecoder	exon	1	744	.	+	.	ID=CP103082.1.p2.exon1;Parent=CP103082.1.p2
+CP103082.1	transdecoder	CDS	453	671	.	+	0	ID=cds.CP103082.1.p2;Parent=CP103082.1.p2
+CP103082.1	transdecoder	three_prime_UTR	672	744	.	+	.	ID=CP103082.1.p2.utr3p1;Parent=CP103082.1.p2
+
+CP103082.1	transdecoder	gene	1	744	.	-	.	ID=GENE.CP103082.1~~CP103082.1.p3;Name="ORF type:complete (-)"
+CP103082.1	transdecoder	mRNA	1	744	.	-	.	ID=CP103082.1.p3;Parent=GENE.CP103082.1~~CP103082.1.p3;Name="ORF type:complete (-)"
+CP103082.1	transdecoder	five_prime_UTR	233	744	.	-	.	ID=CP103082.1.p3.utr5p1;Parent=CP103082.1.p3
+CP103082.1	transdecoder	exon	1	744	.	-	.	ID=CP103082.1.p3.exon1;Parent=CP103082.1.p3
+CP103082.1	transdecoder	CDS	41	232	.	-	0	ID=cds.CP103082.1.p3;Parent=CP103082.1.p3
+CP103082.1	transdecoder	three_prime_UTR	1	40	.	-	.	ID=CP103082.1.p3.utr3p1;Parent=CP103082.1.p3
+
+CP103082.1	transdecoder	gene	1	744	.	+	.	ID=GENE.CP103082.1~~CP103082.1.p4;Name="ORF type:5prime_partial (+)"
+CP103082.1	transdecoder	mRNA	1	744	.	+	.	ID=CP103082.1.p4;Parent=GENE.CP103082.1~~CP103082.1.p4;Name="ORF type:5prime_partial (+)"
+CP103082.1	transdecoder	exon	1	744	.	+	.	ID=CP103082.1.p4.exon1;Parent=CP103082.1.p4
+CP103082.1	transdecoder	CDS	2	145	.	+	0	ID=cds.CP103082.1.p4;Parent=CP103082.1.p4;5_prime_partial=true
+CP103082.1	transdecoder	three_prime_UTR	146	744	.	+	.	ID=CP103082.1.p4.utr3p1;Parent=CP103082.1.p4
+
+CP103082.1	transdecoder	gene	1	744	.	-	.	ID=GENE.CP103082.1~~CP103082.1.p5;Name="ORF type:complete (-)"
+CP103082.1	transdecoder	mRNA	1	744	.	-	.	ID=CP103082.1.p5;Parent=GENE.CP103082.1~~CP103082.1.p5;Name="ORF type:complete (-)"
+CP103082.1	transdecoder	five_prime_UTR	204	744	.	-	.	ID=CP103082.1.p5.utr5p1;Parent=CP103082.1.p5
+CP103082.1	transdecoder	exon	1	744	.	-	.	ID=CP103082.1.p5.exon1;Parent=CP103082.1.p5
+CP103082.1	transdecoder	CDS	60	203	.	-	0	ID=cds.CP103082.1.p5;Parent=CP103082.1.p5
+CP103082.1	transdecoder	three_prime_UTR	1	59	.	-	.	ID=CP103082.1.p5.utr3p1;Parent=CP103082.1.p5
+
+CP103082.1	transdecoder	gene	1	744	.	+	.	ID=GENE.CP103082.1~~CP103082.1.p6;Name="ORF type:3prime_partial (+)"
+CP103082.1	transdecoder	mRNA	1	744	.	+	.	ID=CP103082.1.p6;Parent=GENE.CP103082.1~~CP103082.1.p6;Name="ORF type:3prime_partial (+)"
+CP103082.1	transdecoder	five_prime_UTR	1	604	.	+	.	ID=CP103082.1.p6.utr5p1;Parent=CP103082.1.p6
+CP103082.1	transdecoder	exon	1	744	.	+	.	ID=CP103082.1.p6.exon1;Parent=CP103082.1.p6
+CP103082.1	transdecoder	CDS	605	742	.	+	0	ID=cds.CP103082.1.p6;Parent=CP103082.1.p6;3_prime_partial=true
+
+CP103082.1	transdecoder	gene	1	744	.	-	.	ID=GENE.CP103082.1~~CP103082.1.p7;Name="ORF type:complete (-)"
+CP103082.1	transdecoder	mRNA	1	744	.	-	.	ID=CP103082.1.p7;Parent=GENE.CP103082.1~~CP103082.1.p7;Name="ORF type:complete (-)"
+CP103082.1	transdecoder	five_prime_UTR	670	744	.	-	.	ID=CP103082.1.p7.utr5p1;Parent=CP103082.1.p7
+CP103082.1	transdecoder	exon	1	744	.	-	.	ID=CP103082.1.p7.exon1;Parent=CP103082.1.p7
+CP103082.1	transdecoder	CDS	538	669	.	-	0	ID=cds.CP103082.1.p7;Parent=CP103082.1.p7
+CP103082.1	transdecoder	three_prime_UTR	1	537	.	-	.	ID=CP103082.1.p7.utr3p1;Parent=CP103082.1.p7
+
+CP103082.1	transdecoder	gene	1	744	.	-	.	ID=GENE.CP103082.1~~CP103082.1.p8;Name="ORF type:complete (-)"
+CP103082.1	transdecoder	mRNA	1	744	.	-	.	ID=CP103082.1.p8;Parent=GENE.CP103082.1~~CP103082.1.p8;Name="ORF type:complete (-)"
+CP103082.1	transdecoder	five_prime_UTR	330	744	.	-	.	ID=CP103082.1.p8.utr5p1;Parent=CP103082.1.p8
+CP103082.1	transdecoder	exon	1	744	.	-	.	ID=CP103082.1.p8.exon1;Parent=CP103082.1.p8
+CP103082.1	transdecoder	CDS	207	329	.	-	0	ID=cds.CP103082.1.p8;Parent=CP103082.1.p8
+CP103082.1	transdecoder	three_prime_UTR	1	206	.	-	.	ID=CP103082.1.p8.utr3p1;Parent=CP103082.1.p8
+
+CP103082.1	transdecoder	gene	1	744	.	+	.	ID=GENE.CP103082.1~~CP103082.1.p9;Name="ORF type:complete (+)"
+CP103082.1	transdecoder	mRNA	1	744	.	+	.	ID=CP103082.1.p9;Parent=GENE.CP103082.1~~CP103082.1.p9;Name="ORF type:complete (+)"
+CP103082.1	transdecoder	five_prime_UTR	1	230	.	+	.	ID=CP103082.1.p9.utr5p1;Parent=CP103082.1.p9
+CP103082.1	transdecoder	exon	1	744	.	+	.	ID=CP103082.1.p9.exon1;Parent=CP103082.1.p9
+CP103082.1	transdecoder	CDS	231	311	.	+	0	ID=cds.CP103082.1.p9;Parent=CP103082.1.p9
+CP103082.1	transdecoder	three_prime_UTR	312	744	.	+	.	ID=CP103082.1.p9.utr3p1;Parent=CP103082.1.p9
+
+CP103082.1	transdecoder	gene	1	744	.	+	.	ID=GENE.CP103082.1~~CP103082.1.p10;Name="ORF type:complete (+)"
+CP103082.1	transdecoder	mRNA	1	744	.	+	.	ID=CP103082.1.p10;Parent=GENE.CP103082.1~~CP103082.1.p10;Name="ORF type:complete (+)"
+CP103082.1	transdecoder	five_prime_UTR	1	255	.	+	.	ID=CP103082.1.p10.utr5p1;Parent=CP103082.1.p10
+CP103082.1	transdecoder	exon	1	744	.	+	.	ID=CP103082.1.p10.exon1;Parent=CP103082.1.p10
+CP103082.1	transdecoder	CDS	256	333	.	+	0	ID=cds.CP103082.1.p10;Parent=CP103082.1.p10
+CP103082.1	transdecoder	three_prime_UTR	334	744	.	+	.	ID=CP103082.1.p10.utr3p1;Parent=CP103082.1.p10
+
+CP103082.1	transdecoder	gene	1	744	.	+	.	ID=GENE.CP103082.1~~CP103082.1.p11;Name="ORF type:complete (+)"
+CP103082.1	transdecoder	mRNA	1	744	.	+	.	ID=CP103082.1.p11;Parent=GENE.CP103082.1~~CP103082.1.p11;Name="ORF type:complete (+)"
+CP103082.1	transdecoder	five_prime_UTR	1	395	.	+	.	ID=CP103082.1.p11.utr5p1;Parent=CP103082.1.p11
+CP103082.1	transdecoder	exon	1	744	.	+	.	ID=CP103082.1.p11.exon1;Parent=CP103082.1.p11
+CP103082.1	transdecoder	CDS	396	452	.	+	0	ID=cds.CP103082.1.p11;Parent=CP103082.1.p11
+CP103082.1	transdecoder	three_prime_UTR	453	744	.	+	.	ID=CP103082.1.p11.utr3p1;Parent=CP103082.1.p11
+
+CP103082.1	transdecoder	gene	1	744	.	+	.	ID=GENE.CP103082.1~~CP103082.1.p12;Name="ORF type:complete (+)"
+CP103082.1	transdecoder	mRNA	1	744	.	+	.	ID=CP103082.1.p12;Parent=GENE.CP103082.1~~CP103082.1.p12;Name="ORF type:complete (+)"
+CP103082.1	transdecoder	five_prime_UTR	1	363	.	+	.	ID=CP103082.1.p12.utr5p1;Parent=CP103082.1.p12
+CP103082.1	transdecoder	exon	1	744	.	+	.	ID=CP103082.1.p12.exon1;Parent=CP103082.1.p12
+CP103082.1	transdecoder	CDS	364	414	.	+	0	ID=cds.CP103082.1.p12;Parent=CP103082.1.p12
+CP103082.1	transdecoder	three_prime_UTR	415	744	.	+	.	ID=CP103082.1.p12.utr3p1;Parent=CP103082.1.p12
+
+CP103082.1	transdecoder	gene	1	744	.	+	.	ID=GENE.CP103082.1~~CP103082.1.p13;Name="ORF type:5prime_partial (+)"
+CP103082.1	transdecoder	mRNA	1	744	.	+	.	ID=CP103082.1.p13;Parent=GENE.CP103082.1~~CP103082.1.p13;Name="ORF type:5prime_partial (+)"
+CP103082.1	transdecoder	exon	1	744	.	+	.	ID=CP103082.1.p13.exon1;Parent=CP103082.1.p13
+CP103082.1	transdecoder	CDS	3	44	.	+	0	ID=cds.CP103082.1.p13;Parent=CP103082.1.p13;5_prime_partial=true
+CP103082.1	transdecoder	three_prime_UTR	45	744	.	+	.	ID=CP103082.1.p13.utr3p1;Parent=CP103082.1.p13
+
+CP103082.1	transdecoder	gene	1	744	.	+	.	ID=GENE.CP103082.1~~CP103082.1.p14;Name="ORF type:complete (+)"
+CP103082.1	transdecoder	mRNA	1	744	.	+	.	ID=CP103082.1.p14;Parent=GENE.CP103082.1~~CP103082.1.p14;Name="ORF type:complete (+)"
+CP103082.1	transdecoder	five_prime_UTR	1	21	.	+	.	ID=CP103082.1.p14.utr5p1;Parent=CP103082.1.p14
+CP103082.1	transdecoder	exon	1	744	.	+	.	ID=CP103082.1.p14.exon1;Parent=CP103082.1.p14
+CP103082.1	transdecoder	CDS	22	63	.	+	0	ID=cds.CP103082.1.p14;Parent=CP103082.1.p14
+CP103082.1	transdecoder	three_prime_UTR	64	744	.	+	.	ID=CP103082.1.p14.utr3p1;Parent=CP103082.1.p14
+
+CP103082.1	transdecoder	gene	1	744	.	+	.	ID=GENE.CP103082.1~~CP103082.1.p15;Name="ORF type:3prime_partial (+)"
+CP103082.1	transdecoder	mRNA	1	744	.	+	.	ID=CP103082.1.p15;Parent=GENE.CP103082.1~~CP103082.1.p15;Name="ORF type:3prime_partial (+)"
+CP103082.1	transdecoder	five_prime_UTR	1	707	.	+	.	ID=CP103082.1.p15.utr5p1;Parent=CP103082.1.p15
+CP103082.1	transdecoder	exon	1	744	.	+	.	ID=CP103082.1.p15.exon1;Parent=CP103082.1.p15
+CP103082.1	transdecoder	CDS	708	743	.	+	0	ID=cds.CP103082.1.p15;Parent=CP103082.1.p15;3_prime_partial=true
+
+CP103082.1	transdecoder	gene	1	744	.	+	.	ID=GENE.CP103082.1~~CP103082.1.p16;Name="ORF type:complete (+)"
+CP103082.1	transdecoder	mRNA	1	744	.	+	.	ID=CP103082.1.p16;Parent=GENE.CP103082.1~~CP103082.1.p16;Name="ORF type:complete (+)"
+CP103082.1	transdecoder	five_prime_UTR	1	432	.	+	.	ID=CP103082.1.p16.utr5p1;Parent=CP103082.1.p16
+CP103082.1	transdecoder	exon	1	744	.	+	.	ID=CP103082.1.p16.exon1;Parent=CP103082.1.p16
+CP103082.1	transdecoder	CDS	433	465	.	+	0	ID=cds.CP103082.1.p16;Parent=CP103082.1.p16
+CP103082.1	transdecoder	three_prime_UTR	466	744	.	+	.	ID=CP103082.1.p16.utr3p1;Parent=CP103082.1.p16
+
+CP103082.1	transdecoder	gene	1	744	.	-	.	ID=GENE.CP103082.1~~CP103082.1.p17;Name="ORF type:5prime_partial (-)"
+CP103082.1	transdecoder	mRNA	1	744	.	-	.	ID=CP103082.1.p17;Parent=GENE.CP103082.1~~CP103082.1.p17;Name="ORF type:5prime_partial (-)"
+CP103082.1	transdecoder	exon	1	744	.	-	.	ID=CP103082.1.p17.exon1;Parent=CP103082.1.p17
+CP103082.1	transdecoder	CDS	712	744	.	-	0	ID=cds.CP103082.1.p17;Parent=CP103082.1.p17;5_prime_partial=true
+CP103082.1	transdecoder	three_prime_UTR	1	711	.	-	.	ID=CP103082.1.p17.utr3p1;Parent=CP103082.1.p17
+
+CP103082.1	transdecoder	gene	1	744	.	+	.	ID=GENE.CP103082.1~~CP103082.1.p18;Name="ORF type:complete (+)"
+CP103082.1	transdecoder	mRNA	1	744	.	+	.	ID=CP103082.1.p18;Parent=GENE.CP103082.1~~CP103082.1.p18;Name="ORF type:complete (+)"
+CP103082.1	transdecoder	five_prime_UTR	1	86	.	+	.	ID=CP103082.1.p18.utr5p1;Parent=CP103082.1.p18
+CP103082.1	transdecoder	exon	1	744	.	+	.	ID=CP103082.1.p18.exon1;Parent=CP103082.1.p18
+CP103082.1	transdecoder	CDS	87	113	.	+	0	ID=cds.CP103082.1.p18;Parent=CP103082.1.p18
+CP103082.1	transdecoder	three_prime_UTR	114	744	.	+	.	ID=CP103082.1.p18.utr3p1;Parent=CP103082.1.p18
+
+CP103082.1	transdecoder	gene	1	744	.	-	.	ID=GENE.CP103082.1~~CP103082.1.p19;Name="ORF type:5prime_partial (-)"
+CP103082.1	transdecoder	mRNA	1	744	.	-	.	ID=CP103082.1.p19;Parent=GENE.CP103082.1~~CP103082.1.p19;Name="ORF type:5prime_partial (-)"
+CP103082.1	transdecoder	exon	1	744	.	-	.	ID=CP103082.1.p19.exon1;Parent=CP103082.1.p19
+CP103082.1	transdecoder	CDS	717	743	.	-	0	ID=cds.CP103082.1.p19;Parent=CP103082.1.p19;5_prime_partial=true
+CP103082.1	transdecoder	three_prime_UTR	1	716	.	-	.	ID=CP103082.1.p19.utr3p1;Parent=CP103082.1.p19
+

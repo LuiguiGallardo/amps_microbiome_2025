@@ -1,0 +1,66 @@
+CP048741.1	transdecoder	gene	1	544	.	-	.	ID=GENE.CP048741.1~~CP048741.1.p1;Name="ORF type:complete (-)"
+CP048741.1	transdecoder	mRNA	1	544	.	-	.	ID=CP048741.1.p1;Parent=GENE.CP048741.1~~CP048741.1.p1;Name="ORF type:complete (-)"
+CP048741.1	transdecoder	five_prime_UTR	258	544	.	-	.	ID=CP048741.1.p1.utr5p1;Parent=CP048741.1.p1
+CP048741.1	transdecoder	exon	1	544	.	-	.	ID=CP048741.1.p1.exon1;Parent=CP048741.1.p1
+CP048741.1	transdecoder	CDS	54	257	.	-	0	ID=cds.CP048741.1.p1;Parent=CP048741.1.p1
+CP048741.1	transdecoder	three_prime_UTR	1	53	.	-	.	ID=CP048741.1.p1.utr3p1;Parent=CP048741.1.p1
+
+CP048741.1	transdecoder	gene	1	544	.	-	.	ID=GENE.CP048741.1~~CP048741.1.p2;Name="ORF type:complete (-)"
+CP048741.1	transdecoder	mRNA	1	544	.	-	.	ID=CP048741.1.p2;Parent=GENE.CP048741.1~~CP048741.1.p2;Name="ORF type:complete (-)"
+CP048741.1	transdecoder	five_prime_UTR	519	544	.	-	.	ID=CP048741.1.p2.utr5p1;Parent=CP048741.1.p2
+CP048741.1	transdecoder	exon	1	544	.	-	.	ID=CP048741.1.p2.exon1;Parent=CP048741.1.p2
+CP048741.1	transdecoder	CDS	354	518	.	-	0	ID=cds.CP048741.1.p2;Parent=CP048741.1.p2
+CP048741.1	transdecoder	three_prime_UTR	1	353	.	-	.	ID=CP048741.1.p2.utr3p1;Parent=CP048741.1.p2
+
+CP048741.1	transdecoder	gene	1	544	.	+	.	ID=GENE.CP048741.1~~CP048741.1.p3;Name="ORF type:5prime_partial (+)"
+CP048741.1	transdecoder	mRNA	1	544	.	+	.	ID=CP048741.1.p3;Parent=GENE.CP048741.1~~CP048741.1.p3;Name="ORF type:5prime_partial (+)"
+CP048741.1	transdecoder	exon	1	544	.	+	.	ID=CP048741.1.p3.exon1;Parent=CP048741.1.p3
+CP048741.1	transdecoder	CDS	2	100	.	+	0	ID=cds.CP048741.1.p3;Parent=CP048741.1.p3;5_prime_partial=true
+CP048741.1	transdecoder	three_prime_UTR	101	544	.	+	.	ID=CP048741.1.p3.utr3p1;Parent=CP048741.1.p3
+
+CP048741.1	transdecoder	gene	1	544	.	-	.	ID=GENE.CP048741.1~~CP048741.1.p4;Name="ORF type:complete (-)"
+CP048741.1	transdecoder	mRNA	1	544	.	-	.	ID=CP048741.1.p4;Parent=GENE.CP048741.1~~CP048741.1.p4;Name="ORF type:complete (-)"
+CP048741.1	transdecoder	five_prime_UTR	431	544	.	-	.	ID=CP048741.1.p4.utr5p1;Parent=CP048741.1.p4
+CP048741.1	transdecoder	exon	1	544	.	-	.	ID=CP048741.1.p4.exon1;Parent=CP048741.1.p4
+CP048741.1	transdecoder	CDS	344	430	.	-	0	ID=cds.CP048741.1.p4;Parent=CP048741.1.p4
+CP048741.1	transdecoder	three_prime_UTR	1	343	.	-	.	ID=CP048741.1.p4.utr3p1;Parent=CP048741.1.p4
+
+CP048741.1	transdecoder	gene	1	544	.	+	.	ID=GENE.CP048741.1~~CP048741.1.p5;Name="ORF type:3prime_partial (+)"
+CP048741.1	transdecoder	mRNA	1	544	.	+	.	ID=CP048741.1.p5;Parent=GENE.CP048741.1~~CP048741.1.p5;Name="ORF type:3prime_partial (+)"
+CP048741.1	transdecoder	five_prime_UTR	1	476	.	+	.	ID=CP048741.1.p5.utr5p1;Parent=CP048741.1.p5
+CP048741.1	transdecoder	exon	1	544	.	+	.	ID=CP048741.1.p5.exon1;Parent=CP048741.1.p5
+CP048741.1	transdecoder	CDS	477	542	.	+	0	ID=cds.CP048741.1.p5;Parent=CP048741.1.p5;3_prime_partial=true
+
+CP048741.1	transdecoder	gene	1	544	.	+	.	ID=GENE.CP048741.1~~CP048741.1.p6;Name="ORF type:complete (+)"
+CP048741.1	transdecoder	mRNA	1	544	.	+	.	ID=CP048741.1.p6;Parent=GENE.CP048741.1~~CP048741.1.p6;Name="ORF type:complete (+)"
+CP048741.1	transdecoder	five_prime_UTR	1	486	.	+	.	ID=CP048741.1.p6.utr5p1;Parent=CP048741.1.p6
+CP048741.1	transdecoder	exon	1	544	.	+	.	ID=CP048741.1.p6.exon1;Parent=CP048741.1.p6
+CP048741.1	transdecoder	CDS	487	540	.	+	0	ID=cds.CP048741.1.p6;Parent=CP048741.1.p6
+CP048741.1	transdecoder	three_prime_UTR	541	544	.	+	.	ID=CP048741.1.p6.utr3p1;Parent=CP048741.1.p6
+
+CP048741.1	transdecoder	gene	1	544	.	+	.	ID=GENE.CP048741.1~~CP048741.1.p7;Name="ORF type:complete (+)"
+CP048741.1	transdecoder	mRNA	1	544	.	+	.	ID=CP048741.1.p7;Parent=GENE.CP048741.1~~CP048741.1.p7;Name="ORF type:complete (+)"
+CP048741.1	transdecoder	five_prime_UTR	1	413	.	+	.	ID=CP048741.1.p7.utr5p1;Parent=CP048741.1.p7
+CP048741.1	transdecoder	exon	1	544	.	+	.	ID=CP048741.1.p7.exon1;Parent=CP048741.1.p7
+CP048741.1	transdecoder	CDS	414	464	.	+	0	ID=cds.CP048741.1.p7;Parent=CP048741.1.p7
+CP048741.1	transdecoder	three_prime_UTR	465	544	.	+	.	ID=CP048741.1.p7.utr3p1;Parent=CP048741.1.p7
+
+CP048741.1	transdecoder	gene	1	544	.	-	.	ID=GENE.CP048741.1~~CP048741.1.p8;Name="ORF type:5prime_partial (-)"
+CP048741.1	transdecoder	mRNA	1	544	.	-	.	ID=CP048741.1.p8;Parent=GENE.CP048741.1~~CP048741.1.p8;Name="ORF type:5prime_partial (-)"
+CP048741.1	transdecoder	exon	1	544	.	-	.	ID=CP048741.1.p8.exon1;Parent=CP048741.1.p8
+CP048741.1	transdecoder	CDS	511	543	.	-	0	ID=cds.CP048741.1.p8;Parent=CP048741.1.p8;5_prime_partial=true
+CP048741.1	transdecoder	three_prime_UTR	1	510	.	-	.	ID=CP048741.1.p8.utr3p1;Parent=CP048741.1.p8
+
+CP048741.1	transdecoder	gene	1	544	.	+	.	ID=GENE.CP048741.1~~CP048741.1.p9;Name="ORF type:5prime_partial (+)"
+CP048741.1	transdecoder	mRNA	1	544	.	+	.	ID=CP048741.1.p9;Parent=GENE.CP048741.1~~CP048741.1.p9;Name="ORF type:5prime_partial (+)"
+CP048741.1	transdecoder	exon	1	544	.	+	.	ID=CP048741.1.p9.exon1;Parent=CP048741.1.p9
+CP048741.1	transdecoder	CDS	1	30	.	+	0	ID=cds.CP048741.1.p9;Parent=CP048741.1.p9;5_prime_partial=true
+CP048741.1	transdecoder	three_prime_UTR	31	544	.	+	.	ID=CP048741.1.p9.utr3p1;Parent=CP048741.1.p9
+
+CP048741.1	transdecoder	gene	1	544	.	+	.	ID=GENE.CP048741.1~~CP048741.1.p10;Name="ORF type:complete (+)"
+CP048741.1	transdecoder	mRNA	1	544	.	+	.	ID=CP048741.1.p10;Parent=GENE.CP048741.1~~CP048741.1.p10;Name="ORF type:complete (+)"
+CP048741.1	transdecoder	five_prime_UTR	1	275	.	+	.	ID=CP048741.1.p10.utr5p1;Parent=CP048741.1.p10
+CP048741.1	transdecoder	exon	1	544	.	+	.	ID=CP048741.1.p10.exon1;Parent=CP048741.1.p10
+CP048741.1	transdecoder	CDS	276	305	.	+	0	ID=cds.CP048741.1.p10;Parent=CP048741.1.p10
+CP048741.1	transdecoder	three_prime_UTR	306	544	.	+	.	ID=CP048741.1.p10.utr3p1;Parent=CP048741.1.p10
+

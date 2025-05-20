@@ -1,0 +1,30 @@
+CP107211.1	transdecoder	gene	1	207	.	+	.	ID=GENE.CP107211.1~~CP107211.1.p1;Name="ORF type:internal (+)"
+CP107211.1	transdecoder	mRNA	1	207	.	+	.	ID=CP107211.1.p1;Parent=GENE.CP107211.1~~CP107211.1.p1;Name="ORF type:internal (+)"
+CP107211.1	transdecoder	exon	1	207	.	+	.	ID=CP107211.1.p1.exon1;Parent=CP107211.1.p1
+CP107211.1	transdecoder	CDS	3	206	.	+	0	ID=cds.CP107211.1.p1;Parent=CP107211.1.p1;5_prime_partial=true;3_prime_partial=true
+
+CP107211.1	transdecoder	gene	1	207	.	+	.	ID=GENE.CP107211.1~~CP107211.1.p2;Name="ORF type:5prime_partial (+)"
+CP107211.1	transdecoder	mRNA	1	207	.	+	.	ID=CP107211.1.p2;Parent=GENE.CP107211.1~~CP107211.1.p2;Name="ORF type:5prime_partial (+)"
+CP107211.1	transdecoder	exon	1	207	.	+	.	ID=CP107211.1.p2.exon1;Parent=CP107211.1.p2
+CP107211.1	transdecoder	CDS	1	111	.	+	0	ID=cds.CP107211.1.p2;Parent=CP107211.1.p2;5_prime_partial=true
+CP107211.1	transdecoder	three_prime_UTR	112	207	.	+	.	ID=CP107211.1.p2.utr3p1;Parent=CP107211.1.p2
+
+CP107211.1	transdecoder	gene	1	207	.	-	.	ID=GENE.CP107211.1~~CP107211.1.p3;Name="ORF type:5prime_partial (-)"
+CP107211.1	transdecoder	mRNA	1	207	.	-	.	ID=CP107211.1.p3;Parent=GENE.CP107211.1~~CP107211.1.p3;Name="ORF type:5prime_partial (-)"
+CP107211.1	transdecoder	exon	1	207	.	-	.	ID=CP107211.1.p3.exon1;Parent=CP107211.1.p3
+CP107211.1	transdecoder	CDS	128	205	.	-	0	ID=cds.CP107211.1.p3;Parent=CP107211.1.p3;5_prime_partial=true
+CP107211.1	transdecoder	three_prime_UTR	1	127	.	-	.	ID=CP107211.1.p3.utr3p1;Parent=CP107211.1.p3
+
+CP107211.1	transdecoder	gene	1	207	.	+	.	ID=GENE.CP107211.1~~CP107211.1.p4;Name="ORF type:5prime_partial (+)"
+CP107211.1	transdecoder	mRNA	1	207	.	+	.	ID=CP107211.1.p4;Parent=GENE.CP107211.1~~CP107211.1.p4;Name="ORF type:5prime_partial (+)"
+CP107211.1	transdecoder	exon	1	207	.	+	.	ID=CP107211.1.p4.exon1;Parent=CP107211.1.p4
+CP107211.1	transdecoder	CDS	2	49	.	+	0	ID=cds.CP107211.1.p4;Parent=CP107211.1.p4;5_prime_partial=true
+CP107211.1	transdecoder	three_prime_UTR	50	207	.	+	.	ID=CP107211.1.p4.utr3p1;Parent=CP107211.1.p4
+
+CP107211.1	transdecoder	gene	1	207	.	-	.	ID=GENE.CP107211.1~~CP107211.1.p5;Name="ORF type:complete (-)"
+CP107211.1	transdecoder	mRNA	1	207	.	-	.	ID=CP107211.1.p5;Parent=GENE.CP107211.1~~CP107211.1.p5;Name="ORF type:complete (-)"
+CP107211.1	transdecoder	five_prime_UTR	98	207	.	-	.	ID=CP107211.1.p5.utr5p1;Parent=CP107211.1.p5
+CP107211.1	transdecoder	exon	1	207	.	-	.	ID=CP107211.1.p5.exon1;Parent=CP107211.1.p5
+CP107211.1	transdecoder	CDS	53	97	.	-	0	ID=cds.CP107211.1.p5;Parent=CP107211.1.p5
+CP107211.1	transdecoder	three_prime_UTR	1	52	.	-	.	ID=CP107211.1.p5.utr3p1;Parent=CP107211.1.p5
+

@@ -1,0 +1,56 @@
+BK058526.1	transdecoder	gene	1	359	.	+	.	ID=GENE.BK058526.1~~BK058526.1.p1;Name="ORF type:3prime_partial (+)"
+BK058526.1	transdecoder	mRNA	1	359	.	+	.	ID=BK058526.1.p1;Parent=GENE.BK058526.1~~BK058526.1.p1;Name="ORF type:3prime_partial (+)"
+BK058526.1	transdecoder	five_prime_UTR	1	228	.	+	.	ID=BK058526.1.p1.utr5p1;Parent=BK058526.1.p1
+BK058526.1	transdecoder	exon	1	359	.	+	.	ID=BK058526.1.p1.exon1;Parent=BK058526.1.p1
+BK058526.1	transdecoder	CDS	229	357	.	+	0	ID=cds.BK058526.1.p1;Parent=BK058526.1.p1;3_prime_partial=true
+
+BK058526.1	transdecoder	gene	1	359	.	+	.	ID=GENE.BK058526.1~~BK058526.1.p2;Name="ORF type:5prime_partial (+)"
+BK058526.1	transdecoder	mRNA	1	359	.	+	.	ID=BK058526.1.p2;Parent=GENE.BK058526.1~~BK058526.1.p2;Name="ORF type:5prime_partial (+)"
+BK058526.1	transdecoder	exon	1	359	.	+	.	ID=BK058526.1.p2.exon1;Parent=BK058526.1.p2
+BK058526.1	transdecoder	CDS	3	128	.	+	0	ID=cds.BK058526.1.p2;Parent=BK058526.1.p2;5_prime_partial=true
+BK058526.1	transdecoder	three_prime_UTR	129	359	.	+	.	ID=BK058526.1.p2.utr3p1;Parent=BK058526.1.p2
+
+BK058526.1	transdecoder	gene	1	359	.	-	.	ID=GENE.BK058526.1~~BK058526.1.p3;Name="ORF type:5prime_partial (-)"
+BK058526.1	transdecoder	mRNA	1	359	.	-	.	ID=BK058526.1.p3;Parent=GENE.BK058526.1~~BK058526.1.p3;Name="ORF type:5prime_partial (-)"
+BK058526.1	transdecoder	exon	1	359	.	-	.	ID=BK058526.1.p3.exon1;Parent=BK058526.1.p3
+BK058526.1	transdecoder	CDS	255	359	.	-	0	ID=cds.BK058526.1.p3;Parent=BK058526.1.p3;5_prime_partial=true
+BK058526.1	transdecoder	three_prime_UTR	1	254	.	-	.	ID=BK058526.1.p3.utr3p1;Parent=BK058526.1.p3
+
+BK058526.1	transdecoder	gene	1	359	.	-	.	ID=GENE.BK058526.1~~BK058526.1.p4;Name="ORF type:complete (-)"
+BK058526.1	transdecoder	mRNA	1	359	.	-	.	ID=BK058526.1.p4;Parent=GENE.BK058526.1~~BK058526.1.p4;Name="ORF type:complete (-)"
+BK058526.1	transdecoder	five_prime_UTR	231	359	.	-	.	ID=BK058526.1.p4.utr5p1;Parent=BK058526.1.p4
+BK058526.1	transdecoder	exon	1	359	.	-	.	ID=BK058526.1.p4.exon1;Parent=BK058526.1.p4
+BK058526.1	transdecoder	CDS	129	230	.	-	0	ID=cds.BK058526.1.p4;Parent=BK058526.1.p4
+BK058526.1	transdecoder	three_prime_UTR	1	128	.	-	.	ID=BK058526.1.p4.utr3p1;Parent=BK058526.1.p4
+
+BK058526.1	transdecoder	gene	1	359	.	+	.	ID=GENE.BK058526.1~~BK058526.1.p5;Name="ORF type:5prime_partial (+)"
+BK058526.1	transdecoder	mRNA	1	359	.	+	.	ID=BK058526.1.p5;Parent=GENE.BK058526.1~~BK058526.1.p5;Name="ORF type:5prime_partial (+)"
+BK058526.1	transdecoder	exon	1	359	.	+	.	ID=BK058526.1.p5.exon1;Parent=BK058526.1.p5
+BK058526.1	transdecoder	CDS	1	90	.	+	0	ID=cds.BK058526.1.p5;Parent=BK058526.1.p5;5_prime_partial=true
+BK058526.1	transdecoder	three_prime_UTR	91	359	.	+	.	ID=BK058526.1.p5.utr3p1;Parent=BK058526.1.p5
+
+BK058526.1	transdecoder	gene	1	359	.	-	.	ID=GENE.BK058526.1~~BK058526.1.p6;Name="ORF type:3prime_partial (-)"
+BK058526.1	transdecoder	mRNA	1	359	.	-	.	ID=BK058526.1.p6;Parent=GENE.BK058526.1~~BK058526.1.p6;Name="ORF type:3prime_partial (-)"
+BK058526.1	transdecoder	five_prime_UTR	72	359	.	-	.	ID=BK058526.1.p6.utr5p1;Parent=BK058526.1.p6
+BK058526.1	transdecoder	exon	1	359	.	-	.	ID=BK058526.1.p6.exon1;Parent=BK058526.1.p6
+BK058526.1	transdecoder	CDS	3	71	.	-	0	ID=cds.BK058526.1.p6;Parent=BK058526.1.p6;3_prime_partial=true
+
+BK058526.1	transdecoder	gene	1	359	.	-	.	ID=GENE.BK058526.1~~BK058526.1.p7;Name="ORF type:complete (-)"
+BK058526.1	transdecoder	mRNA	1	359	.	-	.	ID=BK058526.1.p7;Parent=GENE.BK058526.1~~BK058526.1.p7;Name="ORF type:complete (-)"
+BK058526.1	transdecoder	five_prime_UTR	179	359	.	-	.	ID=BK058526.1.p7.utr5p1;Parent=BK058526.1.p7
+BK058526.1	transdecoder	exon	1	359	.	-	.	ID=BK058526.1.p7.exon1;Parent=BK058526.1.p7
+BK058526.1	transdecoder	CDS	125	178	.	-	0	ID=cds.BK058526.1.p7;Parent=BK058526.1.p7
+BK058526.1	transdecoder	three_prime_UTR	1	124	.	-	.	ID=BK058526.1.p7.utr3p1;Parent=BK058526.1.p7
+
+BK058526.1	transdecoder	gene	1	359	.	+	.	ID=GENE.BK058526.1~~BK058526.1.p8;Name="ORF type:3prime_partial (+)"
+BK058526.1	transdecoder	mRNA	1	359	.	+	.	ID=BK058526.1.p8;Parent=GENE.BK058526.1~~BK058526.1.p8;Name="ORF type:3prime_partial (+)"
+BK058526.1	transdecoder	five_prime_UTR	1	316	.	+	.	ID=BK058526.1.p8.utr5p1;Parent=BK058526.1.p8
+BK058526.1	transdecoder	exon	1	359	.	+	.	ID=BK058526.1.p8.exon1;Parent=BK058526.1.p8
+BK058526.1	transdecoder	CDS	317	358	.	+	0	ID=cds.BK058526.1.p8;Parent=BK058526.1.p8;3_prime_partial=true
+
+BK058526.1	transdecoder	gene	1	359	.	+	.	ID=GENE.BK058526.1~~BK058526.1.p9;Name="ORF type:5prime_partial (+)"
+BK058526.1	transdecoder	mRNA	1	359	.	+	.	ID=BK058526.1.p9;Parent=GENE.BK058526.1~~BK058526.1.p9;Name="ORF type:5prime_partial (+)"
+BK058526.1	transdecoder	exon	1	359	.	+	.	ID=BK058526.1.p9.exon1;Parent=BK058526.1.p9
+BK058526.1	transdecoder	CDS	2	31	.	+	0	ID=cds.BK058526.1.p9;Parent=BK058526.1.p9;5_prime_partial=true
+BK058526.1	transdecoder	three_prime_UTR	32	359	.	+	.	ID=BK058526.1.p9.utr3p1;Parent=BK058526.1.p9
+
