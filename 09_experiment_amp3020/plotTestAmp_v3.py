@@ -37,10 +37,17 @@ df.loc[df["dose"] == "Control", "dose_dataset"] = "Control"
 # Set Seaborn style
 sns.set_theme(style="white")
 
+# Colors
+custom_palette = {
+    "ADR1": "#9bb4f0",      # blue
+    "ADR2": "#9bf0a6",      # green
+    "Control": "#dddcdc"   # gray
+}
+
 # Create the plot
 plt.figure(figsize=(3, 5))
 ax = sns.barplot(
-    data=df, x="time", y="od_value", hue="dose_dataset", errorbar="sd", palette="coolwarm",
+    data=df, x="time", y="od_value", hue="dose_dataset", errorbar=None, palette=custom_palette,
     hue_order=["Control", "ADR1", "ADR2"]
 )
 
@@ -49,7 +56,7 @@ pairs = [((time, "Control"), (time, "ADR1")) for time in df["time"].unique()]
 pairs += [((time, "Control"), (time, "ADR2")) for time in df["time"].unique()]
 annotator = Annotator(ax, pairs, data=df, x="time", y="od_value", hue="dose_dataset",
                       hue_order=["Control", "ADR1", "ADR2"])
-annotator.configure(test="t-test_ind", text_format="star", loc="inside", verbose=2)
+annotator.configure(test="t-test_ind", text_format="star", loc="inside", verbose=2, fontsize="x-small")
 annotator.apply_and_annotate()
 
 # Customize plot
