@@ -1,0 +1,1412 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="2560"
+   height="440"
+   viewBox="0 0 2560 440"
+   id="svg17"
+   sodipodi:docname="09_AMP_612198_c2_g1_i1_final.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs17">
+    <clipPath
+       id="cpMC4wMHw3MjAuMDB8MC4wMHw0MzIuMDA=">
+      <rect
+         x="0"
+         y="0"
+         width="720"
+         height="432"
+         id="rect2" />
+    </clipPath>
+    <clipPath
+       id="cpOC4yMnwzNTIuMzl8NS40OHw1LjQ4">
+      <rect
+         x="8.2200003"
+         y="5.48"
+         width="344.17001"
+         height="0"
+         id="rect42" />
+    </clipPath>
+    <clipPath
+       id="clipPath1">
+      <rect
+         x="0"
+         y="0"
+         width="720"
+         height="432"
+         id="rect1" />
+    </clipPath>
+    <clipPath
+       id="cpOC4yMnwzNTIuMzl8MTQ3LjY1fDE0Ny42NQ==">
+      <rect
+         x="8.2200003"
+         y="147.64999"
+         width="344.17001"
+         height="0"
+         id="rect40" />
+    </clipPath>
+    <clipPath
+       id="clipPath3">
+      <rect
+         x="0"
+         y="0"
+         width="720"
+         height="432"
+         id="rect3" />
+    </clipPath>
+    <clipPath
+       id="cpOC4yMnwzNTIuMzl8Mjg5LjgzfDI4OS44Mw==">
+      <rect
+         x="8.2200003"
+         y="289.82999"
+         width="344.17001"
+         height="0"
+         id="rect38" />
+    </clipPath>
+    <clipPath
+       id="clipPath4">
+      <rect
+         x="0"
+         y="0"
+         width="720"
+         height="432"
+         id="rect4" />
+    </clipPath>
+    <clipPath
+       id="cpOC4yMnwzNTIuMzl8Mjg5LjgzfDQyMy43OA==">
+      <rect
+         x="8.2200003"
+         y="289.82999"
+         width="344.17001"
+         height="133.95"
+         id="rect24" />
+    </clipPath>
+    <clipPath
+       id="clipPath5">
+      <rect
+         x="0"
+         y="0"
+         width="720"
+         height="432"
+         id="rect5" />
+    </clipPath>
+    <clipPath
+       id="cpOC4yMnwzNTIuMzl8MTQ3LjY1fDI4MS42MQ==">
+      <rect
+         x="8.2200003"
+         y="147.64999"
+         width="344.17001"
+         height="133.95"
+         id="rect14" />
+    </clipPath>
+    <clipPath
+       id="clipPath6">
+      <rect
+         x="0"
+         y="0"
+         width="720"
+         height="432"
+         id="rect6" />
+    </clipPath>
+    <clipPath
+       id="cpOC4yMnwzNTIuMzl8NS40OHwxMzkuNDM=">
+      <rect
+         x="8.2200003"
+         y="5.48"
+         width="344.17001"
+         height="133.95"
+         id="rect7" />
+    </clipPath>
+    <clipPath
+       id="clipPath8">
+      <rect
+         x="0"
+         y="0"
+         width="720"
+         height="432"
+         id="rect8" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview17"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.68287762"
+     inkscape:cx="1181.0315"
+     inkscape:cy="552.0755"
+     inkscape:window-width="2560"
+     inkscape:window-height="1387"
+     inkscape:window-x="1440"
+     inkscape:window-y="312"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg17" />
+  <g
+     transform="matrix(1.5596548,0,0,1.5596548,9.4228601,122.67185)"
+     id="mainHolder"
+     fill="none"
+     fill-rule="nonzero"
+     stroke="none"
+     stroke-width="1"
+     stroke-linecap="none"
+     stroke-linejoin="miter"
+     stroke-miterlimit="10"
+     stroke-dasharray="none"
+     stroke-dashoffset="none"
+     font-family="none"
+     font-weight="none"
+     font-size="none"
+     text-anchor="none"
+     style="mix-blend-mode:normal">
+    <g
+       id="hoverHolder"
+       fill="none"
+       fill-rule="nonzero"
+       stroke="none"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       stroke-dasharray="none"
+       stroke-dashoffset="0"
+       font-family="sans-serif"
+       font-weight="normal"
+       font-size="12px"
+       text-anchor="start"
+       style="mix-blend-mode:normal" />
+    <g
+       id="rangeHolder"
+       fill="none"
+       fill-rule="nonzero"
+       stroke="none"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       stroke-dasharray="none"
+       stroke-dashoffset="0"
+       font-family="sans-serif"
+       font-weight="normal"
+       font-size="12px"
+       text-anchor="start"
+       style="mix-blend-mode:normal" />
+    <g
+       id="rangeDatasetHolder"
+       fill="none"
+       fill-rule="nonzero"
+       stroke="none"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       stroke-dasharray="none"
+       stroke-dashoffset="0"
+       font-family="sans-serif"
+       font-weight="normal"
+       font-size="12px"
+       text-anchor="start"
+       style="mix-blend-mode:normal" />
+    <g
+       id="pruningHolder"
+       fill="none"
+       fill-rule="nonzero"
+       stroke="none"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       stroke-dasharray="none"
+       stroke-dashoffset="0"
+       font-family="sans-serif"
+       font-weight="normal"
+       font-size="12px"
+       text-anchor="start"
+       style="mix-blend-mode:normal" />
+    <g
+       id="treeHolder"
+       fill="none"
+       fill-rule="nonzero"
+       stroke="none"
+       stroke-width="1"
+       stroke-linecap="none"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       stroke-dasharray="none"
+       stroke-dashoffset="none"
+       font-family="none"
+       font-weight="none"
+       font-size="none"
+       text-anchor="none"
+       style="mix-blend-mode:normal">
+      <g
+         fill="none"
+         fill-rule="nonzero"
+         stroke="none"
+         stroke-width="1"
+         stroke-linecap="none"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="none"
+         font-family="none"
+         font-weight="none"
+         font-size="none"
+         text-anchor="none"
+         style="mix-blend-mode:normal"
+         id="g2">
+        <path
+           d="M 568.89063,162 H 116.66667"
+           fill="none"
+           fill-rule="nonzero"
+           stroke="#aaaaaa"
+           stroke-width="1"
+           stroke-linecap="round"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="5, 10"
+           stroke-dashoffset="10"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="path1" />
+        <text
+           x="680.52344"
+           y="169.2"
+           fill="#000000"
+           fill-rule="nonzero"
+           stroke="none"
+           stroke-width="1"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="Arial"
+           font-weight=""
+           font-size="24px"
+           text-anchor="end"
+           style="mix-blend-mode:normal"
+           id="text1">AMP 2198</text>
+        <path
+           d="m 116.66667,162 v 0"
+           fill="none"
+           fill-rule="nonzero"
+           stroke="#000000"
+           stroke-width="1"
+           stroke-linecap="round"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="path2" />
+        <circle
+           cx="116.66667"
+           cy="162"
+           r="5"
+           fill="#16537e"
+           fill-rule="nonzero"
+           stroke="#000000"
+           stroke-width="1"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="circle2" />
+      </g>
+      <g
+         fill="none"
+         fill-rule="nonzero"
+         stroke="none"
+         stroke-width="1"
+         stroke-linecap="none"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="none"
+         font-family="none"
+         font-weight="none"
+         font-size="none"
+         text-anchor="none"
+         style="mix-blend-mode:normal"
+         id="g5">
+        <path
+           d="M 360.37891,108 H 350"
+           fill="none"
+           fill-rule="nonzero"
+           stroke="#aaaaaa"
+           stroke-width="1"
+           stroke-linecap="round"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="5, 10"
+           stroke-dashoffset="10"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="path3" />
+        <g
+           fill="#000000"
+           fill-rule="nonzero"
+           stroke="none"
+           stroke-width="1"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="Arial"
+           font-weight="none"
+           font-size="24px"
+           text-anchor="start"
+           style="mix-blend-mode:normal"
+           id="g4">
+          <text
+             x="360.37891"
+             y="115.2"
+             fill="#000000"
+             fill-rule="nonzero"
+             stroke="none"
+             stroke-width="1"
+             stroke-linecap="butt"
+             stroke-linejoin="miter"
+             stroke-miterlimit="10"
+             stroke-dasharray="none"
+             stroke-dashoffset="0"
+             font-family="Arial"
+             font-style="italic"
+             font-size="24px"
+             text-anchor="start"
+             style="mix-blend-mode:normal"
+             id="text3">Blautia wexlerae</text>
+          <text
+             x="543.14453"
+             y="115.2"
+             fill="#000000"
+             fill-rule="nonzero"
+             stroke="none"
+             stroke-width="1"
+             stroke-linecap="butt"
+             stroke-linejoin="miter"
+             stroke-miterlimit="10"
+             stroke-dasharray="none"
+             stroke-dashoffset="0"
+             font-family="Arial"
+             font-weight="normal"
+             font-size="24px"
+             text-anchor="start"
+             style="mix-blend-mode:normal"
+             id="text4">NB2B-9-FAA</text>
+        </g>
+        <path
+           d="M 350,108 H 116.66667"
+           fill="none"
+           fill-rule="nonzero"
+           stroke="#000000"
+           stroke-width="1"
+           stroke-linecap="round"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="path4" />
+        <circle
+           cx="350"
+           cy="108"
+           r="5"
+           fill="#16537e"
+           fill-rule="nonzero"
+           stroke="#000000"
+           stroke-width="1"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="circle4" />
+      </g>
+      <g
+         fill="none"
+         fill-rule="nonzero"
+         stroke="none"
+         stroke-width="1"
+         stroke-linecap="none"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="none"
+         font-family="none"
+         font-weight="none"
+         font-size="none"
+         text-anchor="none"
+         style="mix-blend-mode:normal"
+         id="g7">
+        <path
+           d="m 355,54 h -5"
+           fill="none"
+           fill-rule="nonzero"
+           stroke="#aaaaaa"
+           stroke-width="1"
+           stroke-linecap="round"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="5, 10"
+           stroke-dashoffset="10"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="path5" />
+        <g
+           fill="#000000"
+           fill-rule="nonzero"
+           stroke="none"
+           stroke-width="1"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="Arial"
+           font-weight="none"
+           font-size="24px"
+           text-anchor="start"
+           style="mix-blend-mode:normal"
+           id="g6">
+          <text
+             x="355"
+             y="61.200001"
+             fill="#000000"
+             fill-rule="nonzero"
+             stroke="none"
+             stroke-width="1"
+             stroke-linecap="butt"
+             stroke-linejoin="miter"
+             stroke-miterlimit="10"
+             stroke-dasharray="none"
+             stroke-dashoffset="0"
+             font-family="Arial"
+             font-style="italic"
+             font-size="24px"
+             text-anchor="start"
+             style="mix-blend-mode:normal"
+             id="text5">Blautia wexlerae</text>
+          <text
+             x="537.76562"
+             y="61.200001"
+             fill="#000000"
+             fill-rule="nonzero"
+             stroke="none"
+             stroke-width="1"
+             stroke-linecap="butt"
+             stroke-linejoin="miter"
+             stroke-miterlimit="10"
+             stroke-dasharray="none"
+             stroke-dashoffset="0"
+             font-family="Arial"
+             font-weight="normal"
+             font-size="24px"
+             text-anchor="start"
+             style="mix-blend-mode:normal"
+             id="text6">i22-0019-1F5</text>
+        </g>
+        <path
+           d="M 350,54 H 116.66667"
+           fill="none"
+           fill-rule="nonzero"
+           stroke="#000000"
+           stroke-width="1"
+           stroke-linecap="round"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="path6" />
+        <circle
+           cx="350"
+           cy="54"
+           r="5"
+           fill="#16537e"
+           fill-rule="nonzero"
+           stroke="#000000"
+           stroke-width="1"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="circle6" />
+      </g>
+      <g
+         fill="none"
+         fill-rule="nonzero"
+         stroke="none"
+         stroke-width="1"
+         stroke-linecap="none"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="none"
+         font-family="none"
+         font-weight="none"
+         font-size="none"
+         text-anchor="none"
+         style="mix-blend-mode:normal"
+         id="g9">
+        <path
+           d="M 371.01953,0 H 116.66667"
+           fill="none"
+           fill-rule="nonzero"
+           stroke="#aaaaaa"
+           stroke-width="1"
+           stroke-linecap="round"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="5, 10"
+           stroke-dashoffset="10"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="path7" />
+        <g
+           fill="#000000"
+           fill-rule="nonzero"
+           stroke="none"
+           stroke-width="1"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="Arial"
+           font-weight="none"
+           font-size="24px"
+           text-anchor="start"
+           style="mix-blend-mode:normal"
+           id="g8">
+          <text
+             x="371.01953"
+             y="7.1999998"
+             fill="#000000"
+             fill-rule="nonzero"
+             stroke="none"
+             stroke-width="1"
+             stroke-linecap="butt"
+             stroke-linejoin="miter"
+             stroke-miterlimit="10"
+             stroke-dasharray="none"
+             stroke-dashoffset="0"
+             font-family="Arial"
+             font-style="italic"
+             font-size="24px"
+             text-anchor="start"
+             style="mix-blend-mode:normal"
+             id="text7">Blautia wexlerae</text>
+          <text
+             x="553.78516"
+             y="7.1999998"
+             fill="#000000"
+             fill-rule="nonzero"
+             stroke="none"
+             stroke-width="1"
+             stroke-linecap="butt"
+             stroke-linejoin="miter"
+             stroke-miterlimit="10"
+             stroke-dasharray="none"
+             stroke-dashoffset="0"
+             font-family="Arial"
+             font-weight="normal"
+             font-size="24px"
+             text-anchor="start"
+             style="mix-blend-mode:normal"
+             id="text8">DSM 19850</text>
+        </g>
+        <path
+           d="M 116.66667,0 H 0"
+           fill="none"
+           fill-rule="nonzero"
+           stroke="#000000"
+           stroke-width="1"
+           stroke-linecap="round"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="path8" />
+        <circle
+           cx="116.66667"
+           cy="0"
+           r="5"
+           fill="#16537e"
+           fill-rule="nonzero"
+           stroke="#000000"
+           stroke-width="1"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="circle8" />
+      </g>
+      <g
+         fill="none"
+         fill-rule="nonzero"
+         stroke="#000000"
+         stroke-width="1"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="none"
+         font-weight="none"
+         font-size="none"
+         text-anchor="none"
+         style="mix-blend-mode:normal"
+         id="g10">
+        <path
+           d="m 116.66667,135 v 0 m 0,27 v -54"
+           fill="none"
+           fill-rule="nonzero"
+           stroke="#000000"
+           stroke-width="1"
+           stroke-linecap="round"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="path9" />
+      </g>
+      <g
+         fill="none"
+         fill-rule="nonzero"
+         stroke="#000000"
+         stroke-width="1"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="none"
+         font-weight="none"
+         font-size="none"
+         text-anchor="none"
+         style="mix-blend-mode:normal"
+         id="g11">
+        <path
+           d="M 116.66667,94.5 H 0 M 116.66667,135 V 54"
+           fill="none"
+           fill-rule="nonzero"
+           stroke="#000000"
+           stroke-width="1"
+           stroke-linecap="round"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="path10" />
+      </g>
+      <g
+         fill="none"
+         fill-rule="nonzero"
+         stroke="#000000"
+         stroke-width="1"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="none"
+         font-weight="none"
+         font-size="none"
+         text-anchor="none"
+         style="mix-blend-mode:normal"
+         id="g12">
+        <path
+           d="m 0,47.25 v 0 M 0,94.5 V 0"
+           fill="none"
+           fill-rule="nonzero"
+           stroke="#000000"
+           stroke-width="1"
+           stroke-linecap="round"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="path11" />
+      </g>
+    </g>
+    <g
+       id="scaleHolder"
+       fill="none"
+       fill-rule="nonzero"
+       stroke="none"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       stroke-dasharray="none"
+       stroke-dashoffset="0"
+       font-family="sans-serif"
+       font-weight="normal"
+       font-size="12px"
+       text-anchor="start"
+       style="mix-blend-mode:normal" />
+    <g
+       id="bootstrapHolder"
+       fill="none"
+       fill-rule="nonzero"
+       stroke="none"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       stroke-dasharray="none"
+       stroke-dashoffset="0"
+       font-family="sans-serif"
+       font-weight="normal"
+       font-size="12px"
+       text-anchor="start"
+       style="mix-blend-mode:normal" />
+    <g
+       id="branchlengthHolder"
+       fill="none"
+       fill-rule="nonzero"
+       stroke="none"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       stroke-dasharray="none"
+       stroke-dashoffset="0"
+       font-family="sans-serif"
+       font-weight="normal"
+       font-size="12px"
+       text-anchor="start"
+       style="mix-blend-mode:normal" />
+    <g
+       id="branchIDHolder"
+       fill="none"
+       fill-rule="nonzero"
+       stroke="none"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       stroke-dasharray="none"
+       stroke-dashoffset="0"
+       font-family="sans-serif"
+       font-weight="normal"
+       font-size="12px"
+       text-anchor="start"
+       style="mix-blend-mode:normal" />
+    <g
+       id="datasetHolder"
+       fill="none"
+       fill-rule="nonzero"
+       stroke="none"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       stroke-dasharray="none"
+       stroke-dashoffset="0"
+       font-family="sans-serif"
+       font-weight="normal"
+       font-size="12px"
+       text-anchor="start"
+       style="mix-blend-mode:normal" />
+    <g
+       fill="none"
+       fill-rule="nonzero"
+       stroke="none"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       stroke-dasharray="none"
+       stroke-dashoffset="0"
+       font-family="sans-serif"
+       font-weight="normal"
+       font-size="12px"
+       text-anchor="start"
+       style="mix-blend-mode:normal"
+       id="g13" />
+    <g
+       fill="none"
+       fill-rule="nonzero"
+       stroke="none"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       stroke-dasharray="none"
+       stroke-dashoffset="0"
+       font-family="sans-serif"
+       font-weight="normal"
+       font-size="12px"
+       text-anchor="start"
+       style="mix-blend-mode:normal"
+       id="g14" />
+    <g
+       fill="none"
+       fill-rule="nonzero"
+       stroke="none"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       stroke-dasharray="none"
+       stroke-dashoffset="0"
+       font-family="sans-serif"
+       font-weight="normal"
+       font-size="12px"
+       text-anchor="start"
+       style="mix-blend-mode:normal"
+       id="g15" />
+    <g
+       fill="none"
+       fill-rule="nonzero"
+       stroke="none"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       stroke-dasharray="none"
+       stroke-dashoffset="0"
+       font-family="sans-serif"
+       font-weight="normal"
+       font-size="12px"
+       text-anchor="start"
+       style="mix-blend-mode:normal"
+       id="g16" />
+  </g>
+  <g
+     id="wrapperHolder"
+     fill="none"
+     fill-rule="nonzero"
+     stroke="none"
+     stroke-width="1"
+     stroke-linecap="butt"
+     stroke-linejoin="miter"
+     stroke-miterlimit="10"
+     stroke-dasharray="none"
+     stroke-dashoffset="0"
+     font-family="none"
+     font-weight="none"
+     font-size="none"
+     text-anchor="none"
+     style="mix-blend-mode:normal"
+     transform="matrix(1.5596548,0,0,1.5596548,-91.954701,-2.7244037)">
+    <g
+       fill="none"
+       fill-rule="nonzero"
+       stroke="none"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       stroke-dasharray="none"
+       stroke-dashoffset="0"
+       font-family="none"
+       font-weight="none"
+       font-size="none"
+       text-anchor="none"
+       style="mix-blend-mode:normal"
+       id="g17">
+      <text
+         x="70"
+         y="70"
+         fill="#505050"
+         fill-rule="nonzero"
+         stroke="none"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="Arial"
+         font-weight="bold"
+         font-size="20px"
+         text-anchor="start"
+         style="mix-blend-mode:normal"
+         id="text16">0.001</text>
+      <path
+         d="m 135.60547,64 h 59.18831"
+         fill="none"
+         fill-rule="nonzero"
+         stroke="#505050"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="none"
+         font-weight="none"
+         font-size="none"
+         text-anchor="none"
+         style="mix-blend-mode:normal"
+         id="path16" />
+      <path
+         d="m 135.60547,61 v 6 m 59.18831,-6 v 6 m -29.59416,-3 v 2"
+         fill="none"
+         fill-rule="nonzero"
+         stroke="#505050"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="none"
+         font-weight="none"
+         font-size="none"
+         text-anchor="none"
+         style="mix-blend-mode:normal"
+         id="path17" />
+    </g>
+  </g>
+  <g
+     id="legendHolder"
+     fill="none"
+     fill-rule="nonzero"
+     stroke="none"
+     stroke-width="1"
+     stroke-linecap="butt"
+     stroke-linejoin="miter"
+     stroke-miterlimit="10"
+     stroke-dasharray="none"
+     stroke-dashoffset="0"
+     font-family="sans-serif"
+     font-weight="normal"
+     font-size="12px"
+     text-anchor="start"
+     style="mix-blend-mode:normal"
+     transform="translate(-2.5389529,-332.60283)" />
+  <g
+     clip-path="url(#cpOC4yMnwzNTIuMzl8NS40OHwxMzkuNDM=)"
+     id="g13-9"
+     transform="matrix(2.0899063,0,0,2.0899063,1059.8989,-30.153763)">
+    <polyline
+       points="8.22,72.46 352.39,72.46 "
+       style="fill:none;stroke:#bebebe;stroke-width:2.13;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10"
+       id="polyline4" />
+    <polygon
+       points="18.28,78.13 11.35,78.13 8.52,72.46 11.35,66.79 18.28,66.79 "
+       style="fill:#1f78b4;stroke:#000000;stroke-width:0.64;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="polygon4" />
+    <polygon
+       points="23.42,78.13 27.76,78.13 30.59,72.46 27.76,66.79 23.42,66.79 "
+       style="fill:#2a8f63;stroke:#000000;stroke-width:0.64;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="polygon5" />
+    <polygon
+       points="46.77,78.13 95.37,78.13 98.2,72.46 95.37,66.79 46.77,66.79 "
+       style="fill:#599923;stroke:#000000;stroke-width:0.64;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="polygon6" />
+    <polygon
+       points="119.75,78.13 104.83,78.13 101.99,72.46 104.83,66.79 119.75,66.79 "
+       style="fill:#d28609;stroke:#000000;stroke-width:0.64;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="polygon7" />
+    <polygon
+       points="165.74,78.13 123.9,78.13 121.07,72.46 123.9,66.79 165.74,66.79 "
+       style="fill:#ffa82a;stroke:#000000;stroke-width:0.64;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="polygon8" />
+    <polygon
+       points="218.97,78.13 193.69,78.13 190.85,72.46 193.69,66.79 218.97,66.79 "
+       style="fill:#ffea6c;stroke:#000000;stroke-width:0.64;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="polygon9" />
+    <polygon
+       points="265.44,78.13 223.49,78.13 220.66,72.46 223.49,66.79 265.44,66.79 "
+       style="fill:#aa8987;stroke:#000000;stroke-width:0.64;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="polygon10" />
+    <polygon
+       points="309.67,78.13 274.25,78.13 271.41,72.46 274.25,66.79 309.67,66.79 "
+       style="fill:#754187;stroke:#000000;stroke-width:0.64;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="polygon11" />
+    <polygon
+       points="321.68,78.13 349.55,78.13 352.39,72.46 349.55,66.79 321.68,66.79 "
+       style="fill:#9f5243;stroke:#000000;stroke-width:0.64;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="polygon12" />
+    <polygon
+       points="173.25,78.13 179.95,78.13 182.78,72.46 179.95,66.79 173.25,66.79 "
+       style="fill:#ff0000;stroke:#000000;stroke-width:0.64;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="polygon13" />
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw3MjAuMDB8MC4wMHw0MzIuMDA=)"
+     id="g14-3"
+     transform="matrix(1.3333333,0,0,1.3333333,-39.538953,250.39717)" />
+  <g
+     clip-path="url(#cpOC4yMnwzNTIuMzl8MTQ3LjY1fDI4MS42MQ==)"
+     id="g23"
+     transform="matrix(2.0899063,0,0,2.0899063,1059.8989,-243.2106)">
+    <polyline
+       points="8.22,214.63 352.39,214.63 "
+       style="fill:none;stroke:#bebebe;stroke-width:2.13;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10"
+       id="polyline14" />
+    <polygon
+       points="13.46,220.3 10.62,214.63 13.46,208.96 20.38,208.96 20.38,220.3 "
+       style="fill:#1f78b4;stroke:#000000;stroke-width:0.64;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="polygon14" />
+    <polygon
+       points="29.86,220.3 32.7,214.63 29.86,208.96 25.53,208.96 25.53,220.3 "
+       style="fill:#2a8f63;stroke:#000000;stroke-width:0.64;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="polygon15" />
+    <polygon
+       points="95.37,220.3 98.2,214.63 95.37,208.96 46.77,208.96 46.77,220.3 "
+       style="fill:#599923;stroke:#000000;stroke-width:0.64;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="polygon16" />
+    <polygon
+       points="104.83,220.3 101.99,214.63 104.83,208.96 119.75,208.96 119.75,220.3 "
+       style="fill:#d28609;stroke:#000000;stroke-width:0.64;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="polygon17" />
+    <polygon
+       points="123.9,220.3 121.07,214.63 123.9,208.96 165.74,208.96 165.74,220.3 "
+       style="fill:#ffa82a;stroke:#000000;stroke-width:0.64;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="polygon18" />
+    <polygon
+       points="193.69,220.3 190.85,214.63 193.69,208.96 218.97,208.96 218.97,220.3 "
+       style="fill:#ffea6c;stroke:#000000;stroke-width:0.64;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="polygon19" />
+    <polygon
+       points="223.49,220.3 220.66,214.63 223.49,208.96 265.44,208.96 265.44,220.3 "
+       style="fill:#aa8987;stroke:#000000;stroke-width:0.64;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="polygon20" />
+    <polygon
+       points="274.25,220.3 271.41,214.63 274.25,208.96 309.67,208.96 309.67,220.3 "
+       style="fill:#754187;stroke:#000000;stroke-width:0.64;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="polygon21" />
+    <polygon
+       points="349.52,220.3 352.35,214.63 349.52,208.96 321.64,208.96 321.64,220.3 "
+       style="fill:#9f5243;stroke:#000000;stroke-width:0.64;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="polygon22" />
+    <polygon
+       points="179.95,220.3 182.78,214.63 179.95,208.96 173.25,208.96 173.25,220.3 "
+       style="fill:#ff0000;stroke:#000000;stroke-width:0.64;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="polygon23" />
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw3MjAuMDB8MC4wMHw0MzIuMDA=)"
+     id="g24"
+     transform="matrix(1.3333333,0,0,1.3333333,-39.538953,250.39717)" />
+  <g
+     clip-path="url(#cpOC4yMnwzNTIuMzl8Mjg5LjgzfDQyMy43OA==)"
+     id="g37"
+     transform="matrix(2.0899063,0,0,2.0899063,1059.8989,-454.25746)">
+    <polyline
+       points="8.22,356.80 352.39,356.80 "
+       style="fill:none;stroke:#bebebe;stroke-width:2.13;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10"
+       id="polyline24" />
+    <polygon
+       points="11.05,351.13 13.7,351.13 13.7,362.47 11.05,362.47 8.22,356.8 "
+       style="fill:#1f78b4;stroke:#000000;stroke-width:0.64;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="polygon24" />
+    <polygon
+       points="67.7,351.13 46.59,351.13 46.59,362.47 67.7,362.47 70.54,356.8 "
+       style="fill:#599923;stroke:#000000;stroke-width:0.64;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="polygon25" />
+    <polygon
+       points="95.22,351.13 69.94,351.13 69.94,362.47 95.22,362.47 98.05,356.8 "
+       style="fill:#599923;stroke:#000000;stroke-width:0.64;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="polygon26" />
+    <polygon
+       points="104.68,351.13 119.6,351.13 119.6,362.47 104.68,362.47 101.84,356.8 "
+       style="fill:#d28609;stroke:#000000;stroke-width:0.64;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="polygon27" />
+    <polygon
+       points="124.95,351.13 136.04,351.13 136.04,362.47 124.95,362.47 122.12,356.8 "
+       style="fill:#ffa82a;stroke:#000000;stroke-width:0.64;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="polygon28" />
+    <polygon
+       points="136.81,351.13 164.8,351.13 164.8,362.47 136.81,362.47 133.98,356.8 "
+       style="fill:#ffa82a;stroke:#000000;stroke-width:0.64;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="polygon29" />
+    <polygon
+       points="193.76,351.13 219.05,351.13 219.05,362.47 193.76,362.47 190.93,356.8 "
+       style="fill:#ffea6c;stroke:#000000;stroke-width:0.64;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="polygon30" />
+    <polygon
+       points="223.72,351.13 253.39,351.13 253.39,362.47 223.72,362.47 220.88,356.8 "
+       style="fill:#aa8987;stroke:#000000;stroke-width:0.64;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="polygon31" />
+    <polygon
+       points="256.3,351.13 261.88,351.13 261.88,362.47 256.3,362.47 253.47,356.8 "
+       style="fill:#aa8987;stroke:#000000;stroke-width:0.64;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="polygon32" />
+    <polygon
+       points="262.76,351.13 265.63,351.13 265.63,362.47 262.76,362.47 259.93,356.8 "
+       style="fill:#aa8987;stroke:#000000;stroke-width:0.64;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="polygon33" />
+    <polygon
+       points="274.44,351.13 287.22,351.13 287.22,362.47 274.44,362.47 271.6,356.8 "
+       style="fill:#754187;stroke:#000000;stroke-width:0.64;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="polygon34" />
+    <polygon
+       points="289.45,351.13 309.89,351.13 309.89,362.47 289.45,362.47 286.62,356.8 "
+       style="fill:#754187;stroke:#000000;stroke-width:0.64;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="polygon35" />
+    <polygon
+       points="348.95,351.13 321.87,351.13 321.87,362.47 348.95,362.47 351.79,356.8 "
+       style="fill:#9f5243;stroke:#000000;stroke-width:0.64;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="polygon36" />
+    <polygon
+       points="180.02,351.13 173.25,351.13 173.25,362.47 180.02,362.47 182.86,356.8 "
+       style="fill:#ff0000;stroke:#000000;stroke-width:0.64;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="polygon37" />
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw3MjAuMDB8MC4wMHw0MzIuMDA=)"
+     id="g38"
+     transform="matrix(1.3333333,0,0,1.3333333,-39.538953,250.39717)" />
+  <g
+     clip-path="url(#cpOC4yMnwzNTIuMzl8Mjg5LjgzfDI4OS44Mw==)"
+     id="g39"
+     transform="matrix(1.3333333,0,0,1.3333333,-39.538953,250.39717)" />
+  <g
+     clip-path="url(#cpMC4wMHw3MjAuMDB8MC4wMHw0MzIuMDA=)"
+     id="g40"
+     transform="matrix(1.3333333,0,0,1.3333333,-39.538953,250.39717)" />
+  <g
+     clip-path="url(#cpOC4yMnwzNTIuMzl8MTQ3LjY1fDE0Ny42NQ==)"
+     id="g41"
+     transform="matrix(1.3333333,0,0,1.3333333,-39.538953,250.39717)" />
+  <g
+     clip-path="url(#cpMC4wMHw3MjAuMDB8MC4wMHw0MzIuMDA=)"
+     id="g42"
+     transform="matrix(1.3333333,0,0,1.3333333,-39.538953,250.39717)" />
+  <g
+     clip-path="url(#cpOC4yMnwzNTIuMzl8NS40OHw1LjQ4)"
+     id="g43"
+     transform="matrix(1.3333333,0,0,1.3333333,-39.538953,250.39717)" />
+  <g
+     clip-path="url(#cpMC4wMHw3MjAuMDB8MC4wMHw0MzIuMDA=)"
+     id="g62"
+     transform="matrix(2.0899063,0,0,2.0899063,1059.8989,-227.13084)">
+    <rect
+       x="363.35001"
+       y="111.57"
+       width="351.17001"
+       height="206.13"
+       style="fill:#ffffff;stroke:none;stroke-width:1.07;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="rect43" />
+    <text
+       x="368.82999"
+       y="131.95"
+       style="font-size:18px;font-family:Arial;white-space:pre"
+       textLength="44.029999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text43">Gene</text>
+    <rect
+       x="370.23999"
+       y="140.83"
+       width="14.45"
+       height="14.45"
+       style="fill:#ffa82a;stroke:#000000;stroke-width:0.64;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="rect44" />
+    <rect
+       x="370.23999"
+       y="158.11"
+       width="14.45"
+       height="14.45"
+       style="fill:#ff0000;stroke:#000000;stroke-width:0.64;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="rect45" />
+    <rect
+       x="370.23999"
+       y="175.39"
+       width="14.45"
+       height="14.45"
+       style="fill:#1f78b4;stroke:#000000;stroke-width:0.64;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="rect46" />
+    <rect
+       x="370.23999"
+       y="192.67"
+       width="14.45"
+       height="14.45"
+       style="fill:#599923;stroke:#000000;stroke-width:0.64;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="rect47" />
+    <rect
+       x="370.23999"
+       y="209.95"
+       width="14.45"
+       height="14.45"
+       style="fill:#754187;stroke:#000000;stroke-width:0.64;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="rect48" />
+    <rect
+       x="370.23999"
+       y="227.23"
+       width="14.45"
+       height="14.45"
+       style="fill:#9f5243;stroke:#000000;stroke-width:0.64;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="rect49" />
+    <rect
+       x="370.23999"
+       y="244.50999"
+       width="14.45"
+       height="14.45"
+       style="fill:#d28609;stroke:#000000;stroke-width:0.64;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="rect50" />
+    <rect
+       x="370.23999"
+       y="261.79001"
+       width="14.45"
+       height="14.45"
+       style="fill:#aa8987;stroke:#000000;stroke-width:0.64;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="rect51" />
+    <rect
+       x="370.23999"
+       y="279.07001"
+       width="14.45"
+       height="14.45"
+       style="fill:#2a8f63;stroke:#000000;stroke-width:0.64;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="rect52" />
+    <rect
+       x="370.23999"
+       y="296.35001"
+       width="14.45"
+       height="14.45"
+       style="fill:#ffea6c;stroke:#000000;stroke-width:0.64;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="rect53" />
+    <text
+       x="391.59"
+       y="153.22"
+       style="font-size:14.4px;font-family:Arial;white-space:pre"
+       textLength="317.45999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text53">23S rRNA (Uracil-C(5))-methyltransferase RlmCD</text>
+    <text
+       x="391.59"
+       y="170.5"
+       style="font-size:14.4px;font-family:Arial;white-space:pre"
+       textLength="31.18"
+       lengthAdjust="spacingAndGlyphs"
+       id="text54">AMP</text>
+    <text
+       x="391.59"
+       y="187.78"
+       style="font-size:14.4px;font-family:Arial;white-space:pre"
+       textLength="129.53999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text55">CcmD family protein</text>
+    <text
+       x="391.59"
+       y="205.06"
+       style="font-size:14.4px;font-family:Arial;white-space:pre"
+       textLength="203.23"
+       lengthAdjust="spacingAndGlyphs"
+       id="text56">FAD-dependent oxidoreductase</text>
+    <text
+       x="391.59"
+       y="222.34"
+       style="font-size:14.4px;font-family:Arial;white-space:pre"
+       textLength="288.07999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text57">Glyceraldehyde-3-phosphate dehydrogenase</text>
+    <text
+       x="391.59"
+       y="239.62"
+       style="font-size:14.4px;font-family:Arial;white-space:pre"
+       textLength="145.61"
+       lengthAdjust="spacingAndGlyphs"
+       id="text58">Histidinol-phosphatase</text>
+    <text
+       x="391.59"
+       y="256.89999"
+       style="font-size:14.4px;font-family:Arial;white-space:pre"
+       textLength="294.41"
+       lengthAdjust="spacingAndGlyphs"
+       id="text59">N-acetyltransferase domain-containing protein</text>
+    <text
+       x="391.59"
+       y="274.17999"
+       style="font-size:14.4px;font-family:Arial;white-space:pre"
+       textLength="160.82001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text60">Phosphoglycerate kinase</text>
+    <text
+       x="391.59"
+       y="291.45999"
+       style="font-size:14.4px;font-family:Arial;white-space:pre"
+       textLength="215.21001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text61">Predicted transcriptional regulator</text>
+    <text
+       x="391.59"
+       y="308.73999"
+       style="font-size:14.4px;font-family:Arial;white-space:pre"
+       textLength="177.61"
+       lengthAdjust="spacingAndGlyphs"
+       id="text62">Triosephosphate isomerase</text>
+  </g>
+</svg>

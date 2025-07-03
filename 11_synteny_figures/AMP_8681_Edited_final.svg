@@ -1,0 +1,2601 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="3901"
+   width="7500"
+   id="svg2"
+   version="1.1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="AMP_8681_Edited_final.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata122">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Easyfig</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs120">
+    <defs
+       id="defs3">
+      <linearGradient
+         id="MyGradient"
+         x1="15599.359"
+         y1="1008.503"
+         x2="15599.359"
+         y2="1144.1497"
+         gradientTransform="matrix(0.29488391,0,0,3.391165,-4464.7913,-35.725782)"
+         gradientUnits="userSpaceOnUse">
+        <stop
+           offset="0%"
+           stop-color="#666"
+           id="stop2" />
+        <stop
+           offset="100%"
+           stop-color="#ccc"
+           id="stop3" />
+      </linearGradient>
+    </defs>
+    <defs
+       id="defs5">
+      <linearGradient
+         id="MyGradient2"
+         x1="15735.006"
+         y1="1008.503"
+         x2="15735.006"
+         y2="1144.1497"
+         gradientTransform="matrix(0.29488391,0,0,3.391165,-4464.7913,-35.725782)"
+         gradientUnits="userSpaceOnUse">
+        <stop
+           offset="0%"
+           stop-color="#666"
+           id="stop4" />
+        <stop
+           offset="100%"
+           stop-color="#ccc"
+           id="stop5" />
+      </linearGradient>
+    </defs>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1371"
+     id="namedview118"
+     showgrid="false"
+     inkscape:zoom="0.19291922"
+     inkscape:cx="3555.8925"
+     inkscape:cy="1834.9649"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <title
+     id="title4">Easyfig</title>
+  <g
+     id="g1"
+     transform="matrix(1.1295073,0,0,1.1295073,30.801372,32.03894)">
+    <line
+       x1="1123"
+       y1="75"
+       x2="3876"
+       y2="75"
+       stroke-width="20"
+       stroke="#000000"
+       id="line5"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#ff8c00"
+       stroke="#000000"
+       stroke-width="1"
+       points="3568,111 3568,37 3388,37 3388,0 3313,75 3388,149 3388,111 "
+       id="polygon5"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="2436,111 2436,37 2504,37 2504,0 2579,75 2504,149 2504,111 "
+       id="polygon6"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="2610,111 2610,37 2676,37 2676,0 2751,75 2676,149 2676,111 "
+       id="polygon7"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="2321,111 2321,37 2360,37 2360,0 2435,75 2360,149 2360,111 "
+       id="polygon8"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="3128,111 3128,37 3147,37 3147,0 3222,75 3147,149 3147,111 "
+       id="polygon9"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="1632,111 1632,37 1646,37 1646,0 1721,75 1646,149 1646,111 "
+       id="polygon10"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="1894,111 1894,37 1909,37 1909,0 1984,75 1909,149 1909,111 "
+       id="polygon11"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="3860,111 3860,37 3845,37 3845,0 3770,75 3845,149 3845,111 "
+       id="polygon12"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#ff4500"
+       stroke="#000000"
+       stroke-width="1"
+       points="3705,111 3705,37 3698,37 3698,0 3623,75 3698,149 3698,111 "
+       id="polygon13"
+       style="fill:#009c9c;fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="1872,75 1805,0 1805,149 "
+       id="polygon14"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="3304,75 3241,0 3241,149 "
+       id="polygon15"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#6b8e23"
+       stroke="#000000"
+       stroke-width="1"
+       points="1280,75 1219,0 1219,149 "
+       id="polygon16"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="2230,75 2169,0 2169,149 "
+       id="polygon17"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="1505,75 1449,0 1449,149 "
+       id="polygon18"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="2912,75 2857,0 2857,149 "
+       id="polygon19"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="1765,75 1717,0 1717,149 "
+       id="polygon20"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="1395,75 1350,0 1350,149 "
+       id="polygon21"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="2304,75 2265,0 2265,149 "
+       id="polygon22"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="2048,75 2010,0 2010,149 "
+       id="polygon23"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="2975,75 2938,0 2938,149 "
+       id="polygon24"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="1428,75 1401,0 1401,149 "
+       id="polygon25"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="1128,75 1123,0 1123,149 "
+       id="polygon26"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#cccccc"
+       stroke="#cccccc"
+       stroke-width="0"
+       points="3690,149 3670,149 2534,650 2514,650 "
+       id="polygon27"
+       style="fill-opacity:1" />
+    <line
+       x1="3690"
+       y1="149"
+       x2="2514"
+       y2="650"
+       stroke-width="1"
+       stroke="#000000"
+       id="line27"
+       style="fill-opacity:1" />
+    <line
+       x1="3670"
+       y1="149"
+       x2="2534"
+       y2="650"
+       stroke-width="1"
+       stroke="#000000"
+       id="line28"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#bbbbbb"
+       stroke="#bbbbbb"
+       stroke-width="0"
+       points="3692,149 3710,149 2495,650 2513,650 "
+       id="polygon28"
+       style="fill-opacity:1" />
+    <line
+       x1="3692"
+       y1="149"
+       x2="2513"
+       y2="650"
+       stroke-width="1"
+       stroke="#000000"
+       id="line29"
+       style="fill-opacity:1" />
+    <line
+       x1="3710"
+       y1="149"
+       x2="2495"
+       y2="650"
+       stroke-width="1"
+       stroke="#000000"
+       id="line30"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#bbbbbb"
+       stroke="#bbbbbb"
+       stroke-width="0"
+       points="3858,149 3874,149 2366,650 2382,650 "
+       id="polygon30"
+       style="fill-opacity:1" />
+    <line
+       x1="3858"
+       y1="149"
+       x2="2382"
+       y2="650"
+       stroke-width="1"
+       stroke="#000000"
+       id="line31"
+       style="fill-opacity:1" />
+    <line
+       x1="3874"
+       y1="149"
+       x2="2366"
+       y2="650"
+       stroke-width="1"
+       stroke="#000000"
+       id="line32"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#cccccc"
+       stroke="#cccccc"
+       stroke-width="0"
+       points="3670,149 3690,149 2514,650 2534,650 "
+       id="polygon32"
+       style="fill-opacity:1" />
+    <line
+       x1="3670"
+       y1="149"
+       x2="2534"
+       y2="650"
+       stroke-width="1"
+       stroke="#000000"
+       id="line33"
+       style="fill-opacity:1" />
+    <line
+       x1="3690"
+       y1="149"
+       x2="2514"
+       y2="650"
+       stroke-width="1"
+       stroke="#000000"
+       id="line34"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#bbbbbb"
+       stroke="#bbbbbb"
+       stroke-width="0"
+       points="3690,149 3676,149 2529,650 2515,650 "
+       id="polygon34"
+       style="fill-opacity:1" />
+    <line
+       x1="3690"
+       y1="149"
+       x2="2515"
+       y2="650"
+       stroke-width="1"
+       stroke="#000000"
+       id="line35"
+       style="fill-opacity:1" />
+    <line
+       x1="3676"
+       y1="149"
+       x2="2529"
+       y2="650"
+       stroke-width="1"
+       stroke="#000000"
+       id="line36"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#cccccc"
+       stroke="#cccccc"
+       stroke-width="0"
+       points="3676,149 3691,149 2514,650 2528,650 "
+       id="polygon36"
+       style="fill-opacity:1" />
+    <line
+       x1="3676"
+       y1="149"
+       x2="2528"
+       y2="650"
+       stroke-width="1"
+       stroke="#000000"
+       id="line37"
+       style="fill-opacity:1" />
+    <line
+       x1="3691"
+       y1="149"
+       x2="2514"
+       y2="650"
+       stroke-width="1"
+       stroke="#000000"
+       id="line38"
+       style="fill-opacity:1" />
+    <line
+       x1="0"
+       y1="725"
+       x2="5000"
+       y2="725"
+       stroke-width="20"
+       stroke="#000000"
+       id="line39"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="5000,761 5000,687 4213,687 4213,650 4138,725 4213,799 4213,761 "
+       id="polygon39"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#0047ab"
+       stroke="#000000"
+       stroke-width="1"
+       points="4036,761 4036,687 3614,687 3614,650 3539,725 3614,799 3614,761 "
+       id="polygon40"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#40e0d0"
+       stroke="#000000"
+       stroke-width="1"
+       points="1148,761 1148,687 791,687 791,650 716,725 791,799 791,761 "
+       id="polygon41"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#ffd700"
+       stroke="#000000"
+       stroke-width="1"
+       points="2721,761 2721,687 3054,687 3054,650 3129,725 3054,799 3054,761 "
+       id="polygon42"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#654321"
+       stroke="#000000"
+       stroke-width="1"
+       points="1876,761 1876,687 1627,687 1627,650 1552,725 1627,799 1627,761 "
+       id="polygon43"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#ffd700"
+       stroke="#000000"
+       stroke-width="1"
+       points="173,761 173,687 340,687 340,650 415,725 340,799 340,761 "
+       id="polygon44"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#9400d3"
+       stroke="#000000"
+       stroke-width="1"
+       points="3132,761 3132,687 3299,687 3299,650 3374,725 3299,799 3299,761 "
+       id="polygon45"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#0047ab"
+       stroke="#000000"
+       stroke-width="1"
+       points="1553,761 1553,687 1427,687 1427,650 1352,725 1427,799 1427,761 "
+       id="polygon46"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#0047ab"
+       stroke="#000000"
+       stroke-width="1"
+       points="561,761 561,687 490,687 490,650 415,725 490,799 490,761 "
+       id="polygon47"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#b22222"
+       stroke="#000000"
+       stroke-width="1"
+       points="2052,761 2052,687 1985,687 1985,650 1910,725 1985,799 1985,761 "
+       id="polygon48"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#0047ab"
+       stroke="#000000"
+       stroke-width="1"
+       points="699,761 699,687 636,687 636,650 561,725 636,799 636,761 "
+       id="polygon49"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#ff4500"
+       stroke="#000000"
+       stroke-width="1"
+       points="2340,761 2340,687 2396,687 2396,650 2471,725 2396,799 2396,761 "
+       id="polygon50"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#1e90ff"
+       stroke="#000000"
+       stroke-width="1"
+       points="1355,761 1355,687 1309,687 1309,650 1234,725 1309,799 1309,761 "
+       id="polygon51"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#8b0000"
+       stroke="#000000"
+       stroke-width="1"
+       points="2089,761 2089,687 2131,687 2131,650 2206,725 2131,799 2131,761 "
+       id="polygon52"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#ff4500"
+       stroke="#000000"
+       stroke-width="1"
+       points="2224,761 2224,687 2265,687 2265,650 2340,725 2265,799 2265,761 "
+       id="polygon53"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#654321"
+       stroke="#000000"
+       stroke-width="1"
+       points="2500,761 2500,687 2511,687 2511,650 2586,725 2511,799 2511,761 "
+       id="polygon54"
+       style="fill:#009c9c;fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="1230,761 1230,687 1222,687 1222,650 1147,725 1222,799 1222,761 "
+       id="polygon55"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#ffd700"
+       stroke="#000000"
+       stroke-width="1"
+       points="76,761 76,687 75,687 75,650 0,725 75,799 75,761 "
+       id="polygon56"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#a9a9a9"
+       stroke="#000000"
+       stroke-width="1"
+       points="4105,650 4035,725 4105,799 "
+       id="polygon57"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#ffd700"
+       stroke="#000000"
+       stroke-width="1"
+       points="147,650 79,725 147,799 "
+       id="polygon58"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#0047ab"
+       stroke="#000000"
+       stroke-width="1"
+       points="3539,650 3498,725 3539,799 "
+       id="polygon59"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#666666"
+       stroke="#666666"
+       stroke-width="0"
+       points="2471,799 2586,799 1350,1300 1236,1300 "
+       id="polygon60"
+       style="fill-opacity:1" />
+    <line
+       x1="2471"
+       y1="799"
+       x2="1236"
+       y2="1300"
+       stroke-width="1"
+       stroke="#000000"
+       id="line60"
+       style="fill-opacity:1" />
+    <line
+       x1="2586"
+       y1="799"
+       x2="1350"
+       y2="1300"
+       stroke-width="1"
+       stroke="#000000"
+       id="line61"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#666666"
+       stroke="#666666"
+       stroke-width="0"
+       points="2586,799 2496,799 1260,1300 1350,1300 "
+       id="polygon61"
+       style="fill-opacity:1" />
+    <line
+       x1="2586"
+       y1="799"
+       x2="1350"
+       y2="1300"
+       stroke-width="1"
+       stroke="#000000"
+       id="line62"
+       style="fill-opacity:1" />
+    <line
+       x1="2496"
+       y1="799"
+       x2="1260"
+       y2="1300"
+       stroke-width="1"
+       stroke="#000000"
+       id="line63"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#666666"
+       stroke="#666666"
+       stroke-width="0"
+       points="2497,799 2471,799 1236,1300 1261,1300 "
+       id="polygon63"
+       style="fill-opacity:1" />
+    <line
+       x1="2497"
+       y1="799"
+       x2="1261"
+       y2="1300"
+       stroke-width="1"
+       stroke="#000000"
+       id="line64"
+       style="fill-opacity:1" />
+    <line
+       x1="2471"
+       y1="799"
+       x2="1236"
+       y2="1300"
+       stroke-width="1"
+       stroke="#000000"
+       id="line65"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#666666"
+       stroke="#666666"
+       stroke-width="0"
+       points="2471,799 2586,799 1351,1300 1235,1300 "
+       id="polygon65"
+       style="fill-opacity:1" />
+    <line
+       x1="2471"
+       y1="799"
+       x2="1235"
+       y2="1300"
+       stroke-width="1"
+       stroke="#000000"
+       id="line66"
+       style="fill-opacity:1" />
+    <line
+       x1="2586"
+       y1="799"
+       x2="1351"
+       y2="1300"
+       stroke-width="1"
+       stroke="#000000"
+       id="line67"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#666666"
+       stroke="#666666"
+       stroke-width="0"
+       points="2586,799 2471,799 1235,1300 1351,1300 "
+       id="polygon67"
+       style="fill-opacity:1" />
+    <line
+       x1="2586"
+       y1="799"
+       x2="1351"
+       y2="1300"
+       stroke-width="1"
+       stroke="#000000"
+       id="line68"
+       style="fill-opacity:1" />
+    <line
+       x1="2471"
+       y1="799"
+       x2="1235"
+       y2="1300"
+       stroke-width="1"
+       stroke="#000000"
+       id="line69"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#666666"
+       stroke="#666666"
+       stroke-width="0"
+       points="2586,799 2509,799 1273,1300 1350,1300 "
+       id="polygon69"
+       style="fill-opacity:1" />
+    <line
+       x1="2586"
+       y1="799"
+       x2="1350"
+       y2="1300"
+       stroke-width="1"
+       stroke="#000000"
+       id="line70"
+       style="fill-opacity:1" />
+    <line
+       x1="2509"
+       y1="799"
+       x2="1273"
+       y2="1300"
+       stroke-width="1"
+       stroke="#000000"
+       id="line71"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#666666"
+       stroke="#666666"
+       stroke-width="0"
+       points="2483,799 2471,799 1236,1300 1247,1300 "
+       id="polygon71"
+       style="fill-opacity:1" />
+    <line
+       x1="2483"
+       y1="799"
+       x2="1247"
+       y2="1300"
+       stroke-width="1"
+       stroke="#000000"
+       id="line72"
+       style="fill-opacity:1" />
+    <line
+       x1="2471"
+       y1="799"
+       x2="1236"
+       y2="1300"
+       stroke-width="1"
+       stroke="#000000"
+       id="line73"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#666666"
+       stroke="#666666"
+       stroke-width="0"
+       points="2509,799 2586,799 1351,1300 1274,1300 "
+       id="polygon73"
+       style="fill-opacity:1" />
+    <line
+       x1="2509"
+       y1="799"
+       x2="1274"
+       y2="1300"
+       stroke-width="1"
+       stroke="#000000"
+       id="line74"
+       style="fill-opacity:1" />
+    <line
+       x1="2586"
+       y1="799"
+       x2="1351"
+       y2="1300"
+       stroke-width="1"
+       stroke="#000000"
+       id="line75"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#666666"
+       stroke="#666666"
+       stroke-width="0"
+       points="2471,799 2497,799 1262,1300 1236,1300 "
+       id="polygon75"
+       style="fill-opacity:1" />
+    <line
+       x1="2471"
+       y1="799"
+       x2="1236"
+       y2="1300"
+       stroke-width="1"
+       stroke="#000000"
+       id="line76"
+       style="fill-opacity:1" />
+    <line
+       x1="2497"
+       y1="799"
+       x2="1262"
+       y2="1300"
+       stroke-width="1"
+       stroke="#000000"
+       id="line77"
+       style="fill-opacity:1" />
+    <line
+       x1="1235"
+       y1="1375"
+       x2="3764"
+       y2="1375"
+       stroke-width="20"
+       stroke="#000000"
+       id="line78"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="3734,1411 3734,1337 3254,1337 3254,1300 3179,1375 3254,1449 3254,1411 "
+       id="polygon78"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="1899,1411 1899,1337 1597,1337 1597,1300 1522,1375 1597,1449 1597,1411 "
+       id="polygon79"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="2506,1411 2506,1337 2278,1337 2278,1300 2203,1375 2278,1449 2278,1411 "
+       id="polygon80"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="2907,1411 2907,1337 2764,1337 2764,1300 2689,1375 2764,1449 2764,1411 "
+       id="polygon81"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="3072,1411 3072,1337 2983,1337 2983,1300 2908,1375 2983,1449 2983,1411 "
+       id="polygon82"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="2677,1411 2677,1337 2593,1337 2593,1300 2518,1375 2593,1449 2593,1411 "
+       id="polygon83"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="2035,1411 2035,1337 1978,1337 1978,1300 1903,1375 1978,1449 1978,1411 "
+       id="polygon84"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="3178,1411 3178,1337 3147,1337 3147,1300 3072,1375 3147,1449 3147,1411 "
+       id="polygon85"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="1264,1411 1264,1337 1276,1337 1276,1300 1351,1375 1276,1449 1276,1411 "
+       id="polygon86"
+       style="fill:#009c9c;fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="2213,1411 2213,1337 2205,1337 2205,1300 2130,1375 2205,1449 2205,1411 "
+       id="polygon87"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="1449,1411 1449,1337 1446,1337 1446,1300 1371,1375 1446,1449 1446,1411 "
+       id="polygon88"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#654321"
+       stroke="#000000"
+       stroke-width="1"
+       points="1521,1300 1447,1375 1521,1449 "
+       id="polygon89"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="2103,1300 2056,1375 2103,1449 "
+       id="polygon90"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="2129,1300 2103,1375 2129,1449 "
+       id="polygon91"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="3764,1300 3738,1375 3764,1449 "
+       id="polygon92"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#888888"
+       stroke="#888888"
+       stroke-width="0"
+       points="1355,1449 1260,1449 4288,1950 4193,1950 "
+       id="polygon93"
+       style="fill-opacity:1" />
+    <line
+       x1="1355"
+       y1="1449"
+       x2="4193"
+       y2="1950"
+       stroke-width="1"
+       stroke="#000000"
+       id="line93"
+       style="fill-opacity:1" />
+    <line
+       x1="1260"
+       y1="1449"
+       x2="4288"
+       y2="1950"
+       stroke-width="1"
+       stroke="#000000"
+       id="line94"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#999999"
+       stroke="#999999"
+       stroke-width="0"
+       points="1236,1449 1356,1449 4193,1950 4313,1950 "
+       id="polygon94"
+       style="fill-opacity:1" />
+    <line
+       x1="1236"
+       y1="1449"
+       x2="4313"
+       y2="1950"
+       stroke-width="1"
+       stroke="#000000"
+       id="line95"
+       style="fill-opacity:1" />
+    <line
+       x1="1356"
+       y1="1449"
+       x2="4193"
+       y2="1950"
+       stroke-width="1"
+       stroke="#000000"
+       id="line96"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#aaaaaa"
+       stroke="#aaaaaa"
+       stroke-width="0"
+       points="1235,1449 1356,1449 4193,1950 4313,1950 "
+       id="polygon96"
+       style="fill-opacity:1" />
+    <line
+       x1="1235"
+       y1="1449"
+       x2="4313"
+       y2="1950"
+       stroke-width="1"
+       stroke="#000000"
+       id="line97"
+       style="fill-opacity:1" />
+    <line
+       x1="1356"
+       y1="1449"
+       x2="4193"
+       y2="1950"
+       stroke-width="1"
+       stroke="#000000"
+       id="line98"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#999999"
+       stroke="#999999"
+       stroke-width="0"
+       points="1354,1449 1236,1449 4312,1950 4195,1950 "
+       id="polygon98"
+       style="fill-opacity:1" />
+    <line
+       x1="1354"
+       y1="1449"
+       x2="4195"
+       y2="1950"
+       stroke-width="1"
+       stroke="#000000"
+       id="line99"
+       style="fill-opacity:1" />
+    <line
+       x1="1236"
+       y1="1449"
+       x2="4312"
+       y2="1950"
+       stroke-width="1"
+       stroke="#000000"
+       id="line100"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#aaaaaa"
+       stroke="#aaaaaa"
+       stroke-width="0"
+       points="1356,1449 1273,1449 4275,1950 4193,1950 "
+       id="polygon100"
+       style="fill-opacity:1" />
+    <line
+       x1="1356"
+       y1="1449"
+       x2="4193"
+       y2="1950"
+       stroke-width="1"
+       stroke="#000000"
+       id="line101"
+       style="fill-opacity:1" />
+    <line
+       x1="1273"
+       y1="1449"
+       x2="4275"
+       y2="1950"
+       stroke-width="1"
+       stroke="#000000"
+       id="line102"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#cccccc"
+       stroke="#cccccc"
+       stroke-width="0"
+       points="1247,1449 1236,1449 4312,1950 4301,1950 "
+       id="polygon102"
+       style="fill-opacity:1" />
+    <line
+       x1="1247"
+       y1="1449"
+       x2="4301"
+       y2="1950"
+       stroke-width="1"
+       stroke="#000000"
+       id="line103"
+       style="fill-opacity:1" />
+    <line
+       x1="1236"
+       y1="1449"
+       x2="4312"
+       y2="1950"
+       stroke-width="1"
+       stroke="#000000"
+       id="line104"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#999999"
+       stroke="#999999"
+       stroke-width="0"
+       points="1274,1449 1355,1449 4193,1950 4275,1950 "
+       id="polygon104"
+       style="fill-opacity:1" />
+    <line
+       x1="1274"
+       y1="1449"
+       x2="4275"
+       y2="1950"
+       stroke-width="1"
+       stroke="#000000"
+       id="line105"
+       style="fill-opacity:1" />
+    <line
+       x1="1355"
+       y1="1449"
+       x2="4193"
+       y2="1950"
+       stroke-width="1"
+       stroke="#000000"
+       id="line106"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#bbbbbb"
+       stroke="#bbbbbb"
+       stroke-width="0"
+       points="1236,1449 1262,1449 4287,1950 4312,1950 "
+       id="polygon106"
+       style="fill-opacity:1" />
+    <line
+       x1="1236"
+       y1="1449"
+       x2="4312"
+       y2="1950"
+       stroke-width="1"
+       stroke="#000000"
+       id="line107"
+       style="fill-opacity:1" />
+    <line
+       x1="1262"
+       y1="1449"
+       x2="4287"
+       y2="1950"
+       stroke-width="1"
+       stroke="#000000"
+       id="line108"
+       style="fill-opacity:1" />
+    <line
+       x1="500"
+       y1="2025"
+       x2="4499"
+       y2="2025"
+       stroke-width="20"
+       stroke="#000000"
+       id="line109"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="1461,2061 1461,1987 1093,1987 1093,1950 1018,2025 1093,2099 1093,2061 "
+       id="polygon109"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="2544,2061 2544,1987 2192,1987 2192,1950 2117,2025 2192,2099 2192,2061 "
+       id="polygon110"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#6b8e23"
+       stroke="#000000"
+       stroke-width="1"
+       points="2983,2061 2983,1987 2706,1987 2706,1950 2631,2025 2706,2099 2706,2061 "
+       id="polygon111"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="1848,2061 1848,1987 1660,1987 1660,1950 1585,2025 1660,2099 1660,2061 "
+       id="polygon112"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="1015,2061 1015,1987 853,1987 853,1950 778,2025 853,2099 853,2061 "
+       id="polygon113"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="2089,2061 2089,1987 1939,1987 1939,1950 1864,2025 1939,2099 1939,2061 "
+       id="polygon114"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#32cd32"
+       stroke="#000000"
+       stroke-width="1"
+       points="3242,2061 3242,1987 3119,1987 3119,1950 3044,2025 3119,2099 3119,2061 "
+       id="polygon115"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="512,2061 512,1987 628,1987 628,1950 703,2025 628,2099 628,2061 "
+       id="polygon116"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#ff4500"
+       stroke="#000000"
+       stroke-width="1"
+       points="4444,2061 4444,1987 4388,1987 4388,1950 4313,2025 4388,2099 4388,2061 "
+       id="polygon117"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#ff4500"
+       stroke="#000000"
+       stroke-width="1"
+       points="3863,2061 3863,1987 3913,1987 3913,1950 3988,2025 3913,2099 3913,2061 "
+       id="polygon118"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="4013,2061 4013,1987 4054,1987 4054,1950 4129,2025 4054,2099 4054,2061 "
+       id="polygon119"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="1570,2061 1570,1987 1538,1987 1538,1950 1463,2025 1538,2099 1538,2061 "
+       id="polygon120"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="3481,2061 3481,1987 3459,1987 3459,1950 3384,2025 3459,2099 3459,2061 "
+       id="polygon121"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#ff4500"
+       stroke="#000000"
+       stroke-width="1"
+       points="4284,2061 4284,1987 4273,1987 4273,1950 4198,2025 4273,2099 4273,2061 "
+       id="polygon122"
+       style="fill:#009c9c;fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="2628,2061 2628,1987 2617,1987 2617,1950 2542,2025 2617,2099 2617,2061 "
+       id="polygon123"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="775,2061 775,1987 768,1987 768,1950 693,2025 768,2099 768,2061 "
+       id="polygon124"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="4496,1950 4444,2025 4496,2099 "
+       id="polygon125"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="3837,2025 3792,1950 3792,2099 "
+       id="polygon126"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="3041,1950 3006,2025 3041,2099 "
+       id="polygon127"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#888888"
+       stroke="#888888"
+       stroke-width="0"
+       points="4289,2099 4198,2099 1350,2600 1260,2600 "
+       id="polygon128"
+       style="fill-opacity:1" />
+    <line
+       x1="4289"
+       y1="2099"
+       x2="1260"
+       y2="2600"
+       stroke-width="1"
+       stroke="#000000"
+       id="line128"
+       style="fill-opacity:1" />
+    <line
+       x1="4198"
+       y1="2099"
+       x2="1350"
+       y2="2600"
+       stroke-width="1"
+       stroke="#000000"
+       id="line129"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#999999"
+       stroke="#999999"
+       stroke-width="0"
+       points="4195,2099 4289,2099 1260,2600 1354,2600 "
+       id="polygon129"
+       style="fill-opacity:1" />
+    <line
+       x1="4195"
+       y1="2099"
+       x2="1354"
+       y2="2600"
+       stroke-width="1"
+       stroke="#000000"
+       id="line130"
+       style="fill-opacity:1" />
+    <line
+       x1="4289"
+       y1="2099"
+       x2="1260"
+       y2="2600"
+       stroke-width="1"
+       stroke="#000000"
+       id="line131"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#888888"
+       stroke="#888888"
+       stroke-width="0"
+       points="4198,2099 4275,2099 1273,2600 1350,2600 "
+       id="polygon131"
+       style="fill-opacity:1" />
+    <line
+       x1="4198"
+       y1="2099"
+       x2="1350"
+       y2="2600"
+       stroke-width="1"
+       stroke="#000000"
+       id="line132"
+       style="fill-opacity:1" />
+    <line
+       x1="4275"
+       y1="2099"
+       x2="1273"
+       y2="2600"
+       stroke-width="1"
+       stroke="#000000"
+       id="line133"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#aaaaaa"
+       stroke="#aaaaaa"
+       stroke-width="0"
+       points="4195,2099 4247,2099 1301,2600 1354,2600 "
+       id="polygon133"
+       style="fill-opacity:1" />
+    <line
+       x1="4195"
+       y1="2099"
+       x2="1354"
+       y2="2600"
+       stroke-width="1"
+       stroke="#000000"
+       id="line134"
+       style="fill-opacity:1" />
+    <line
+       x1="4247"
+       y1="2099"
+       x2="1301"
+       y2="2600"
+       stroke-width="1"
+       stroke="#000000"
+       id="line135"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#aaaaaa"
+       stroke="#aaaaaa"
+       stroke-width="0"
+       points="4259,2099 4313,2099 1235,2600 1289,2600 "
+       id="polygon135"
+       style="fill-opacity:1" />
+    <line
+       x1="4259"
+       y1="2099"
+       x2="1289"
+       y2="2600"
+       stroke-width="1"
+       stroke="#000000"
+       id="line136"
+       style="fill-opacity:1" />
+    <line
+       x1="4313"
+       y1="2099"
+       x2="1235"
+       y2="2600"
+       stroke-width="1"
+       stroke="#000000"
+       id="line137"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#888888"
+       stroke="#888888"
+       stroke-width="0"
+       points="4291,2099 4199,2099 1350,2600 1258,2600 "
+       id="polygon137"
+       style="fill-opacity:1" />
+    <line
+       x1="4291"
+       y1="2099"
+       x2="1258"
+       y2="2600"
+       stroke-width="1"
+       stroke="#000000"
+       id="line138"
+       style="fill-opacity:1" />
+    <line
+       x1="4199"
+       y1="2099"
+       x2="1350"
+       y2="2600"
+       stroke-width="1"
+       stroke="#000000"
+       id="line139"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#888888"
+       stroke="#888888"
+       stroke-width="0"
+       points="4233,2099 4198,2099 1350,2600 1315,2600 "
+       id="polygon139"
+       style="fill-opacity:1" />
+    <line
+       x1="4233"
+       y1="2099"
+       x2="1315"
+       y2="2600"
+       stroke-width="1"
+       stroke="#000000"
+       id="line140"
+       style="fill-opacity:1" />
+    <line
+       x1="4198"
+       y1="2099"
+       x2="1350"
+       y2="2600"
+       stroke-width="1"
+       stroke="#000000"
+       id="line141"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#777777"
+       stroke="#777777"
+       stroke-width="0"
+       points="4275,2099 4255,2099 1293,2600 1274,2600 "
+       id="polygon141"
+       style="fill-opacity:1" />
+    <line
+       x1="4275"
+       y1="2099"
+       x2="1274"
+       y2="2600"
+       stroke-width="1"
+       stroke="#000000"
+       id="line142"
+       style="fill-opacity:1" />
+    <line
+       x1="4255"
+       y1="2099"
+       x2="1293"
+       y2="2600"
+       stroke-width="1"
+       stroke="#000000"
+       id="line143"
+       style="fill-opacity:1" />
+    <line
+       x1="1235"
+       y1="2675"
+       x2="3764"
+       y2="2675"
+       stroke-width="20"
+       stroke="#000000"
+       id="line144"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="2611,2711 2611,2637 2045,2637 2045,2600 1970,2675 2045,2749 2045,2711 "
+       id="polygon144"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="3400,2711 3400,2637 3078,2637 3078,2600 3003,2675 3078,2749 3078,2711 "
+       id="polygon145"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="3003,2711 3003,2637 2690,2637 2690,2600 2615,2675 2690,2749 2690,2711 "
+       id="polygon146"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="3764,2711 3764,2637 3572,2637 3572,2600 3497,2675 3572,2749 3572,2711 "
+       id="polygon147"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="1798,2711 1798,2637 1640,2637 1640,2600 1565,2675 1640,2749 1640,2711 "
+       id="polygon148"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="1966,2711 1966,2637 1877,2637 1877,2600 1802,2675 1877,2749 1877,2711 "
+       id="polygon149"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#6b8e23"
+       stroke="#000000"
+       stroke-width="1"
+       points="3494,2711 3494,2637 3476,2637 3476,2600 3401,2675 3476,2749 3476,2711 "
+       id="polygon150"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="1264,2711 1264,2637 1275,2637 1275,2600 1350,2675 1275,2749 1275,2711 "
+       id="polygon151"
+       style="fill:#009c9c;fill-opacity:1" />
+    <polygon
+       fill="#654321"
+       stroke="#000000"
+       stroke-width="1"
+       points="1565,2711 1565,2637 1562,2637 1562,2600 1487,2675 1562,2749 1562,2711 "
+       id="polygon152"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="1483,2600 1418,2675 1483,2749 "
+       id="polygon153"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#aaaaaa"
+       stroke="#aaaaaa"
+       stroke-width="0"
+       points="3764,2749 2675,2749 2635,3250 3724,3250 "
+       id="polygon154"
+       style="fill-opacity:1" />
+    <line
+       x1="3764"
+       y1="2749"
+       x2="3724"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line154"
+       style="fill-opacity:1" />
+    <line
+       x1="2675"
+       y1="2749"
+       x2="2635"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line155"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#aaaaaa"
+       stroke="#aaaaaa"
+       stroke-width="0"
+       points="3648,2749 2860,2749 2820,3250 3608,3250 "
+       id="polygon155"
+       style="fill-opacity:1" />
+    <line
+       x1="3648"
+       y1="2749"
+       x2="3608"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line156"
+       style="fill-opacity:1" />
+    <line
+       x1="2860"
+       y1="2749"
+       x2="2820"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line157"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#aaaaaa"
+       stroke="#aaaaaa"
+       stroke-width="0"
+       points="2965,2749 3662,2749 3622,3250 2925,3250 "
+       id="polygon157"
+       style="fill-opacity:1" />
+    <line
+       x1="2965"
+       y1="2749"
+       x2="2925"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line158"
+       style="fill-opacity:1" />
+    <line
+       x1="3662"
+       y1="2749"
+       x2="3622"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line159"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#aaaaaa"
+       stroke="#aaaaaa"
+       stroke-width="0"
+       points="3764,2749 3342,2749 3302,3250 3724,3250 "
+       id="polygon159"
+       style="fill-opacity:1" />
+    <line
+       x1="3764"
+       y1="2749"
+       x2="3724"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line160"
+       style="fill-opacity:1" />
+    <line
+       x1="3342"
+       y1="2749"
+       x2="3302"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line161"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#777777"
+       stroke="#777777"
+       stroke-width="0"
+       points="3389,2749 3764,2749 3724,3250 3349,3250 "
+       id="polygon161"
+       style="fill-opacity:1" />
+    <line
+       x1="3389"
+       y1="2749"
+       x2="3349"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line162"
+       style="fill-opacity:1" />
+    <line
+       x1="3764"
+       y1="2749"
+       x2="3724"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line163"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#bbbbbb"
+       stroke="#bbbbbb"
+       stroke-width="0"
+       points="3094,2749 3490,2749 3450,3250 3055,3250 "
+       id="polygon163"
+       style="fill-opacity:1" />
+    <line
+       x1="3094"
+       y1="2749"
+       x2="3055"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line164"
+       style="fill-opacity:1" />
+    <line
+       x1="3490"
+       y1="2749"
+       x2="3450"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line165"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#aaaaaa"
+       stroke="#aaaaaa"
+       stroke-width="0"
+       points="3170,2749 2847,2749 2807,3250 3131,3250 "
+       id="polygon165"
+       style="fill-opacity:1" />
+    <line
+       x1="3170"
+       y1="2749"
+       x2="3131"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line166"
+       style="fill-opacity:1" />
+    <line
+       x1="2847"
+       y1="2749"
+       x2="2807"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line167"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#aaaaaa"
+       stroke="#aaaaaa"
+       stroke-width="0"
+       points="2770,2749 3082,2749 3042,3250 2730,3250 "
+       id="polygon167"
+       style="fill-opacity:1" />
+    <line
+       x1="2770"
+       y1="2749"
+       x2="2730"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line168"
+       style="fill-opacity:1" />
+    <line
+       x1="3082"
+       y1="2749"
+       x2="3042"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line169"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#bbbbbb"
+       stroke="#bbbbbb"
+       stroke-width="0"
+       points="1603,2749 1417,2749 1416,3250 1603,3250 "
+       id="polygon169"
+       style="fill-opacity:1" />
+    <line
+       x1="1603"
+       y1="2749"
+       x2="1603"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line170"
+       style="fill-opacity:1" />
+    <line
+       x1="1417"
+       y1="2749"
+       x2="1416"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line171"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#999999"
+       stroke="#999999"
+       stroke-width="0"
+       points="1580,2749 1416,2749 1416,3250 1580,3250 "
+       id="polygon171"
+       style="fill-opacity:1" />
+    <line
+       x1="1580"
+       y1="2749"
+       x2="1580"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line172"
+       style="fill-opacity:1" />
+    <line
+       x1="1416"
+       y1="2749"
+       x2="1416"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line173"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#bbbbbb"
+       stroke="#bbbbbb"
+       stroke-width="0"
+       points="1417,2749 1602,2749 1601,3250 1416,3250 "
+       id="polygon173"
+       style="fill-opacity:1" />
+    <line
+       x1="1417"
+       y1="2749"
+       x2="1416"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line174"
+       style="fill-opacity:1" />
+    <line
+       x1="1602"
+       y1="2749"
+       x2="1601"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line175"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#777777"
+       stroke="#777777"
+       stroke-width="0"
+       points="1374,2749 1235,2749 1235,3250 1374,3250 "
+       id="polygon175"
+       style="fill-opacity:1" />
+    <line
+       x1="1374"
+       y1="2749"
+       x2="1374"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line176"
+       style="fill-opacity:1" />
+    <line
+       x1="1235"
+       y1="2749"
+       x2="1235"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line177"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#bbbbbb"
+       stroke="#bbbbbb"
+       stroke-width="0"
+       points="1584,2749 1426,2749 1425,3250 1583,3250 "
+       id="polygon177"
+       style="fill-opacity:1" />
+    <line
+       x1="1584"
+       y1="2749"
+       x2="1583"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line178"
+       style="fill-opacity:1" />
+    <line
+       x1="1426"
+       y1="2749"
+       x2="1425"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line179"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#aaaaaa"
+       stroke="#aaaaaa"
+       stroke-width="0"
+       points="2816,2749 2955,2749 2915,3250 2777,3250 "
+       id="polygon179"
+       style="fill-opacity:1" />
+    <line
+       x1="2816"
+       y1="2749"
+       x2="2777"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line180"
+       style="fill-opacity:1" />
+    <line
+       x1="2955"
+       y1="2749"
+       x2="2915"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line181"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#777777"
+       stroke="#777777"
+       stroke-width="0"
+       points="1235,2749 1374,2749 1374,3250 1235,3250 "
+       id="polygon181"
+       style="fill-opacity:1" />
+    <line
+       x1="1235"
+       y1="2749"
+       x2="1235"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line182"
+       style="fill-opacity:1" />
+    <line
+       x1="1374"
+       y1="2749"
+       x2="1374"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line183"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#bbbbbb"
+       stroke="#bbbbbb"
+       stroke-width="0"
+       points="3322,2749 3204,2749 3164,3250 3282,3250 "
+       id="polygon183"
+       style="fill-opacity:1" />
+    <line
+       x1="3322"
+       y1="2749"
+       x2="3282"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line184"
+       style="fill-opacity:1" />
+    <line
+       x1="3204"
+       y1="2749"
+       x2="3164"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line185"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#777777"
+       stroke="#777777"
+       stroke-width="0"
+       points="1258,2749 1372,2749 1372,3250 1258,3250 "
+       id="polygon185"
+       style="fill-opacity:1" />
+    <line
+       x1="1258"
+       y1="2749"
+       x2="1258"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line186"
+       style="fill-opacity:1" />
+    <line
+       x1="1372"
+       y1="2749"
+       x2="1372"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line187"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#777777"
+       stroke="#777777"
+       stroke-width="0"
+       points="3264,2749 3368,2749 3328,3250 3225,3250 "
+       id="polygon187"
+       style="fill-opacity:1" />
+    <line
+       x1="3264"
+       y1="2749"
+       x2="3225"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line188"
+       style="fill-opacity:1" />
+    <line
+       x1="3368"
+       y1="2749"
+       x2="3328"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line189"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#777777"
+       stroke="#777777"
+       stroke-width="0"
+       points="1374,2749 1273,2749 1273,3250 1374,3250 "
+       id="polygon189"
+       style="fill-opacity:1" />
+    <line
+       x1="1374"
+       y1="2749"
+       x2="1374"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line190"
+       style="fill-opacity:1" />
+    <line
+       x1="1273"
+       y1="2749"
+       x2="1273"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line191"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#999999"
+       stroke="#999999"
+       stroke-width="0"
+       points="1471,2749 1581,2749 1580,3250 1471,3250 "
+       id="polygon191"
+       style="fill-opacity:1" />
+    <line
+       x1="1471"
+       y1="2749"
+       x2="1471"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line192"
+       style="fill-opacity:1" />
+    <line
+       x1="1581"
+       y1="2749"
+       x2="1580"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line193"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#999999"
+       stroke="#999999"
+       stroke-width="0"
+       points="3662,2749 3764,2749 3724,3250 3622,3250 "
+       id="polygon193"
+       style="fill-opacity:1" />
+    <line
+       x1="3662"
+       y1="2749"
+       x2="3622"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line194"
+       style="fill-opacity:1" />
+    <line
+       x1="3764"
+       y1="2749"
+       x2="3724"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line195"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#777777"
+       stroke="#777777"
+       stroke-width="0"
+       points="1373,2749 1257,2749 1257,3250 1373,3250 "
+       id="polygon195"
+       style="fill-opacity:1" />
+    <line
+       x1="1373"
+       y1="2749"
+       x2="1373"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line196"
+       style="fill-opacity:1" />
+    <line
+       x1="1257"
+       y1="2749"
+       x2="1257"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line197"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#888888"
+       stroke="#888888"
+       stroke-width="0"
+       points="3499,2749 3588,2749 3548,3250 3460,3250 "
+       id="polygon197"
+       style="fill-opacity:1" />
+    <line
+       x1="3499"
+       y1="2749"
+       x2="3460"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line198"
+       style="fill-opacity:1" />
+    <line
+       x1="3588"
+       y1="2749"
+       x2="3548"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line199"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#999999"
+       stroke="#999999"
+       stroke-width="0"
+       points="3676,2749 3764,2749 3724,3250 3636,3250 "
+       id="polygon199"
+       style="fill-opacity:1" />
+    <line
+       x1="3676"
+       y1="2749"
+       x2="3636"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line200"
+       style="fill-opacity:1" />
+    <line
+       x1="3764"
+       y1="2749"
+       x2="3724"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line201"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#666666"
+       stroke="#666666"
+       stroke-width="0"
+       points="1274,2749 1367,2749 1367,3250 1274,3250 "
+       id="polygon201"
+       style="fill-opacity:1" />
+    <line
+       x1="1274"
+       y1="2749"
+       x2="1274"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line202"
+       style="fill-opacity:1" />
+    <line
+       x1="1367"
+       y1="2749"
+       x2="1367"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line203"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#777777"
+       stroke="#777777"
+       stroke-width="0"
+       points="3764,2749 3715,2749 3676,3250 3724,3250 "
+       id="polygon203"
+       style="fill-opacity:1" />
+    <line
+       x1="3764"
+       y1="2749"
+       x2="3724"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line204"
+       style="fill-opacity:1" />
+    <line
+       x1="3715"
+       y1="2749"
+       x2="3676"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line205"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#bbbbbb"
+       stroke="#bbbbbb"
+       stroke-width="0"
+       points="1424,2749 1370,2749 1370,3250 1424,3250 "
+       id="polygon205"
+       style="fill-opacity:1" />
+    <line
+       x1="1424"
+       y1="2749"
+       x2="1424"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line206"
+       style="fill-opacity:1" />
+    <line
+       x1="1370"
+       y1="2749"
+       x2="1370"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line207"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#bbbbbb"
+       stroke="#bbbbbb"
+       stroke-width="0"
+       points="1372,2749 1422,2749 1422,3250 1373,3250 "
+       id="polygon207"
+       style="fill-opacity:1" />
+    <line
+       x1="1372"
+       y1="2749"
+       x2="1373"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line208"
+       style="fill-opacity:1" />
+    <line
+       x1="1422"
+       y1="2749"
+       x2="1422"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line209"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#cccccc"
+       stroke="#cccccc"
+       stroke-width="0"
+       points="1378,2749 1426,2749 1426,3250 1378,3250 "
+       id="polygon209"
+       style="fill-opacity:1" />
+    <line
+       x1="1378"
+       y1="2749"
+       x2="1378"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line210"
+       style="fill-opacity:1" />
+    <line
+       x1="1426"
+       y1="2749"
+       x2="1426"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line211"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#aaaaaa"
+       stroke="#aaaaaa"
+       stroke-width="0"
+       points="1415,2749 1369,2749 1369,3250 1415,3250 "
+       id="polygon211"
+       style="fill-opacity:1" />
+    <line
+       x1="1415"
+       y1="2749"
+       x2="1415"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line212"
+       style="fill-opacity:1" />
+    <line
+       x1="1369"
+       y1="2749"
+       x2="1369"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line213"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#999999"
+       stroke="#999999"
+       stroke-width="0"
+       points="3597,2749 3650,2749 3610,3250 3557,3250 "
+       id="polygon213"
+       style="fill-opacity:1" />
+    <line
+       x1="3597"
+       y1="2749"
+       x2="3557"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line214"
+       style="fill-opacity:1" />
+    <line
+       x1="3650"
+       y1="2749"
+       x2="3610"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line215"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#666666"
+       stroke="#666666"
+       stroke-width="0"
+       points="2849,2749 2816,2749 2776,3250 2809,3250 "
+       id="polygon215"
+       style="fill-opacity:1" />
+    <line
+       x1="2849"
+       y1="2749"
+       x2="2809"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line216"
+       style="fill-opacity:1" />
+    <line
+       x1="2816"
+       y1="2749"
+       x2="2776"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line217"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#aaaaaa"
+       stroke="#aaaaaa"
+       stroke-width="0"
+       points="1370,2749 1415,2749 1415,3250 1370,3250 "
+       id="polygon217"
+       style="fill-opacity:1" />
+    <line
+       x1="1370"
+       y1="2749"
+       x2="1370"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line218"
+       style="fill-opacity:1" />
+    <line
+       x1="1415"
+       y1="2749"
+       x2="1415"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line219"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#777777"
+       stroke="#777777"
+       stroke-width="0"
+       points="1236,2749 1262,2749 1262,3250 1236,3250 "
+       id="polygon219"
+       style="fill-opacity:1" />
+    <line
+       x1="1236"
+       y1="2749"
+       x2="1236"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line220"
+       style="fill-opacity:1" />
+    <line
+       x1="1262"
+       y1="2749"
+       x2="1262"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line221"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#999999"
+       stroke="#999999"
+       stroke-width="0"
+       points="1417,2749 1443,2749 1443,3250 1417,3250 "
+       id="polygon221"
+       style="fill-opacity:1" />
+    <line
+       x1="1417"
+       y1="2749"
+       x2="1417"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line222"
+       style="fill-opacity:1" />
+    <line
+       x1="1443"
+       y1="2749"
+       x2="1443"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line223"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#aaaaaa"
+       stroke="#aaaaaa"
+       stroke-width="0"
+       points="3701,2749 3664,2749 3625,3250 3661,3250 "
+       id="polygon223"
+       style="fill-opacity:1" />
+    <line
+       x1="3701"
+       y1="2749"
+       x2="3661"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line224"
+       style="fill-opacity:1" />
+    <line
+       x1="3664"
+       y1="2749"
+       x2="3625"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line225"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#666666"
+       stroke="#666666"
+       stroke-width="0"
+       points="1245,2749 1236,2749 1236,3250 1245,3250 "
+       id="polygon225"
+       style="fill-opacity:1" />
+    <line
+       x1="1245"
+       y1="2749"
+       x2="1245"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line226"
+       style="fill-opacity:1" />
+    <line
+       x1="1236"
+       y1="2749"
+       x2="1236"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line227"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#888888"
+       stroke="#888888"
+       stroke-width="0"
+       points="1245,2749 1235,2749 1235,3250 1245,3250 "
+       id="polygon227"
+       style="fill-opacity:1" />
+    <line
+       x1="1245"
+       y1="2749"
+       x2="1245"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line228"
+       style="fill-opacity:1" />
+    <line
+       x1="1235"
+       y1="2749"
+       x2="1235"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line229"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#888888"
+       stroke="#888888"
+       stroke-width="0"
+       points="1235,2749 1245,2749 1245,3250 1235,3250 "
+       id="polygon229"
+       style="fill-opacity:1" />
+    <line
+       x1="1235"
+       y1="2749"
+       x2="1235"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line230"
+       style="fill-opacity:1" />
+    <line
+       x1="1245"
+       y1="2749"
+       x2="1245"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line231"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#cccccc"
+       stroke="#cccccc"
+       stroke-width="0"
+       points="1424,2749 1372,2749 1372,3250 1425,3250 "
+       id="polygon231"
+       style="fill-opacity:1" />
+    <line
+       x1="1424"
+       y1="2749"
+       x2="1425"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line232"
+       style="fill-opacity:1" />
+    <line
+       x1="1372"
+       y1="2749"
+       x2="1372"
+       y2="3250"
+       stroke-width="1"
+       stroke="#000000"
+       id="line233"
+       style="fill-opacity:1" />
+    <line
+       x1="1235"
+       y1="3325"
+       x2="3764"
+       y2="3325"
+       stroke-width="20"
+       stroke="#000000"
+       id="line234"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="2501,3361 2501,3287 1875,3287 1875,3250 1800,3325 1875,3399 1875,3361 "
+       id="polygon234"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="2963,3361 2963,3287 2580,3287 2580,3250 2505,3325 2580,3399 2580,3361 "
+       id="polygon235"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="3360,3361 3360,3287 3038,3287 3038,3250 2963,3325 3038,3399 3038,3361 "
+       id="polygon236"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="3764,3361 3764,3287 3532,3287 3532,3250 3457,3325 3532,3399 3532,3361 "
+       id="polygon237"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#ffd700"
+       stroke="#000000"
+       stroke-width="1"
+       points="1797,3361 1797,3287 1639,3287 1639,3250 1564,3325 1639,3399 1639,3361 "
+       id="polygon238"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#6b8e23"
+       stroke="#000000"
+       stroke-width="1"
+       points="3454,3361 3454,3287 3437,3287 3437,3250 3362,3325 3437,3399 3437,3361 "
+       id="polygon239"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="1264,3361 1264,3287 1275,3287 1275,3250 1350,3325 1275,3399 1275,3361 "
+       id="polygon240"
+       style="fill:#009c9c;fill-opacity:1" />
+    <polygon
+       fill="#654321"
+       stroke="#000000"
+       stroke-width="1"
+       points="1565,3361 1565,3287 1561,3287 1561,3250 1486,3325 1561,3399 1561,3361 "
+       id="polygon241"
+       style="fill-opacity:1" />
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       points="1483,3250 1417,3325 1483,3399 "
+       id="polygon242"
+       style="fill-opacity:1" />
+  </g>
+</svg>

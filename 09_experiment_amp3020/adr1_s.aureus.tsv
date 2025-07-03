@@ -1,0 +1,25 @@
+dose	repl	time	od_value
+100 µg/mL	1	0	0.041
+100 µg/mL	2	0	0.048
+100 µg/mL	3	0	0.042
+Control	1	0	0.045
+Control	2	0	0.045
+Control	3	0	0.046
+100 µg/mL	1	5	0.115
+100 µg/mL	2	5	0.118
+100 µg/mL	3	5	0.116
+Control	1	5	0.137
+Control	2	5	0.135
+Control	3	5	0.134
+100 µg/mL	1	7	0.155
+100 µg/mL	2	7	0.173
+100 µg/mL	3	7	0.16
+Control	1	7	0.191
+Control	2	7	0.197
+Control	3	7	0.197
+100 µg/mL	1	20	0.522
+100 µg/mL	2	20	0.525
+100 µg/mL	3	20	0.531
+Control	1	20	0.559
+Control	2	20	0.572
+Control	3	20	0.56
