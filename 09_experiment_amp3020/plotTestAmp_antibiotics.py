@@ -18,10 +18,10 @@ args = parser.parse_args()
 
 # Load the data from both input files and add a 'dataset' column
 df1 = pd.read_csv(args.input1, sep="\t")
-df1["dataset"] = "adr1"
+df1["dataset"] = "kanamicina"
 
 df2 = pd.read_csv(args.input2, sep="\t")
-df2["dataset"] = "adr2"
+df2["dataset"] = "ampicilina"
 
 # Combine the datasets
 df = pd.concat([df1, df2], ignore_index=True)
@@ -34,17 +34,17 @@ df["dose_dataset"] = df["dose"] + " (" + df["dataset"] + ")"
 
 # Rename the groups - keep controls separate for statistics but merge for visualization
 df["dose_dataset"] = df["dose_dataset"].replace({
-    "100 µg/mL (adr1)": "ADR1", 
-    "100 µg/mL (adr2)": "ADR2",
-    "Control (adr1)": "Control ADR1",
-    "Control (adr2)": "Control ADR2"
+    "100 µg/mL (kanamicina)": "Kanamicina", 
+    "100 µg/mL (ampicilina)": "Ampicilina",
+    "Control (kanamicina)": "Control Kanamicina",
+    "Control (ampicilina)": "Control Ampicilina"
 })
 
 # Create a copy for visualization with merged controls
 df_plot = df.copy()
 df_plot["dose_dataset_plot"] = df_plot["dose_dataset"].replace({
-    "Control ADR1": "Control",
-    "Control ADR2": "Control"
+    "Control Kanamicina": "Control",
+    "Control Ampicilina": "Control"
 })
 
 # Set Seaborn style
@@ -52,8 +52,8 @@ sns.set_theme(style="white")
 
 # Colors
 custom_palette = {
-    "ADR1": "#9bb4f0",        # blue
-    "ADR2": "#9bf0a6",        # green
+    "Kanamicina": "#9bb4f0",        # blue
+    "Ampicilina": "#9bf0a6",        # green
     "Control": "#d4d4d4"      # gray
 }
 
@@ -61,14 +61,14 @@ custom_palette = {
 plt.figure(figsize=(3, 5))
 ax = sns.barplot(
     data=df_plot, x="time", y="od_value", hue="dose_dataset_plot", errorbar="se", palette=custom_palette,
-    hue_order=["Control", "ADR1", "ADR2"]
+    hue_order=["Control", "Kanamicina", "Ampicilina"]
 )
 
 # Add individual data points as dots
 sns.stripplot(
     data=df_plot, x="time", y="od_value", hue="dose_dataset_plot", 
     dodge=True, size=3, color="black", alpha=0.7,
-    hue_order=["Control", "ADR1", "ADR2"], ax=ax
+    hue_order=["Control", "Kanamicina", "Ampicilina"], ax=ax
 )
 
 # Custom statistical annotation - compare separate controls to treatments but display on merged plot
@@ -89,22 +89,22 @@ base_offset = df_plot['od_value'].max() * 0.015
 
 for i, time in enumerate(sorted(df['time'].unique())):
     # Get merged control data for this time point for consistent positioning
-    merged_control_data = df[(df['time'] == time) & (df['dose_dataset'].isin(['Control ADR1', 'Control ADR2']))]['od_value']
+    merged_control_data = df[(df['time'] == time) & (df['dose_dataset'].isin(['Control Kanamicina', 'Control Ampicilina']))]['od_value']
     merged_control_max = merged_control_data.max() if len(merged_control_data) > 0 else 0
     
-    # Control ADR1 vs ADR1
-    control_adr1_data = df[(df['time'] == time) & (df['dose_dataset'] == 'Control ADR1')]['od_value']
-    adr1_data = df[(df['time'] == time) & (df['dose_dataset'] == 'ADR1')]['od_value']
-    if len(control_adr1_data) > 0 and len(adr1_data) > 0:
-        _, pval1 = stats.ttest_ind(control_adr1_data, adr1_data)
+    # Control Kanamicina vs Kanamicina
+    control_kanamicina_data = df[(df['time'] == time) & (df['dose_dataset'] == 'Control Kanamicina')]['od_value']
+    kanamicina_data = df[(df['time'] == time) & (df['dose_dataset'] == 'Kanamicina')]['od_value']
+    if len(control_kanamicina_data) > 0 and len(kanamicina_data) > 0:
+        _, pval1 = stats.ttest_ind(control_kanamicina_data, kanamicina_data)
         # Calculate dynamic height based on the data being compared
-        max_height_1 = max(control_adr1_data.max(), adr1_data.max())
+        max_height_1 = max(control_kanamicina_data.max(), kanamicina_data.max())
         y_line_1 = max_height_1 + base_offset
         y_text_1 = y_line_1 + base_offset
         
         # Position annotation above Control bar for this comparison
         x_start = i - 0.27  # Control bar position
-        x_end = i           # ADR1 bar position  
+        x_end = i           # Kanamicina bar position  
         x_center = (x_start + x_end) / 2  # Center of the line
         # Position text and line based on merged control max
         y_line_1 = merged_control_max + base_offset # Increased by 20%
@@ -114,26 +114,26 @@ for i, time in enumerate(sorted(df['time'].unique())):
                    ha='center', va='bottom', fontsize='x-small')
         ax.plot([x_start, x_end], [y_line_1, y_line_1], 'k-', linewidth=0.5)
     
-    # Control ADR2 vs ADR2  
-    control_adr2_data = df[(df['time'] == time) & (df['dose_dataset'] == 'Control ADR2')]['od_value']
-    adr2_data = df[(df['time'] == time) & (df['dose_dataset'] == 'ADR2')]['od_value']
-    if len(control_adr2_data) > 0 and len(adr2_data) > 0:
-        _, pval2 = stats.ttest_ind(control_adr2_data, adr2_data)
+    # Control Ampicilina vs Ampicilina  
+    control_ampicilina_data = df[(df['time'] == time) & (df['dose_dataset'] == 'Control Ampicilina')]['od_value']
+    ampicilina_data = df[(df['time'] == time) & (df['dose_dataset'] == 'Ampicilina')]['od_value']
+    if len(control_ampicilina_data) > 0 and len(ampicilina_data) > 0:
+        _, pval2 = stats.ttest_ind(control_ampicilina_data, ampicilina_data)
         # Calculate dynamic height based on the data being compared
-        max_height_2 = max(control_adr2_data.max(), adr2_data.max())
+        max_height_2 = max(control_ampicilina_data.max(), ampicilina_data.max())
         y_line_2 = max_height_2 + base_offset
         y_text_2 = y_line_2 + base_offset
         
         # Position annotation above Control bar for this comparison
         x_start = i - 0.27  # Control bar position
-        x_end = i + 0.27    # ADR2 bar position
+        x_end = i + 0.27    # Ampicilina bar position
         x_center = (x_start + x_end) / 2  # Center of the line
         # Position text and line based on merged control max, offset higher than first comparison
         y_line_2 = merged_control_max + base_offset * 4  # Increased by 20%
         y_text_2 = y_line_2 + base_offset * 0.2   # Closer to the line
         
         # If first comparison exists, make sure second is higher
-        if len(control_adr1_data) > 0 and len(adr1_data) > 0:
+        if len(control_kanamicina_data) > 0 and len(kanamicina_data) > 0:
             first_comparison_height = merged_control_max + base_offset * 3.6  # Increased by 20%
             y_line_2 = max(y_line_2, first_comparison_height)
             y_text_2 = y_line_2 + base_offset * 0.2

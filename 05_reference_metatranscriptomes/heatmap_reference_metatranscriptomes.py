@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 import pandas as pd
 import seaborn as sns
@@ -10,6 +10,8 @@ parser = argparse.ArgumentParser(description="Create a heatmap from a dataset")
 parser.add_argument("-i", "--input", required=True, help="Path to the input TSV file")
 parser.add_argument("-o", "--output", required=True, help="Path to save the output heatmap image (e.g., heatmap.png)")
 parser.add_argument("-t", "--tsv_output", required=True, help="Path to save the updated TSV file (e.g., updated_data.tsv)")
+parser.add_argument("-x", "--xlabel", default="Samples", help="Title for the heatmap")
+parser.add_argument("-y", "--ylabel", default="", help="Label for the y-axis")
 args = parser.parse_args()
 
 # Load the dataset
@@ -26,7 +28,7 @@ plt.figure(figsize=(12, 8))
 
 # Create the heatmap with Seaborn using 'Blues' palette
 ax = sns.heatmap(
-    data, 
+    data,  
     cmap="Blues", 
     annot=False,  # Do not display values inside each block
     linewidths=0.5, 
@@ -43,8 +45,8 @@ ax = sns.heatmap(
 # colorbar.set_label("Presence/Absence", rotation=90, labelpad=15)
 
 # Customize labels and title
-plt.xlabel("Adult metatranscriptome samples")
-plt.ylabel("")
+plt.xlabel(args.xlabel)
+plt.ylabel(args.ylabel)
 
 # Apply tight layout to ensure everything fits
 plt.tight_layout()
