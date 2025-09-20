@@ -29,11 +29,9 @@ taxa_order = df['taxa'].unique()
 
 # Define the desired AMP order
 amp_order = [
-    'AMP 2198 (Blautia wexlerae)',
     'AMP 2526 (Romboutsia ilealis)',
     'AMP 3076 (Escherichia coli)',
     'AMP 5245 (Human fecal virus)',
-    'AMP 3096 (Bacteroides spp.)',
     'AMP 8681 (Caudovirales)',
     'AMP 5865 (Faecalibacterium spp.) ',
     'AMP 3020 (Caudovirales)',
