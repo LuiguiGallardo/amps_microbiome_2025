@@ -10,12 +10,10 @@ s_Bacteroides_xylanisolvens	AMP 5865 (Faecalibacterium spp.)	NA	0.8932596	0.0164
 f_Barnesiellaceae	AMP 8681 (Caudovirales)	NA	0.941123948	0.005097541
 g_Barnesiella	AMP 8681 (Caudovirales)	NA	0.941123948	0.005097541
 g_Butyricimonas	AMP 3020 (Caudovirales)	NA	0.941123948	0.005097541
-g_Candidatus_Soleaferrea	AMP 3096 (Bacteroides spp.)	NA	0.81167945	0.049857585
 g_Candidatus_Soleaferrea	AMP 5245 (Human fecal virus)	NA	0.81167945	0.049857585
 f_Christensenellaceae	AMP 8681 (Caudovirales)	NA	0.8196886	0.045837141
 f_Clostridiaceae	AMP 5865 (Faecalibacterium spp.)	NA	0.941123948	0.005097541
 g_Clostridium_sensu_stricto_1	AMP 5865 (Faecalibacterium spp.)	NA	0.941123948	0.005097541
-g_Colidextribacter	AMP 2198 (Blautia wexlerae)	NA	0.880406274	0.020598735
 g_Colidextribacter	AMP 2526 (Romboutsia ilealis)	NA	0.9258201	0.008049893
 g_Coprobacter	AMP 8681 (Caudovirales)	NA	0.8932596	0.016482195
 s_Dialister_invisus	AMP 3020 (Caudovirales)	NA	0.8932596	0.016482195
@@ -42,7 +40,6 @@ f_Puniceicoccaceae	AMP 3020 (Caudovirales)	NA	0.8932596	0.016482195
 g_RF39	AMP 8681 (Caudovirales)	NA	0.941123948	0.005097541
 s_Roseburia_hominis	AMP 5865 (Faecalibacterium spp.)	NA	0.8196886	0.045837141
 s_Ruminococcaceae_bacterium	AMP 3076 (Escherichia coli)	NA	0.954863711	0.003009949
-s_Ruminococcaceae_bacterium	AMP 3096 (Bacteroides spp.)	NA	0.8196886	0.045837141
 s_Ruminococcaceae_bacterium	AMP 5245 (Human fecal virus)	NA	0.941123948	0.005097541
 g_Sutterella	AMP 3020 (Caudovirales)	NA	0.941123948	0.005097541
 s_Sutterella_stercoricanis	AMP 5865 (Faecalibacterium spp.)	NA	0.954863711	0.003009949

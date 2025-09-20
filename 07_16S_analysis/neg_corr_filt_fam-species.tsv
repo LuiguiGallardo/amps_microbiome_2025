@@ -4,15 +4,12 @@ g_Anaeroplasma	AMP 5865 (Faecalibacterium spp.) 	O	-0.880406274	0.020598735
 s_Anaeroplasma sp.	AMP 5865 (Faecalibacterium spp.) 	O	-0.880406274	0.020598735
 f_Akkermansiaceae	AMP 5245 (Human fecal virus)	OMS	-0.828571429	0.041562682
 g_Akkermansia	AMP 5245 (Human fecal virus)	OMS	-0.828571429	0.041562682
-s_Akkermansia muciniphila	AMP 2198 (Blautia wexlerae)	OMS	-0.880406274	0.020598735
 s_Akkermansia muciniphila	AMP 2526 (Romboutsia ilealis)	OMS	-0.9258201	0.008049893
-s_Akkermansia muciniphila	AMP 3096 (Bacteroides spp.)	OMS	-0.885714286	0.018845481
 g_Alistipes	AMP 3076 (Escherichia coli)	OMS	-0.927633657	0.007665844
 g_Alistipes	AMP 5245 (Human fecal virus)	OMS	-0.885714286	0.018845481
 s_Alistipes obesi	AMP 5865 (Faecalibacterium spp.) 	O	-0.941123948	0.005097541
 s_Bacteroides sp.	AMP 3076 (Escherichia coli)	OMS	-0.823193209	0.044127415
 s_Bacteroides sp.	AMP 5245 (Human fecal virus)	OMS	-0.845154255	0.034109423
-s_Bacteroides sp.	AMP 3096 (Bacteroides spp.)	OMS	-0.845154255	0.034109423
 s_Bacteroides sp.	AMP 5865 (Faecalibacterium spp.) 	O	-0.870967742	0.023899836
 f_Christensenellaceae	AMP 3076 (Escherichia coli)	OMS	-0.840668002	0.036057573
 f_Christensenellaceae	AMP 5245 (Human fecal virus)	OMS	-0.885714286	0.018845481
@@ -24,16 +21,11 @@ g_Clostridium	AMP 5865 (Faecalibacterium spp.) 	O	-0.870967742	0.023899836
 s_Clostridium sp.	AMP 5245 (Human fecal virus)	OMS	-0.836660027	0.037840969
 f_Desulfovibrionaceae	AMP 3076 (Escherichia coli)	OMS	-0.927633657	0.007665844
 f_Desulfovibrionaceae	AMP 5245 (Human fecal virus)	OMS	-0.942857143	0.004804665
-f_Desulfovibrionaceae	AMP 3096 (Bacteroides spp.)	OMS	-0.828571429	0.041562682
 g_Bilophila	AMP 3076 (Escherichia coli)	OMS	-0.927633657	0.007665844
 g_Bilophila	AMP 5245 (Human fecal virus)	OMS	-0.942857143	0.004804665
-g_Bilophila	AMP 3096 (Bacteroides spp.)	OMS	-0.828571429	0.041562682
 s_Bilophila wadsworthia	AMP 3076 (Escherichia coli)	OMS	-0.927633657	0.007665844
 s_Bilophila wadsworthia	AMP 5245 (Human fecal virus)	OMS	-0.942857143	0.004804665
-s_Bilophila wadsworthia	AMP 3096 (Bacteroides spp.)	OMS	-0.828571429	0.041562682
-s_Eubacterium sp.	AMP 2198 (Blautia wexlerae)	OMS	-0.870967742	0.023899836
 s_Eubacterium sp.	AMP 2526 (Romboutsia ilealis)	OMS	-0.885364878	0.018958595
-s_Eubacterium sp.	AMP 3096 (Bacteroides spp.)	OMS	-0.880406274	0.020598735
 g_Family XIII AD3011	AMP 3076 (Escherichia coli)	OMS	-0.850841043	0.031713318
 g_Family XIII AD3011	AMP 5245 (Human fecal virus)	OMS	-0.88273483	0.019820417
 g_Family XIII UCG-001	AMP 3076 (Escherichia coli)	OMS	-0.840668002	0.036057573
@@ -49,15 +41,12 @@ g_Lachnospiraceae UCG-010	AMP 3076 (Escherichia coli)	OMS	-0.840668002	0.0360575
 g_Lachnospiraceae UCG-010	AMP 5245 (Human fecal virus)	OMS	-0.885714286	0.018845481
 g_Moryella	AMP 3076 (Escherichia coli)	OMS	-0.970588235	0.001284857
 g_Moryella	AMP 5245 (Human fecal virus)	OMS	-0.927633657	0.007665844
-g_Moryella	AMP 3096 (Bacteroides spp.)	OMS	-0.869656553	0.024376892
 s_Moryella sp.	AMP 3076 (Escherichia coli)	OMS	-0.970588235	0.001284857
 s_Moryella sp.	AMP 5245 (Human fecal virus)	OMS	-0.927633657	0.007665844
-s_Moryella sp.	AMP 3096 (Bacteroides spp.)	OMS	-0.869656553	0.024376892
 g_Oscillospiracea UCG-002	AMP 3076 (Escherichia coli)	OMS	-0.840668002	0.036057573
 g_Oscillospiracea UCG-002	AMP 5245 (Human fecal virus)	OMS	-0.885714286	0.018845481
 s_Oscillibacter sp.	AMP 3076 (Escherichia coli)	OMS	-0.924061655	0.008430994
 s_Oscillibacter sp.	AMP 5245 (Human fecal virus)	OMS	-0.941123948	0.005097541
-s_Oscillibacter sp.	AMP 3096 (Bacteroides spp.)	OMS	-0.8196886	0.045837141
 g_Phocea	AMP 3076 (Escherichia coli)	OMS	-0.892369615	0.016753038
 g_Phocea	AMP 5245 (Human fecal virus)	OMS	-0.83323809	0.039395516
 f_Rikenellaceae	AMP 3076 (Escherichia coli)	OMS	-0.927633657	0.007665844
