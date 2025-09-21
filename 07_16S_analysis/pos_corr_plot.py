@@ -60,7 +60,7 @@ ax = sns.heatmap(heatmap_data, annot=correlation_matrix, fmt='.2f', cmap="Blues_
                  cbar_kws={'label': 'P-value'}, linewidths=0.5, linecolor='gray')
 
 # Customizing the plot
-plt.title("", fontsize=14)
+plt.title("Positive Correlations", fontsize=14, weight='bold')
 plt.xlabel("", fontsize=12)
 plt.ylabel("", fontsize=12)
 plt.xticks(rotation=45, ha='right')
