@@ -1,23 +1,17 @@
 taxa	amp	group	value	pvalue
-f_Acholeplasmataceae	AMP 5865 (Faecalibacterium spp.) 	O	-0.880406274	0.020598735
-g_Anaeroplasma	AMP 5865 (Faecalibacterium spp.) 	O	-0.880406274	0.020598735
-s_Anaeroplasma sp.	AMP 5865 (Faecalibacterium spp.) 	O	-0.880406274	0.020598735
 f_Akkermansiaceae	AMP 5245 (Human fecal virus)	OMS	-0.828571429	0.041562682
 g_Akkermansia	AMP 5245 (Human fecal virus)	OMS	-0.828571429	0.041562682
 s_Akkermansia muciniphila	AMP 2526 (Romboutsia ilealis)	OMS	-0.9258201	0.008049893
 g_Alistipes	AMP 3076 (Escherichia coli)	OMS	-0.927633657	0.007665844
 g_Alistipes	AMP 5245 (Human fecal virus)	OMS	-0.885714286	0.018845481
-s_Alistipes obesi	AMP 5865 (Faecalibacterium spp.) 	O	-0.941123948	0.005097541
 s_Bacteroides sp.	AMP 3076 (Escherichia coli)	OMS	-0.823193209	0.044127415
 s_Bacteroides sp.	AMP 5245 (Human fecal virus)	OMS	-0.845154255	0.034109423
-s_Bacteroides sp.	AMP 5865 (Faecalibacterium spp.) 	O	-0.870967742	0.023899836
 f_Christensenellaceae	AMP 3076 (Escherichia coli)	OMS	-0.840668002	0.036057573
 f_Christensenellaceae	AMP 5245 (Human fecal virus)	OMS	-0.885714286	0.018845481
 g_Christensenellaceae R-7 group	AMP 3076 (Escherichia coli)	OMS	-0.840668002	0.036057573
 g_Christensenellaceae R-7 group	AMP 5245 (Human fecal virus)	OMS	-0.885714286	0.018845481
 s_Christensenella sp.	AMP 3076 (Escherichia coli)	OMS	-0.83165549	0.04012438
 s_Christensenella sp.	AMP 5245 (Human fecal virus)	OMS	-0.880406274	0.020598735
-g_Clostridium	AMP 5865 (Faecalibacterium spp.) 	O	-0.870967742	0.023899836
 s_Clostridium sp.	AMP 5245 (Human fecal virus)	OMS	-0.836660027	0.037840969
 f_Desulfovibrionaceae	AMP 3076 (Escherichia coli)	OMS	-0.927633657	0.007665844
 f_Desulfovibrionaceae	AMP 5245 (Human fecal virus)	OMS	-0.942857143	0.004804665
@@ -36,7 +30,6 @@ g_Gemella	AMP 5245 (Human fecal virus)	OMS	-0.878310066	0.021311641
 g_Holdemania	AMP 3076 (Escherichia coli)	OMS	-0.882352941	0.019947079
 g_Holdemania	AMP 5245 (Human fecal virus)	OMS	-0.81167945	0.049857585
 g_Intestinimonas	AMP 3076 (Escherichia coli)	OMS	-0.81167945	0.049857585
-s_Intestinimonas sp.	AMP 5865 (Faecalibacterium spp.) 	O	-0.885364878	0.018958595
 g_Lachnospiraceae UCG-010	AMP 3076 (Escherichia coli)	OMS	-0.840668002	0.036057573
 g_Lachnospiraceae UCG-010	AMP 5245 (Human fecal virus)	OMS	-0.885714286	0.018845481
 g_Moryella	AMP 3076 (Escherichia coli)	OMS	-0.970588235	0.001284857
